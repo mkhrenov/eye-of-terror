@@ -1,0 +1,3 @@
+struct AxialFluxMotor
+    
+end

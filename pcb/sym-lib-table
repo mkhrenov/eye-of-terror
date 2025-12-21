@@ -1,0 +1,8 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "rpi-lib-kicad-rp235x")(type "KiCad")(uri "${KIPRJMOD}/models/rpi-lib-kicad-rp235x.kicad_sym")(options "")(descr ""))
+  (lib (name "Techcode-Semicon-TD1660")(type "KiCad")(uri "${KIPRJMOD}/models/Techcode-Semicon-TD1660.kicad_sym")(options "")(descr ""))
+  (lib (name "AP6320X-WU")(type "KiCad")(uri "${KIPRJMOD}/models/AP6320X-WU.kicad_sym")(options "")(descr ""))
+  (lib (name "ul_GT-USB-7055A")(type "KiCad")(uri "${KIPRJMOD}/models/ul_GT-USB-7055A.kicad_sym")(options "")(descr ""))
+  (lib (name "molex-2171790001")(type "KiCad")(uri "${KIPRJMOD}/models/molex-2171790001.kicad_sym")(options "")(descr ""))
+)

@@ -5,4 +5,6 @@
   (lib (name "AP6320X-WU")(type "KiCad")(uri "${KIPRJMOD}/models/AP6320X-WU.kicad_sym")(options "")(descr ""))
   (lib (name "ul_GT-USB-7055A")(type "KiCad")(uri "${KIPRJMOD}/models/ul_GT-USB-7055A.kicad_sym")(options "")(descr ""))
   (lib (name "molex-2171790001")(type "KiCad")(uri "${KIPRJMOD}/models/molex-2171790001.kicad_sym")(options "")(descr ""))
+  (lib (name "radiomaster-rp2")(type "KiCad")(uri "${KIPRJMOD}/models/radiomaster-rp2.kicad_sym")(options "")(descr ""))
+  (lib (name "TI_DRV8353HRTAR")(type "KiCad")(uri "${KIPRJMOD}/models/TI_DRV8353HRTAR.kicad_sym")(options "")(descr ""))
 )

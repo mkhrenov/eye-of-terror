@@ -1,4 +1,4 @@
-26767301303686743
+26781336740929430
 ABRACON-AOTA-B201610S3R3-101-T
 ABRACON-AOTA-B201610S3R3-101-T
 
@@ -6,6 +6,27 @@ ABRACON-AOTA-B201610S3R3-101-T
 0
 2
 2
+AP6320X-WU
+SOIC_05WU-7_DIO
+
+AP63205WU-7 
+0
+6
+6
+AP6320X-WU
+SOIC_05WU-7_DIO-L
+
+AP63205WU-7 
+0
+6
+6
+AP6320X-WU
+SOIC_05WU-7_DIO-M
+
+AP63205WU-7 
+0
+6
+6
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -99392,6 +99413,13 @@ DRV8353HRTAR
 0
 53
 42
+Techcode-Semicon-TD1660
+TD1660-SOIC-8
+
+
+0
+9
+8
 TerminalBlock
 TerminalBlock_MaiXu_MX126-5.0-02P_1x02_P5.00mm
 terminal block MaiXu MX126-5.0-02P, 2 pins, pitch 5mm, size 10.5x7.8mm, drill diameter 1.3mm, pad diameter 2.8mm, https://www.lcsc.com/datasheet/lcsc_datasheet_2309150913_MAX-MX126-5-0-03P-GN01-Cu-S-A_C5188435.pdf, script-generated using https://gitlab.com/kicad/libraries/kicad-footprint-generator/-/tree/master/scripts/TerminalBlock_MaiXu
@@ -106378,6 +106406,13 @@ Varistor VF
 0
 2
 2
+inductor-muRataLQH5BPZ4R7NT0L
+IND_LQH5BPZ4R7NT0L
+
+
+0
+2
+2
 radiomaster-rp2
 RP2
 
@@ -106385,3 +106420,24 @@ RP2
 0
 4
 4
+rpi-lib-kicad-rp235x
+QFN-60-1EP_7x7mm_P0.4mm_EP3.4x3.4mm_ThermalVias
+
+
+0
+86
+61
+rpi-lib-kicad-rp235x
+QFN-80-1EP_10x10mm_P0.4mm_EP3.4x3.4mm_ThermalVias
+
+
+0
+106
+81
+ul_GT-USB-7055A
+CONN_GT-USB-7055A_GSW
+
+GT-USB-7055A 
+0
+16
+16

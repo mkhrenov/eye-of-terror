@@ -450,7 +450,12 @@
     "pinned_footprint_libs": [
       "ABRACON-AOTA-B201610S3R3-101-T",
       "radiomaster-rp2",
-      "TI_DRV8353HRTAR"
+      "TI_DRV8353HRTAR",
+      "inductor-muRataLQH5BPZ4R7NT0L",
+      "Techcode-Semicon-TD1660",
+      "AP6320X-WU",
+      "ul_GT-USB-7055A",
+      "rpi-lib-kicad-rp235x"
     ],
     "pinned_symbol_libs": [
       "radiomaster-rp2",

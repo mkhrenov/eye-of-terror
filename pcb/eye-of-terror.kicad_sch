@@ -15852,7 +15852,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm"
 			(at 34.29 226.06 0)
 			(effects
 				(font
@@ -16232,7 +16232,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical"
 			(at 124.46 219.71 0)
 			(effects
 				(font
@@ -16911,7 +16911,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm"
 			(at 34.29 236.22 0)
 			(effects
 				(font
@@ -17264,7 +17264,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm"
 			(at 309.88 351.79 0)
 			(effects
 				(font
@@ -17878,7 +17878,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm"
 			(at 370.84 382.27 0)
 			(effects
 				(font
@@ -18233,7 +18233,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ul_GT-USB-7055A:CONN_GT-USB-7055A_GSW"
 			(at 107.95 386.08 0)
 			(effects
 				(font
@@ -18333,7 +18333,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_SMD:SW_Push_SPST_NO_Alps_SKRK"
 			(at 198.12 177.8 0)
 			(effects
 				(font
@@ -19015,7 +19015,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "inductor-muRataLQH5BPZ4R7NT0L:IND_LQH5BPZ4R7NT0L"
 			(at 83.82 289.56 0)
 			(effects
 				(font
@@ -19420,7 +19420,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_SMD:SW_Push_SPST_NO_Alps_SKRK"
 			(at 212.09 156.21 0)
 			(effects
 				(font
@@ -19896,7 +19896,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm"
 			(at 34.29 241.3 0)
 			(effects
 				(font
@@ -20098,7 +20098,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm"
 			(at 34.29 238.76 0)
 			(effects
 				(font
@@ -20855,7 +20855,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_SMD:L_Sunlord_MWSA0402S"
 			(at 76.2 325.12 0)
 			(effects
 				(font
@@ -21396,7 +21396,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical"
 			(at 147.32 322.58 0)
 			(effects
 				(font
@@ -21880,7 +21880,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm"
 			(at 369.57 351.79 0)
 			(effects
 				(font
@@ -22016,7 +22016,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm"
 			(at 157.48 229.87 0)
 			(effects
 				(font
@@ -22226,7 +22226,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm"
 			(at 255.27 382.27 0)
 			(effects
 				(font
@@ -24317,7 +24317,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm"
 			(at 109.22 245.11 0)
 			(effects
 				(font
@@ -25304,7 +25304,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:CP_Elec_5x5.4"
 			(at 256.54 208.28 0)
 			(effects
 				(font
@@ -26537,7 +26537,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm"
 			(at 311.15 382.27 0)
 			(effects
 				(font
@@ -26956,7 +26956,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Techcode-Semicon-TD1660:TD1660-SOIC-8"
 			(at 44.45 322.58 0)
 			(effects
 				(font
@@ -27714,7 +27714,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm"
 			(at 254 351.79 0)
 			(effects
 				(font
@@ -29540,7 +29540,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical"
 			(at 124.46 242.57 0)
 			(effects
 				(font
@@ -30103,7 +30103,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm"
 			(at 109.22 247.65 0)
 			(effects
 				(font
@@ -30723,7 +30723,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:CP_Elec_5x5.4"
 			(at 22.86 293.37 0)
 			(effects
 				(font
@@ -31026,7 +31026,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm"
 			(at 109.22 224.79 0)
 			(effects
 				(font
@@ -31296,7 +31296,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm"
 			(at 109.22 222.25 0)
 			(effects
 				(font
@@ -31434,7 +31434,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SOIC_05WU-7_DIO"
+		(property "Footprint" "AP6320X-WU:SOIC_05WU-7_DIO"
 			(at 44.45 287.02 0)
 			(effects
 				(font

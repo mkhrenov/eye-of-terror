@@ -1629,132 +1629,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Device:NetTie_2"
-			(pin_numbers
-				(hide yes)
-			)
-			(pin_names
-				(offset 0)
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom no)
-			(on_board yes)
-			(property "Reference" "NT"
-				(at 0 1.27 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "NetTie_2"
-				(at 0 -1.27 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "~"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Net tie, 2 pins"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "net tie short"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "Net*Tie*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "NetTie_2_0_1"
-				(polyline
-					(pts
-						(xy -1.27 0) (xy 1.27 0)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "NetTie_2_1_1"
-				(pin passive line
-					(at -2.54 0 0)
-					(length 2.54)
-					(name "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 2.54 0 180)
-					(length 2.54)
-					(name "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "Device:Q_Photo_NPN"
 			(pin_names
 				(offset 0)
@@ -2579,254 +2453,6 @@
 						)
 					)
 					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "Jumper:SolderJumper_3_Open"
-			(pin_names
-				(offset 0)
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom no)
-			(on_board yes)
-			(property "Reference" "JP"
-				(at -2.54 -2.54 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "SolderJumper_3_Open"
-				(at 0 2.794 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "~"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Solder Jumper, 3-pole, open"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "Solder Jumper SPDT"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "SolderJumper*Open*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "SolderJumper_3_Open_0_1"
-				(polyline
-					(pts
-						(xy -2.54 0) (xy -2.032 0)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.016 1.016) (xy -1.016 -1.016)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start -1.016 -1.016)
-					(mid -2.0276 0)
-					(end -1.016 1.016)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start -1.016 -1.016)
-					(mid -2.0276 0)
-					(end -1.016 1.016)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(rectangle
-					(start -0.508 1.016)
-					(end 0.508 -1.016)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 -1.27) (xy 0 -1.016)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start 1.016 1.016)
-					(mid 2.0276 0)
-					(end 1.016 -1.016)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start 1.016 1.016)
-					(mid 2.0276 0)
-					(end 1.016 -1.016)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.016 1.016) (xy 1.016 -1.016)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 2.54 0) (xy 2.032 0)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "SolderJumper_3_Open_1_1"
-				(pin passive line
-					(at -5.08 0 0)
-					(length 2.54)
-					(name "A"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -3.81 90)
-					(length 2.54)
-					(name "C"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 5.08 0 180)
-					(length 2.54)
-					(name "B"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -8632,7 +8258,7 @@
 		(uuid "22063a35-8d12-41b9-8319-718232c9e0fc")
 	)
 	(junction
-		(at 185.42 383.54)
+		(at 191.77 383.54)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "26750c00-6fd4-44d5-a59f-4e8830f79b64")
@@ -8944,7 +8570,7 @@
 		(uuid "92208754-8d34-42ab-99e3-2d68e74c8e94")
 	)
 	(junction
-		(at 207.01 383.54)
+		(at 213.36 383.54)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "95d34f69-b581-4005-8657-b3f34b256438")
@@ -9193,7 +8819,7 @@
 	)
 	(wire
 		(pts
-			(xy 194.31 383.54) (xy 207.01 383.54)
+			(xy 200.66 383.54) (xy 213.36 383.54)
 		)
 		(stroke
 			(width 0)
@@ -9353,16 +8979,6 @@
 	)
 	(wire
 		(pts
-			(xy 541.02 100.33) (xy 543.56 100.33)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "058418e9-6a38-4f5f-9036-428138550427")
-	)
-	(wire
-		(pts
 			(xy 516.89 339.09) (xy 519.43 339.09)
 		)
 		(stroke
@@ -9513,16 +9129,6 @@
 	)
 	(wire
 		(pts
-			(xy 215.9 314.96) (xy 215.9 316.23)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0ace4fbb-0f5c-4996-bd7e-c4a07deb8309")
-	)
-	(wire
-		(pts
 			(xy 76.2 214.63) (xy 76.2 217.17)
 		)
 		(stroke
@@ -9633,7 +9239,7 @@
 	)
 	(wire
 		(pts
-			(xy 207.01 383.54) (xy 207.01 388.62)
+			(xy 213.36 383.54) (xy 213.36 388.62)
 		)
 		(stroke
 			(width 0)
@@ -9713,16 +9319,6 @@
 	)
 	(wire
 		(pts
-			(xy 226.06 314.96) (xy 226.06 316.23)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "129d4a4b-9c75-4156-94b9-00eabcb8483a")
-	)
-	(wire
-		(pts
 			(xy 266.7 156.21) (xy 266.7 153.67)
 		)
 		(stroke
@@ -9780,16 +9376,6 @@
 			(type default)
 		)
 		(uuid "15eefd1c-09c7-4b37-86d1-fefbbbf15e0b")
-	)
-	(wire
-		(pts
-			(xy 219.71 53.34) (xy 223.52 53.34)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "17b102f2-b634-44c4-b9fc-c6098ad0b7c7")
 	)
 	(wire
 		(pts
@@ -9923,16 +9509,6 @@
 	)
 	(wire
 		(pts
-			(xy 533.4 95.25) (xy 543.56 95.25)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1d9f28f4-7ea7-476f-b166-9a6b9564b760")
-	)
-	(wire
-		(pts
 			(xy 147.32 54.61) (xy 147.32 57.15)
 		)
 		(stroke
@@ -9950,26 +9526,6 @@
 			(type default)
 		)
 		(uuid "1fcfd924-41e6-41a4-8024-b37f2e99d04a")
-	)
-	(wire
-		(pts
-			(xy 471.17 91.44) (xy 471.17 93.98)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1ff54d7c-cfc0-4d7f-981b-6d6ab4924b5b")
-	)
-	(wire
-		(pts
-			(xy 483.87 45.72) (xy 486.41 45.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2019dc29-1eda-4fe9-b20e-5e10c566b780")
 	)
 	(wire
 		(pts
@@ -10273,7 +9829,7 @@
 	)
 	(wire
 		(pts
-			(xy 207.01 393.7) (xy 207.01 397.51)
+			(xy 213.36 393.7) (xy 213.36 397.51)
 		)
 		(stroke
 			(width 0)
@@ -10373,16 +9929,6 @@
 	)
 	(wire
 		(pts
-			(xy 483.87 100.33) (xy 486.41 100.33)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2badc512-76b1-4f29-b392-e819521a59b6")
-	)
-	(wire
-		(pts
 			(xy 99.06 34.29) (xy 99.06 36.83)
 		)
 		(stroke
@@ -10463,16 +10009,6 @@
 	)
 	(wire
 		(pts
-			(xy 483.87 45.72) (xy 483.87 48.26)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2f2d20be-e5c7-4a68-ada3-79f7347ab5b6")
-	)
-	(wire
-		(pts
 			(xy 118.11 219.71) (xy 118.11 242.57)
 		)
 		(stroke
@@ -10513,16 +10049,6 @@
 	)
 	(wire
 		(pts
-			(xy 190.5 314.96) (xy 191.77 314.96)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "30d5ee08-01d7-4e16-8164-b7cc8e400c30")
-	)
-	(wire
-		(pts
 			(xy 222.25 232.41) (xy 222.25 240.03)
 		)
 		(stroke
@@ -10560,16 +10086,6 @@
 			(type default)
 		)
 		(uuid "311e0cc5-0775-4302-a4dc-21ec730441de")
-	)
-	(wire
-		(pts
-			(xy 200.66 314.96) (xy 198.12 314.96)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "31769e4d-9e7f-412c-880a-7e45516783fe")
 	)
 	(wire
 		(pts
@@ -10683,16 +10199,6 @@
 	)
 	(wire
 		(pts
-			(xy 523.24 68.58) (xy 543.56 68.58)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "34207c1b-a15e-448a-8057-18988980b2f7")
-	)
-	(wire
-		(pts
 			(xy 53.34 82.55) (xy 66.04 82.55)
 		)
 		(stroke
@@ -10753,16 +10259,6 @@
 	)
 	(wire
 		(pts
-			(xy 541.02 45.72) (xy 541.02 48.26)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "35172930-b8cb-4477-88d8-e20006114025")
-	)
-	(wire
-		(pts
 			(xy 436.88 307.34) (xy 436.88 309.88)
 		)
 		(stroke
@@ -10793,16 +10289,6 @@
 	)
 	(wire
 		(pts
-			(xy 541.02 71.12) (xy 543.56 71.12)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "35e3b580-8fe7-48dd-8752-2ac4f314d9c8")
-	)
-	(wire
-		(pts
 			(xy 290.83 49.53) (xy 298.45 49.53)
 		)
 		(stroke
@@ -10810,16 +10296,6 @@
 			(type default)
 		)
 		(uuid "367ca4d3-7453-42ca-a59d-30c871ddc75e")
-	)
-	(wire
-		(pts
-			(xy 528.32 62.23) (xy 528.32 64.77)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "367f4e4c-dc34-4c90-97bb-1bf5c318462b")
 	)
 	(wire
 		(pts
@@ -10870,16 +10346,6 @@
 			(type default)
 		)
 		(uuid "39940b14-0c43-48e7-83b3-0e1dd2ad42c6")
-	)
-	(wire
-		(pts
-			(xy 223.52 314.96) (xy 226.06 314.96)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "39a782df-3980-4ec7-805d-dcf22fe4f38b")
 	)
 	(wire
 		(pts
@@ -10983,16 +10449,6 @@
 	)
 	(wire
 		(pts
-			(xy 461.01 36.83) (xy 461.01 39.37)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "432ca038-0ccb-445e-89bc-3c565921a602")
-	)
-	(wire
-		(pts
 			(xy 71.12 228.6) (xy 74.93 228.6)
 		)
 		(stroke
@@ -11053,16 +10509,6 @@
 	)
 	(wire
 		(pts
-			(xy 483.87 100.33) (xy 483.87 102.87)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "44fd383c-62df-420a-ae56-4df55e7e73e9")
-	)
-	(wire
-		(pts
 			(xy 53.34 59.69) (xy 66.04 59.69)
 		)
 		(stroke
@@ -11103,16 +10549,6 @@
 	)
 	(wire
 		(pts
-			(xy 471.17 36.83) (xy 471.17 39.37)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "45e8e60f-1fb5-4dcf-a8e5-75e95488673b")
-	)
-	(wire
-		(pts
 			(xy 33.02 396.24) (xy 33.02 392.43)
 		)
 		(stroke
@@ -11130,16 +10566,6 @@
 			(type default)
 		)
 		(uuid "486a1092-b2bd-48d1-8d9c-910023a94b44")
-	)
-	(wire
-		(pts
-			(xy 408.94 62.23) (xy 408.94 64.77)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "49183870-fbb6-4df8-87b0-44d3e70d28e3")
 	)
 	(wire
 		(pts
@@ -11463,16 +10889,6 @@
 	)
 	(wire
 		(pts
-			(xy 476.25 95.25) (xy 486.41 95.25)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "550c9c95-8087-4472-98ba-4d84ee7ef7a3")
-	)
-	(wire
-		(pts
 			(xy 57.15 36.83) (xy 57.15 38.1)
 		)
 		(stroke
@@ -11503,16 +10919,6 @@
 	)
 	(wire
 		(pts
-			(xy 466.09 43.18) (xy 486.41 43.18)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "55f97fd2-437b-46b6-9347-f6f7810cc9d6")
-	)
-	(wire
-		(pts
 			(xy 49.53 143.51) (xy 66.04 143.51)
 		)
 		(stroke
@@ -11540,16 +10946,6 @@
 			(type default)
 		)
 		(uuid "574d184d-f836-49c0-9b92-a28b8e0844a1")
-	)
-	(wire
-		(pts
-			(xy 461.01 91.44) (xy 461.01 93.98)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "57ba7d27-6224-47bb-bd55-f0e78cc01745")
 	)
 	(wire
 		(pts
@@ -11603,7 +10999,7 @@
 	)
 	(wire
 		(pts
-			(xy 185.42 383.54) (xy 185.42 388.62)
+			(xy 191.77 383.54) (xy 191.77 388.62)
 		)
 		(stroke
 			(width 0)
@@ -11630,16 +11026,6 @@
 			(type default)
 		)
 		(uuid "5b0591c4-f527-4384-9beb-936142a15db1")
-	)
-	(wire
-		(pts
-			(xy 223.52 53.34) (xy 223.52 55.88)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5b2f078b-efe3-46a1-bcac-477069c5901f")
 	)
 	(wire
 		(pts
@@ -11793,16 +11179,6 @@
 	)
 	(wire
 		(pts
-			(xy 541.02 71.12) (xy 541.02 73.66)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "62e1affc-b3eb-41d2-8474-26c560d89448")
-	)
-	(wire
-		(pts
 			(xy 359.41 276.86) (xy 372.11 276.86)
 		)
 		(stroke
@@ -11820,16 +11196,6 @@
 			(type default)
 		)
 		(uuid "63a7b39e-a540-4b23-ab9c-c8083d196aef")
-	)
-	(wire
-		(pts
-			(xy 186.69 340.36) (xy 182.88 340.36)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "63fe3b45-70c6-490f-b8c8-8017417aae13")
 	)
 	(wire
 		(pts
@@ -11883,16 +11249,6 @@
 	)
 	(wire
 		(pts
-			(xy 483.87 71.12) (xy 483.87 73.66)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6596a708-fa21-4180-809c-e28114dc4b88")
-	)
-	(wire
-		(pts
 			(xy 298.45 382.27) (xy 307.34 382.27)
 		)
 		(stroke
@@ -11910,16 +11266,6 @@
 			(type default)
 		)
 		(uuid "66705034-e260-4184-83bf-4baea044f54a")
-	)
-	(wire
-		(pts
-			(xy 424.18 40.64) (xy 434.34 40.64)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6671d045-a3ee-4668-8ff9-b244437c0d7b")
 	)
 	(wire
 		(pts
@@ -11973,16 +11319,6 @@
 	)
 	(wire
 		(pts
-			(xy 191.77 331.47) (xy 194.31 331.47)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "67f8a67b-e85a-4ef3-b0b1-0a1b009b31ac")
-	)
-	(wire
-		(pts
 			(xy 175.26 224.79) (xy 175.26 215.9)
 		)
 		(stroke
@@ -12033,16 +11369,6 @@
 	)
 	(wire
 		(pts
-			(xy 205.74 314.96) (xy 208.28 314.96)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "69c4d8b0-b9b7-4241-bea6-b99434ffed6a")
-	)
-	(wire
-		(pts
 			(xy 116.84 133.35) (xy 130.81 133.35)
 		)
 		(stroke
@@ -12080,16 +11406,6 @@
 			(type default)
 		)
 		(uuid "6aaa62a0-895b-42c6-b2bd-147cf95c6d55")
-	)
-	(wire
-		(pts
-			(xy 414.02 43.18) (xy 434.34 43.18)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6ab6c7fe-5440-46f5-a7b9-2a63bfcebb8c")
 	)
 	(wire
 		(pts
@@ -12203,16 +11519,6 @@
 	)
 	(wire
 		(pts
-			(xy 523.24 43.18) (xy 543.56 43.18)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6fedc0cb-a841-4746-8899-863dd657b2fe")
-	)
-	(wire
-		(pts
 			(xy 49.53 151.13) (xy 66.04 151.13)
 		)
 		(stroke
@@ -12270,16 +11576,6 @@
 			(type default)
 		)
 		(uuid "729eab89-38fb-4165-aa04-c826ce561400")
-	)
-	(wire
-		(pts
-			(xy 181.61 41.91) (xy 199.39 41.91)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "72dff96f-11f7-4e9d-96f3-0c6e9bc745b3")
 	)
 	(wire
 		(pts
@@ -12350,16 +11646,6 @@
 			(type default)
 		)
 		(uuid "7472e854-4f8e-4eba-9854-06a18a737cf9")
-	)
-	(wire
-		(pts
-			(xy 528.32 36.83) (xy 528.32 39.37)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "74a5c3ae-c073-4269-9880-865886839547")
 	)
 	(wire
 		(pts
@@ -12443,16 +11729,6 @@
 	)
 	(wire
 		(pts
-			(xy 518.16 91.44) (xy 518.16 93.98)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "76c56700-9dd4-44d2-aa6d-35abd037268e")
-	)
-	(wire
-		(pts
 			(xy 71.12 226.06) (xy 71.12 228.6)
 		)
 		(stroke
@@ -12530,16 +11806,6 @@
 			(type default)
 		)
 		(uuid "781ccc9f-1832-4bf2-a008-0da56bf7e24a")
-	)
-	(wire
-		(pts
-			(xy 419.1 36.83) (xy 419.1 39.37)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "782ea74f-dc20-4975-a170-bc3e8d04b9b1")
 	)
 	(wire
 		(pts
@@ -12893,16 +12159,6 @@
 	)
 	(wire
 		(pts
-			(xy 533.4 66.04) (xy 543.56 66.04)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "87abb986-d8f6-4691-8701-72bc8e5d378d")
-	)
-	(wire
-		(pts
 			(xy 297.18 270.51) (xy 311.15 270.51)
 		)
 		(stroke
@@ -12960,26 +12216,6 @@
 			(type default)
 		)
 		(uuid "8ab5bf68-274b-4c89-ba8b-4b2e16fedb94")
-	)
-	(wire
-		(pts
-			(xy 185.42 313.69) (xy 182.88 313.69)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8c248251-f4d7-4805-afb0-428e28cd8c71")
-	)
-	(wire
-		(pts
-			(xy 533.4 40.64) (xy 543.56 40.64)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8c50081e-20fa-466b-9b49-114ae885f301")
 	)
 	(wire
 		(pts
@@ -13073,16 +12309,6 @@
 	)
 	(wire
 		(pts
-			(xy 431.8 45.72) (xy 431.8 48.26)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8f8baf7c-1552-4435-ae20-981043e1fca4")
-	)
-	(wire
-		(pts
 			(xy 326.39 246.38) (xy 326.39 250.19)
 		)
 		(stroke
@@ -13113,16 +12339,6 @@
 	)
 	(wire
 		(pts
-			(xy 466.09 97.79) (xy 486.41 97.79)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "918601d3-e73e-4d18-8372-35f57b0427e5")
-	)
-	(wire
-		(pts
 			(xy 490.22 283.21) (xy 490.22 284.48)
 		)
 		(stroke
@@ -13150,16 +12366,6 @@
 			(type default)
 		)
 		(uuid "92103248-6938-48b3-a5f4-4d50a65d161c")
-	)
-	(wire
-		(pts
-			(xy 181.61 53.34) (xy 199.39 53.34)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "922826b2-5877-41e7-8754-3783c07f9220")
 	)
 	(wire
 		(pts
@@ -13343,16 +12549,6 @@
 	)
 	(wire
 		(pts
-			(xy 182.88 318.77) (xy 185.42 318.77)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "970c1167-93a6-47ef-be99-36a33b643e76")
-	)
-	(wire
-		(pts
 			(xy 350.52 82.55) (xy 359.41 82.55)
 		)
 		(stroke
@@ -13410,16 +12606,6 @@
 			(type default)
 		)
 		(uuid "97dd1aaa-cfc2-45f3-8951-b51a354a6f34")
-	)
-	(wire
-		(pts
-			(xy 186.69 331.47) (xy 182.88 331.47)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "982f6f7b-dc0f-4c1f-b60c-6e01135f1d2a")
 	)
 	(wire
 		(pts
@@ -13483,16 +12669,6 @@
 	)
 	(wire
 		(pts
-			(xy 191.77 314.96) (xy 191.77 317.5)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9a26b80e-74e9-4d4a-a8bb-f4850b915379")
-	)
-	(wire
-		(pts
 			(xy 449.58 294.64) (xy 464.82 294.64)
 		)
 		(stroke
@@ -13500,16 +12676,6 @@
 			(type default)
 		)
 		(uuid "9a7af905-b2bd-4faa-a1cd-a519e0dd3bf3")
-	)
-	(wire
-		(pts
-			(xy 207.01 53.34) (xy 214.63 53.34)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9a884003-a4c7-4f52-aceb-3aede86a81e5")
 	)
 	(wire
 		(pts
@@ -13573,7 +12739,7 @@
 	)
 	(wire
 		(pts
-			(xy 185.42 379.73) (xy 185.42 383.54)
+			(xy 191.77 379.73) (xy 191.77 383.54)
 		)
 		(stroke
 			(width 0)
@@ -13663,16 +12829,6 @@
 	)
 	(wire
 		(pts
-			(xy 466.09 68.58) (xy 486.41 68.58)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a14c21b8-297e-461e-a811-e8d03ec7ee8f")
-	)
-	(wire
-		(pts
 			(xy 116.84 118.11) (xy 130.81 118.11)
 		)
 		(stroke
@@ -13690,16 +12846,6 @@
 			(type default)
 		)
 		(uuid "a1a692e4-831d-456b-a041-2542750ce596")
-	)
-	(wire
-		(pts
-			(xy 208.28 314.96) (xy 208.28 316.23)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a1b7afa9-4340-4f40-8905-baa8179ee43f")
 	)
 	(wire
 		(pts
@@ -13873,26 +13019,6 @@
 	)
 	(wire
 		(pts
-			(xy 461.01 62.23) (xy 461.01 64.77)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a6ca834e-cfe2-4390-ba4d-65847c1edb8c")
-	)
-	(wire
-		(pts
-			(xy 223.52 41.91) (xy 223.52 44.45)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a6f9b038-1071-4a89-9bc3-094a43afd31f")
-	)
-	(wire
-		(pts
 			(xy 284.48 153.67) (xy 284.48 154.94)
 		)
 		(stroke
@@ -13953,16 +13079,6 @@
 	)
 	(wire
 		(pts
-			(xy 476.25 40.64) (xy 486.41 40.64)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a8807afa-0e37-4340-9e40-81eb9df2894a")
-	)
-	(wire
-		(pts
 			(xy 53.34 69.85) (xy 66.04 69.85)
 		)
 		(stroke
@@ -13990,16 +13106,6 @@
 			(type default)
 		)
 		(uuid "a88e90ee-1fe3-4bbf-8001-b64d477a7480")
-	)
-	(wire
-		(pts
-			(xy 424.18 95.25) (xy 434.34 95.25)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a8a17e0e-711b-4259-b9f8-2e24aefcbead")
 	)
 	(wire
 		(pts
@@ -14043,16 +13149,6 @@
 	)
 	(wire
 		(pts
-			(xy 223.52 30.48) (xy 223.52 33.02)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a94d6e1d-090f-4880-970c-3e4c52e21cab")
-	)
-	(wire
-		(pts
 			(xy 294.64 90.17) (xy 304.8 90.17)
 		)
 		(stroke
@@ -14070,26 +13166,6 @@
 			(type default)
 		)
 		(uuid "a98aaa9b-c45a-4953-a293-4aaf7f1f89c3")
-	)
-	(wire
-		(pts
-			(xy 408.94 91.44) (xy 408.94 93.98)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "aa3c9345-6e87-41d3-91ea-ab49258f7fd5")
-	)
-	(wire
-		(pts
-			(xy 198.12 314.96) (xy 198.12 316.23)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "aaa697e4-5970-4fa4-a7a6-6790d4b52d7a")
 	)
 	(wire
 		(pts
@@ -14143,7 +13219,7 @@
 	)
 	(wire
 		(pts
-			(xy 207.01 370.84) (xy 207.01 374.65)
+			(xy 213.36 370.84) (xy 213.36 374.65)
 		)
 		(stroke
 			(width 0)
@@ -14170,16 +13246,6 @@
 			(type default)
 		)
 		(uuid "ad3482fb-f88a-4c93-8c29-f08c8ec800be")
-	)
-	(wire
-		(pts
-			(xy 541.02 100.33) (xy 541.02 102.87)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ad4738e8-793e-4fd1-aad4-eea6e74be035")
 	)
 	(wire
 		(pts
@@ -14273,16 +13339,6 @@
 	)
 	(wire
 		(pts
-			(xy 431.8 71.12) (xy 431.8 73.66)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b09c4c89-96c1-4ef3-80a3-1cd91db3a4e2")
-	)
-	(wire
-		(pts
 			(xy 561.34 259.08) (xy 561.34 261.62)
 		)
 		(stroke
@@ -14300,16 +13356,6 @@
 			(type default)
 		)
 		(uuid "b2008d95-367a-497e-8de8-2d01937535ba")
-	)
-	(wire
-		(pts
-			(xy 419.1 62.23) (xy 419.1 64.77)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b27e3d6f-2a81-4ac2-945a-63aa789adf62")
 	)
 	(wire
 		(pts
@@ -14363,7 +13409,7 @@
 	)
 	(wire
 		(pts
-			(xy 185.42 393.7) (xy 185.42 397.51)
+			(xy 191.77 393.7) (xy 191.77 397.51)
 		)
 		(stroke
 			(width 0)
@@ -14450,26 +13496,6 @@
 			(type default)
 		)
 		(uuid "b69dbd99-bf38-4c72-b24c-9aabf32f001b")
-	)
-	(wire
-		(pts
-			(xy 523.24 97.79) (xy 543.56 97.79)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b6ba7352-bbd4-4cb5-b915-89cce732e9d8")
-	)
-	(wire
-		(pts
-			(xy 219.71 41.91) (xy 223.52 41.91)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b6f66481-67f4-48f8-8d4d-33ad001dd7a5")
 	)
 	(wire
 		(pts
@@ -14583,26 +13609,6 @@
 	)
 	(wire
 		(pts
-			(xy 424.18 66.04) (xy 434.34 66.04)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b93be65a-c126-4ce9-9906-06eec1a7112e")
-	)
-	(wire
-		(pts
-			(xy 518.16 36.83) (xy 518.16 39.37)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b9b440a2-3a6e-46ef-8b25-691991dc9bfb")
-	)
-	(wire
-		(pts
 			(xy 57.15 30.48) (xy 57.15 31.75)
 		)
 		(stroke
@@ -14643,7 +13649,7 @@
 	)
 	(wire
 		(pts
-			(xy 172.72 383.54) (xy 185.42 383.54)
+			(xy 179.07 383.54) (xy 191.77 383.54)
 		)
 		(stroke
 			(width 0)
@@ -14720,16 +13726,6 @@
 			(type default)
 		)
 		(uuid "bcd368d0-706f-4711-ac12-d0555a01c5cd")
-	)
-	(wire
-		(pts
-			(xy 541.02 45.72) (xy 543.56 45.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bcf76eac-8417-428f-bb6b-86f823ee1d3d")
 	)
 	(wire
 		(pts
@@ -14813,16 +13809,6 @@
 	)
 	(wire
 		(pts
-			(xy 419.1 91.44) (xy 419.1 93.98)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bf76ca88-6201-40eb-922c-2e24880da42c")
-	)
-	(wire
-		(pts
 			(xy 293.37 287.02) (xy 303.53 287.02)
 		)
 		(stroke
@@ -14903,7 +13889,7 @@
 	)
 	(wire
 		(pts
-			(xy 185.42 370.84) (xy 185.42 374.65)
+			(xy 191.77 370.84) (xy 191.77 374.65)
 		)
 		(stroke
 			(width 0)
@@ -14940,16 +13926,6 @@
 			(type default)
 		)
 		(uuid "c32d85eb-ca9e-48f3-ab74-646c10110a16")
-	)
-	(wire
-		(pts
-			(xy 185.42 314.96) (xy 185.42 313.69)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c36874aa-d7e4-47d0-b01c-c015254ab6b1")
 	)
 	(wire
 		(pts
@@ -15063,16 +14039,6 @@
 	)
 	(wire
 		(pts
-			(xy 414.02 97.79) (xy 434.34 97.79)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ca04fa29-efbf-4a5f-bede-dd293686fa28")
-	)
-	(wire
-		(pts
 			(xy 397.51 260.35) (xy 397.51 262.89)
 		)
 		(stroke
@@ -15113,16 +14079,6 @@
 	)
 	(wire
 		(pts
-			(xy 191.77 340.36) (xy 194.31 340.36)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "cc058513-0613-4b17-9fe4-a2bd66bc9c5a")
-	)
-	(wire
-		(pts
 			(xy 504.19 326.39) (xy 506.73 326.39)
 		)
 		(stroke
@@ -15130,26 +14086,6 @@
 			(type default)
 		)
 		(uuid "cc110f79-d4bb-49fe-8272-7e58f26a802f")
-	)
-	(wire
-		(pts
-			(xy 220.98 335.28) (xy 223.52 335.28)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "cc3afc61-3340-43c3-8e16-e3cdbbe01462")
-	)
-	(wire
-		(pts
-			(xy 414.02 68.58) (xy 434.34 68.58)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "cc57e23f-7ab5-423e-b81a-6c4abf74e9cf")
 	)
 	(wire
 		(pts
@@ -15293,16 +14229,6 @@
 	)
 	(wire
 		(pts
-			(xy 219.71 30.48) (xy 223.52 30.48)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d2bb5b0c-f330-4625-b006-f0622d7122ea")
-	)
-	(wire
-		(pts
 			(xy 111.76 34.29) (xy 111.76 36.83)
 		)
 		(stroke
@@ -15323,16 +14249,6 @@
 	)
 	(wire
 		(pts
-			(xy 518.16 62.23) (xy 518.16 64.77)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d3f63db4-660a-4480-84ed-ec989fec7041")
-	)
-	(wire
-		(pts
 			(xy 71.12 354.33) (xy 71.12 358.14)
 		)
 		(stroke
@@ -15350,16 +14266,6 @@
 			(type default)
 		)
 		(uuid "d4975581-e3a4-4f73-acb0-5a6ace8c1066")
-	)
-	(wire
-		(pts
-			(xy 483.87 71.12) (xy 486.41 71.12)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d49bef8f-5ae7-4675-983e-24cccefed188")
 	)
 	(wire
 		(pts
@@ -15553,16 +14459,6 @@
 	)
 	(wire
 		(pts
-			(xy 528.32 91.44) (xy 528.32 93.98)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "dcf57008-4d52-4965-b310-457051603e0d")
-	)
-	(wire
-		(pts
 			(xy 133.35 289.56) (xy 133.35 292.1)
 		)
 		(stroke
@@ -15570,16 +14466,6 @@
 			(type default)
 		)
 		(uuid "dd40bea6-6eaa-471c-a038-0fbef5876d00")
-	)
-	(wire
-		(pts
-			(xy 207.01 30.48) (xy 214.63 30.48)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "dd419e26-feb2-48ff-8b26-e238054387c2")
 	)
 	(wire
 		(pts
@@ -15620,16 +14506,6 @@
 			(type default)
 		)
 		(uuid "de54d629-9118-4f67-8777-d97e97283ccd")
-	)
-	(wire
-		(pts
-			(xy 431.8 71.12) (xy 434.34 71.12)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "de584ee5-1d21-4baa-b58e-053a43f4769f")
 	)
 	(wire
 		(pts
@@ -15813,16 +14689,6 @@
 	)
 	(wire
 		(pts
-			(xy 476.25 66.04) (xy 486.41 66.04)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e5bac6dc-5f06-46c2-bc32-07b70d996d4c")
-	)
-	(wire
-		(pts
 			(xy 82.55 31.75) (xy 82.55 30.48)
 		)
 		(stroke
@@ -15833,16 +14699,6 @@
 	)
 	(wire
 		(pts
-			(xy 207.01 41.91) (xy 214.63 41.91)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e72cbc27-db17-429f-a150-4a7801c98c6e")
-	)
-	(wire
-		(pts
 			(xy 64.77 38.1) (xy 64.77 40.64)
 		)
 		(stroke
@@ -15850,16 +14706,6 @@
 			(type default)
 		)
 		(uuid "e7b0a936-9627-4952-8027-9469d855cc76")
-	)
-	(wire
-		(pts
-			(xy 218.44 314.96) (xy 215.9 314.96)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e7b1ef02-2179-4def-8740-d11dd2d92f3b")
 	)
 	(wire
 		(pts
@@ -15923,7 +14769,7 @@
 	)
 	(wire
 		(pts
-			(xy 207.01 379.73) (xy 207.01 383.54)
+			(xy 213.36 379.73) (xy 213.36 383.54)
 		)
 		(stroke
 			(width 0)
@@ -16003,16 +14849,6 @@
 	)
 	(wire
 		(pts
-			(xy 431.8 100.33) (xy 434.34 100.33)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "eef55f77-04a5-4074-b052-c5592facd4d7")
-	)
-	(wire
-		(pts
 			(xy 393.7 382.27) (xy 393.7 386.08)
 		)
 		(stroke
@@ -16020,16 +14856,6 @@
 			(type default)
 		)
 		(uuid "ef0aec82-24d1-4b43-9e71-e35dc42aa552")
-	)
-	(wire
-		(pts
-			(xy 431.8 100.33) (xy 431.8 102.87)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "efaf2d56-e7c2-4626-a70a-7e6632b7ddca")
 	)
 	(wire
 		(pts
@@ -16243,16 +15069,6 @@
 	)
 	(wire
 		(pts
-			(xy 185.42 318.77) (xy 185.42 317.5)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f8e791e1-2262-4d0d-897d-841bfd3bff27")
-	)
-	(wire
-		(pts
 			(xy 223.52 182.88) (xy 223.52 187.96)
 		)
 		(stroke
@@ -16263,36 +15079,6 @@
 	)
 	(wire
 		(pts
-			(xy 431.8 45.72) (xy 434.34 45.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f918534b-70ed-4517-b5ed-c1bbd9976094")
-	)
-	(wire
-		(pts
-			(xy 181.61 30.48) (xy 199.39 30.48)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f9460789-0172-4bf7-955d-7fdb3ac79e3a")
-	)
-	(wire
-		(pts
-			(xy 215.9 335.28) (xy 212.09 335.28)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f96f4566-39c1-4ef2-b329-e1dd8e00d5db")
-	)
-	(wire
-		(pts
 			(xy 147.32 229.87) (xy 163.83 229.87)
 		)
 		(stroke
@@ -16300,16 +15086,6 @@
 			(type default)
 		)
 		(uuid "f9bb5da0-1286-4660-85ca-22bd5f0c6d85")
-	)
-	(wire
-		(pts
-			(xy 471.17 62.23) (xy 471.17 64.77)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fa2b9303-4949-44be-9f5f-60dd0e4ae2c4")
 	)
 	(wire
 		(pts
@@ -16411,16 +15187,6 @@
 		)
 		(uuid "fec17eaa-4516-499f-bff9-ed2449f78b0d")
 	)
-	(wire
-		(pts
-			(xy 408.94 36.83) (xy 408.94 39.37)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ffdfcf0d-5770-46de-9f2a-9dd3a29f5b05")
-	)
 	(label "GLB"
 		(at 359.41 87.63 180)
 		(effects
@@ -16432,7 +15198,7 @@
 		(uuid "02a370c8-3568-4eaa-b6da-6ca42053e396")
 	)
 	(label "5V_MON"
-		(at 194.31 383.54 0)
+		(at 200.66 383.54 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -16460,16 +15226,6 @@
 			(justify right bottom)
 		)
 		(uuid "055fc8c5-fef0-415c-b0b2-1471d01b89b5")
-	)
-	(label "GPIO38"
-		(at 49.53 156.21 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "0945f9bb-798b-4387-8859-c7c06faa775d")
 	)
 	(label "DRIVER_ENABLE"
 		(at 281.94 80.01 0)
@@ -16682,26 +15438,6 @@
 		)
 		(uuid "2bb8f9e2-0a9b-44ba-b427-0663d746d3a5")
 	)
-	(label "GPIO35"
-		(at 476.25 95.25 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "2c7c7e29-d1de-4d04-909c-fa0696bb600f")
-	)
-	(label "RED_LED_0"
-		(at 49.53 123.19 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "2cf6ff09-45c0-4338-bdf1-93a9128fb75b")
-	)
 	(label "RP2_RX"
 		(at 195.58 275.59 0)
 		(effects
@@ -16713,7 +15449,7 @@
 		(uuid "2eadb65f-6bf4-4536-9929-eacffaf03c62")
 	)
 	(label "BATT_MON"
-		(at 172.72 383.54 0)
+		(at 179.07 383.54 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -16751,16 +15487,6 @@
 			(justify right bottom)
 		)
 		(uuid "364629c7-e366-4131-8050-9b2560245019")
-	)
-	(label "RED_LED_1"
-		(at 181.61 41.91 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "3953e852-34cc-4e19-8823-6fbfcdd2d807")
 	)
 	(label "USB_DP"
 		(at 97.79 388.62 0)
@@ -16812,26 +15538,6 @@
 			(justify right bottom)
 		)
 		(uuid "4599723a-078a-40bb-a1ea-515d392467a7")
-	)
-	(label "GPIO2"
-		(at 424.18 66.04 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "464dcdd5-8514-4bf9-bcfb-cedd878bf00d")
-	)
-	(label "GPIO39"
-		(at 49.53 158.75 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "467bb8b4-71fe-47f2-805f-20b959708fb8")
 	)
 	(label "BLUE_LED_0"
 		(at 181.61 99.06 0)
@@ -16933,16 +15639,6 @@
 		)
 		(uuid "4fa42ce3-d938-4d0e-91f0-bfd65da43aeb")
 	)
-	(label "GPIO36"
-		(at 49.53 151.13 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "51341744-1b7c-46ea-967c-1e8998bf258b")
-	)
 	(label "QSPI_SD1"
 		(at 130.81 97.79 180)
 		(effects
@@ -16972,16 +15668,6 @@
 			(justify right bottom)
 		)
 		(uuid "5563d744-b263-4f00-bfeb-18e1b827fbc3")
-	)
-	(label "RED_LED_2"
-		(at 181.61 53.34 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "56631a07-599e-4cd3-825e-8e5414d44d61")
 	)
 	(label "GREEN_LED_0"
 		(at 181.61 64.77 0)
@@ -17013,16 +15699,6 @@
 		)
 		(uuid "5876b8ba-115e-428a-8492-04804fa4bc5f")
 	)
-	(label "GPIO3"
-		(at 424.18 95.25 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "5a4c0afa-2590-4f12-81ff-aa4480e424c8")
-	)
 	(label "DRIVER_COPI"
 		(at 290.83 120.65 0)
 		(effects
@@ -17042,16 +15718,6 @@
 			(justify right bottom)
 		)
 		(uuid "5bffb82e-9f63-4330-a8fd-a01f7a66eb14")
-	)
-	(label "GPIO39"
-		(at 533.4 95.25 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "5ea1dc0f-8bee-4e3d-bfa3-97c7c977071d")
 	)
 	(label "DRIVER_FAULTn"
 		(at 288.29 146.05 0)
@@ -17083,16 +15749,6 @@
 		)
 		(uuid "61803b5a-bd8c-4ab2-aaf4-46b9835c6a35")
 	)
-	(label "GPIO1"
-		(at 424.18 40.64 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "657d8d41-c2e7-4eba-8cc1-e40144f17f3f")
-	)
 	(label "VM"
 		(at 359.41 228.6 180)
 		(effects
@@ -17112,16 +15768,6 @@
 			(justify left bottom)
 		)
 		(uuid "66daf4d9-b2be-4cfb-b1dd-84809ac9620b")
-	)
-	(label "GPIO24"
-		(at 476.25 40.64 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "67b7ee0b-bcae-45aa-913c-e16577906880")
 	)
 	(label "IMU_SCK"
 		(at 53.34 105.41 0)
@@ -17232,16 +15878,6 @@
 			(justify left bottom)
 		)
 		(uuid "772a44d7-b983-4092-8be9-0058281295dd")
-	)
-	(label "RED_LED_1"
-		(at 49.53 125.73 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "78ab6717-138f-4a24-930d-77dd4c1302ea")
 	)
 	(label "ENC_SENSE_4"
 		(at 541.02 246.38 180)
@@ -17363,16 +15999,6 @@
 		)
 		(uuid "889c6d79-be5b-43a6-b82c-ba4d127271b9")
 	)
-	(label "RED_LED_2"
-		(at 49.53 128.27 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "8aeab72c-35c2-4034-8219-48564fb2d741")
-	)
 	(label "INHC"
 		(at 356.87 351.79 0)
 		(effects
@@ -17472,16 +16098,6 @@
 			(justify left bottom)
 		)
 		(uuid "963ddcaa-d8de-4943-a8a3-67b60f11f04f")
-	)
-	(label "GPIO24"
-		(at 49.53 120.65 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "97091a7c-dcd4-454d-a531-abcb39f6d015")
 	)
 	(label "GLB"
 		(at 293.37 287.02 0)
@@ -17634,26 +16250,6 @@
 		)
 		(uuid "aa3c143a-4ef4-4246-83e0-49c6d3ec6e0d")
 	)
-	(label "GPIO37"
-		(at 49.53 153.67 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "abc0071d-8525-45ba-8620-802568e91e1e")
-	)
-	(label "GPIO1"
-		(at 53.34 62.23 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "abdf1b4f-9915-4ded-a2fe-203240d08943")
-	)
 	(label "GREEN_LED_2"
 		(at 49.53 135.89 0)
 		(effects
@@ -17703,16 +16299,6 @@
 			(justify right bottom)
 		)
 		(uuid "bbeb0699-7f46-49ba-b9e1-bdeedc4baaf2")
-	)
-	(label "GPIO3"
-		(at 53.34 67.31 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "bcdb4264-b6f3-42cf-9b9b-14542d489110")
 	)
 	(label "INHA"
 		(at 241.3 351.79 0)
@@ -17823,16 +16409,6 @@
 			(justify left bottom)
 		)
 		(uuid "caf11537-ae7c-4a55-b9a8-b3d6dfdfed01")
-	)
-	(label "RED_LED_0"
-		(at 181.61 30.48 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "ccfab70f-8efb-4706-ae64-61255ecad0c9")
 	)
 	(label "RUN"
 		(at 180.34 182.88 0)
@@ -17964,16 +16540,6 @@
 		)
 		(uuid "e5050f33-dd52-49d4-887b-eda50feaf296")
 	)
-	(label "GPIO38"
-		(at 533.4 66.04 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "e5c3d537-86da-4182-8599-678289099471")
-	)
 	(label "SCL_TOP_IR_TOF"
 		(at 49.53 113.03 0)
 		(effects
@@ -18024,16 +16590,6 @@
 		)
 		(uuid "eae1388a-dd14-4015-9d9a-9e29ac10b6e9")
 	)
-	(label "GPIO2"
-		(at 53.34 64.77 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "ec5e2e10-aa21-4fad-a504-c965aaf5aad3")
-	)
 	(label "SOA"
 		(at 53.34 168.91 0)
 		(effects
@@ -18043,16 +16599,6 @@
 			(justify left bottom)
 		)
 		(uuid "ecad1aa8-0111-452e-8bca-eec730b96f19")
-	)
-	(label "GPIO34"
-		(at 476.25 66.04 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "efa3fa5a-9a99-43fb-a7e2-13a632d303c3")
 	)
 	(label "BLUE_LED_1"
 		(at 181.61 110.49 0)
@@ -18204,16 +16750,6 @@
 		)
 		(uuid "fdd9d1f3-0ccb-45cf-aaf0-c9af8a91e048")
 	)
-	(label "GPIO37"
-		(at 533.4 40.64 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "fdeab12c-035b-4c18-977c-7d13d49541a5")
-	)
 	(label "RP2_RX"
 		(at 53.34 69.85 0)
 		(effects
@@ -18223,72 +16759,6 @@
 			(justify left bottom)
 		)
 		(uuid "fe257b98-3b30-4ce4-90b2-8e9d067bb388")
-	)
-	(symbol
-		(lib_id "power:+5V")
-		(at 461.01 62.23 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "003233cd-f69a-48af-99e9-a23f9e8796c0")
-		(property "Reference" "#PWR0109"
-			(at 461.01 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+5V"
-			(at 461.01 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 461.01 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 461.01 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 461.01 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "a742dfa9-453d-428a-bf33-77d17da20bfb")
-		)
-		(instances
-			(project "eye-of-terror"
-				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
-					(reference "#PWR0109")
-					(unit 1)
-				)
-			)
-		)
 	)
 	(symbol
 		(lib_id "power:GND")
@@ -18487,79 +16957,6 @@
 			(project "eye-of-terror"
 				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
 					(reference "#PWR0143")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Jumper:SolderJumper_3_Open")
-		(at 414.02 39.37 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "01b2bef2-aa8a-40c3-bbba-75e995722177")
-		(property "Reference" "JP17"
-			(at 414.02 33.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "SolderJumper_3_Open"
-			(at 414.02 35.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Jumper:SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm"
-			(at 414.02 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 414.02 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Solder Jumper, 3-pole, open"
-			(at 414.02 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "29fc70db-46ea-4322-ade1-b0329434c04d")
-		)
-		(pin "1"
-			(uuid "4ab0a030-3d39-40e0-978a-60e25cb1a428")
-		)
-		(pin "3"
-			(uuid "f84458c8-4406-41e1-afc3-fc6ab14fc9c3")
-		)
-		(instances
-			(project ""
-				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
-					(reference "JP17")
 					(unit 1)
 				)
 			)
@@ -19722,74 +18119,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:NetTie_2")
-		(at 189.23 340.36 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "0fde0d56-7cd4-4b76-ac90-56198fabd24a")
-		(property "Reference" "NT5"
-			(at 189.23 335.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "NetTie_2"
-			(at 189.23 337.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "NetTie:NetTie-2_SMD_Pad2.0mm"
-			(at 189.23 340.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 189.23 340.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Net tie, 2 pins"
-			(at 189.23 340.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "4a1baea6-e22c-4a42-a42d-3ef5e69e3a03")
-		)
-		(pin "2"
-			(uuid "aa15cfab-2ff6-4eda-8963-4525f6ea1e48")
-		)
-		(instances
-			(project "eye-of-terror"
-				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
-					(reference "NT5")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 91.44 186.69 0)
 		(unit 1)
@@ -20507,74 +18836,8 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+3V3")
-		(at 471.17 91.44 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "14f30f6f-fa63-4f77-a0af-20d577ebfcc6")
-		(property "Reference" "#PWR0113"
-			(at 471.17 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+3V3"
-			(at 471.17 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 471.17 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 471.17 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 471.17 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "2a451301-412d-4736-ba57-036090a28c8f")
-		)
-		(instances
-			(project "eye-of-terror"
-				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
-					(reference "#PWR0113")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:+BATT")
-		(at 185.42 370.84 0)
+		(at 191.77 370.84 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -20583,7 +18846,7 @@
 		(fields_autoplaced yes)
 		(uuid "15056e3a-def0-4885-b8f5-4d321bc44f42")
 		(property "Reference" "#PWR050"
-			(at 185.42 374.65 0)
+			(at 191.77 374.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20592,7 +18855,7 @@
 			)
 		)
 		(property "Value" "+BATT"
-			(at 185.42 365.76 0)
+			(at 191.77 365.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20600,7 +18863,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 185.42 370.84 0)
+			(at 191.77 370.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20609,7 +18872,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 185.42 370.84 0)
+			(at 191.77 370.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20618,7 +18881,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+BATT\""
-			(at 185.42 370.84 0)
+			(at 191.77 370.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20633,138 +18896,6 @@
 			(project ""
 				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
 					(reference "#PWR050")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 198.12 316.23 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "157b9d74-a129-41f7-aca6-063dd7137aad")
-		(property "Reference" "#PWR075"
-			(at 198.12 322.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "PGND"
-			(at 198.12 321.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 198.12 316.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 198.12 316.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 198.12 316.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "731e44bc-891a-42c4-bc4c-cb1939339a98")
-		)
-		(instances
-			(project "eye-of-terror"
-				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
-					(reference "#PWR075")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+5V")
-		(at 461.01 91.44 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "15913ef4-e5ad-4b80-b7e1-e3ce5740d708")
-		(property "Reference" "#PWR0112"
-			(at 461.01 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+5V"
-			(at 461.01 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 461.01 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 461.01 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 461.01 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "f7bca869-5741-4de2-974a-29fd9830c219")
-		)
-		(instances
-			(project "eye-of-terror"
-				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
-					(reference "#PWR0112")
 					(unit 1)
 				)
 			)
@@ -20835,79 +18966,6 @@
 			(project "eye-of-terror"
 				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
 					(reference "JP16")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector_Generic:Conn_01x03")
-		(at 439.42 97.79 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "1728771f-3883-4aad-b204-6d7dfd4b0931")
-		(property "Reference" "J10"
-			(at 441.96 96.5199 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Conn_01x03"
-			(at 441.96 99.0599 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical"
-			(at 439.42 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 439.42 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 439.42 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "01618ed8-f09d-4053-a397-ef67e6d0c3d9")
-		)
-		(pin "2"
-			(uuid "cd02da98-175e-43c3-bb93-37799c376bb6")
-		)
-		(pin "3"
-			(uuid "e510e0b7-2afa-46a8-b500-a53e79d61d8f")
-		)
-		(instances
-			(project "eye-of-terror"
-				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
-					(reference "J10")
 					(unit 1)
 				)
 			)
@@ -21675,6 +19733,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Value" "GREEN"
@@ -21731,138 +19790,6 @@
 			(project "eye-of-terror"
 				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
 					(reference "D12")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+3V3")
-		(at 528.32 36.83 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "1d7a97fc-a736-4df3-9ef4-a95a06cab70d")
-		(property "Reference" "#PWR0116"
-			(at 528.32 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+3V3"
-			(at 528.32 31.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 528.32 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 528.32 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 528.32 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "1ca60323-bff2-401a-918c-a36eb361162b")
-		)
-		(instances
-			(project "eye-of-terror"
-				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
-					(reference "#PWR0116")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 483.87 73.66 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "1f8d44b7-bfd0-45d5-a506-1767cf63e00f")
-		(property "Reference" "#PWR0111"
-			(at 483.87 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "DGND"
-			(at 483.87 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 483.87 73.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 483.87 73.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 483.87 73.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "b3e32589-ee8d-4000-846d-599ceb01d462")
-		)
-		(instances
-			(project "eye-of-terror"
-				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
-					(reference "#PWR0111")
 					(unit 1)
 				)
 			)
@@ -22074,139 +20001,6 @@
 			(project ""
 				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
 					(reference "#PWR010")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+3V3")
-		(at 471.17 36.83 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "22f5b2ad-0a23-4801-aba0-8949b5f5b34c")
-		(property "Reference" "#PWR0107"
-			(at 471.17 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+3V3"
-			(at 471.17 31.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 471.17 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 471.17 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 471.17 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "aaa3282c-90ed-4f11-b38b-6ea18a3267ff")
-		)
-		(instances
-			(project "eye-of-terror"
-				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
-					(reference "#PWR0107")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 194.31 340.36 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "23e94a64-b0d9-44d7-b699-68e30157e6ec")
-		(property "Reference" "#PWR0129"
-			(at 200.66 340.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "DGND"
-			(at 198.12 340.3599 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 194.31 340.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 194.31 340.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 194.31 340.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "25407287-cbe4-442b-a90a-805b66ca8e13")
-		)
-		(instances
-			(project "eye-of-terror"
-				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
-					(reference "#PWR0129")
 					(unit 1)
 				)
 			)
@@ -22549,79 +20343,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Jumper:SolderJumper_3_Open")
-		(at 523.24 93.98 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "26349754-b1ae-4f1b-bde4-43fc3043f077")
-		(property "Reference" "JP25"
-			(at 523.24 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "SolderJumper_3_Open"
-			(at 523.24 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Jumper:SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm"
-			(at 523.24 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 523.24 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Solder Jumper, 3-pole, open"
-			(at 523.24 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "0a7a2132-d9b2-427c-b909-9f6f941ec3af")
-		)
-		(pin "1"
-			(uuid "a9eeb428-9d99-4d98-b1fa-9f7442866d8a")
-		)
-		(pin "3"
-			(uuid "3e3131ee-9d17-4c81-bfb3-63e38e213c65")
-		)
-		(instances
-			(project "eye-of-terror"
-				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
-					(reference "JP25")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R_Small_US")
 		(at 359.41 304.8 0)
 		(unit 1)
@@ -22692,76 +20413,8 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:NetTie_2")
-		(at 218.44 335.28 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "275f1a55-96fa-492b-8f38-9470947b1edb")
-		(property "Reference" "NT6"
-			(at 218.44 330.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "NetTie_2"
-			(at 218.44 332.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "NetTie:NetTie-2_SMD_Pad2.0mm"
-			(at 218.44 335.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 218.44 335.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Net tie, 2 pins"
-			(at 218.44 335.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "fa677fab-9109-4a8e-b385-b087620572e2")
-		)
-		(pin "2"
-			(uuid "224b79d7-8ab3-4495-8ad0-e092cf6e23ae")
-		)
-		(instances
-			(project "eye-of-terror"
-				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
-					(reference "NT6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R_Small_US")
-		(at 185.42 391.16 0)
+		(at 191.77 391.16 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -22770,7 +20423,7 @@
 		(fields_autoplaced yes)
 		(uuid "2768112f-7cef-4ffe-a2c9-74ea57ffb7d3")
 		(property "Reference" "R21"
-			(at 187.96 389.8899 0)
+			(at 194.31 389.8899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22779,7 +20432,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 187.96 392.4299 0)
+			(at 194.31 392.4299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22788,7 +20441,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 185.42 391.16 0)
+			(at 191.77 391.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22797,7 +20450,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 185.42 391.16 0)
+			(at 191.77 391.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22806,7 +20459,7 @@
 			)
 		)
 		(property "Description" "Resistor, small US symbol"
-			(at 185.42 391.16 0)
+			(at 191.77 391.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23297,79 +20950,6 @@
 			(project "eye-of-terror"
 				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
 					(reference "#PWR0149")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector_Generic:Conn_01x03")
-		(at 491.49 43.18 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "30b36279-e3d9-41ff-9e75-6dcd042f2ef6")
-		(property "Reference" "J11"
-			(at 494.03 41.9099 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Conn_01x03"
-			(at 494.03 44.4499 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical"
-			(at 491.49 43.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 491.49 43.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 491.49 43.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "fb2fdc29-f3d9-4f63-bd84-a2d1ca2ce118")
-		)
-		(pin "2"
-			(uuid "159f64e6-a04c-4485-8866-58fb42e62cd6")
-		)
-		(pin "3"
-			(uuid "01945564-ee6c-4136-85b1-0fecf35d16a7")
-		)
-		(instances
-			(project "eye-of-terror"
-				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
-					(reference "J11")
 					(unit 1)
 				)
 			)
@@ -24035,79 +21615,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector_Generic:Conn_01x03")
-		(at 548.64 68.58 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "36ddeb19-023f-4ecf-8776-3bc7a8651ae5")
-		(property "Reference" "J15"
-			(at 551.18 67.3099 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Conn_01x03"
-			(at 551.18 69.8499 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical"
-			(at 548.64 68.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 548.64 68.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 548.64 68.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "86d19bcb-62c5-4fcc-b18c-601696522ad9")
-		)
-		(pin "2"
-			(uuid "132b3eb9-8a5c-45ba-8311-ce25879d71aa")
-		)
-		(pin "3"
-			(uuid "ce1bfe77-61dc-445c-8caf-b913635a365e")
-		)
-		(instances
-			(project "eye-of-terror"
-				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
-					(reference "J15")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R_Small_US")
 		(at 39.37 336.55 0)
 		(unit 1)
@@ -24573,72 +22080,6 @@
 			(project "eye-of-terror"
 				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
 					(reference "#PWR019")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+3V3")
-		(at 528.32 62.23 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "3a98174b-4bba-472e-8c80-574340ed9e7c")
-		(property "Reference" "#PWR0119"
-			(at 528.32 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+3V3"
-			(at 528.32 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 528.32 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 528.32 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 528.32 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "8a22ccc5-1d10-470f-a6a1-80d460d2a114")
-		)
-		(instances
-			(project "eye-of-terror"
-				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
-					(reference "#PWR0119")
 					(unit 1)
 				)
 			)
@@ -25254,79 +22695,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector_Generic:Conn_01x03")
-		(at 548.64 97.79 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "3d4bab68-6a19-407f-8821-50c2ce70c52c")
-		(property "Reference" "J16"
-			(at 551.18 96.5199 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Conn_01x03"
-			(at 551.18 99.0599 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical"
-			(at 548.64 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 548.64 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 548.64 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "ae92c762-34dd-4406-86e6-50fbc819982c")
-		)
-		(pin "2"
-			(uuid "9e9fa780-739d-4e33-ac83-489f5cac9cee")
-		)
-		(pin "3"
-			(uuid "7b3a59fb-892d-4b55-b5ab-464dfd46c40d")
-		)
-		(instances
-			(project "eye-of-terror"
-				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
-					(reference "J16")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:Q_Photo_NPN")
 		(at 558.8 254 0)
 		(unit 1)
@@ -25736,72 +23104,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 431.8 48.26 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "45783e1c-5084-4598-ad64-c5d250490ab9")
-		(property "Reference" "#PWR097"
-			(at 431.8 54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "DGND"
-			(at 431.8 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 431.8 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 431.8 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 431.8 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "16dcb451-3713-4743-9d79-e2727fb19842")
-		)
-		(instances
-			(project ""
-				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
-					(reference "#PWR097")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:Q_Photo_NPN")
 		(at 407.67 255.27 0)
 		(unit 1)
@@ -26065,74 +23367,6 @@
 			(project "eye-of-terror"
 				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
 					(reference "#PWR034")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_Small_US")
-		(at 217.17 53.34 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "4ae9bd85-d0b4-4764-bec9-1ba2a09b18ca")
-		(property "Reference" "R33"
-			(at 217.17 46.99 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "68"
-			(at 217.17 49.53 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 217.17 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 217.17 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, small US symbol"
-			(at 217.17 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "de00f9ef-6167-4745-963a-a802215437b2")
-		)
-		(pin "2"
-			(uuid "d3e1d017-7c0d-4dda-b72d-4890c3564551")
-		)
-		(instances
-			(project "eye-of-terror"
-				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
-					(reference "R33")
 					(unit 1)
 				)
 			)
@@ -28521,7 +25755,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small_US")
-		(at 185.42 377.19 0)
+		(at 191.77 377.19 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -28530,7 +25764,7 @@
 		(fields_autoplaced yes)
 		(uuid "63bc0674-6180-4df0-99f7-ff27ad572123")
 		(property "Reference" "R20"
-			(at 187.96 375.9199 0)
+			(at 194.31 375.9199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28539,7 +25773,7 @@
 			)
 		)
 		(property "Value" "68k"
-			(at 187.96 378.4599 0)
+			(at 194.31 378.4599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28548,7 +25782,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 185.42 377.19 0)
+			(at 191.77 377.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28557,7 +25791,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 185.42 377.19 0)
+			(at 191.77 377.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28566,7 +25800,7 @@
 			)
 		)
 		(property "Description" "Resistor, small US symbol"
-			(at 185.42 377.19 0)
+			(at 191.77 377.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28650,72 +25884,6 @@
 			(project "eye-of-terror"
 				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
 					(reference "#PWR0142")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 226.06 316.23 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "63bf4cd0-95de-42b8-9fd4-d82d717a408c")
-		(property "Reference" "#PWR0125"
-			(at 226.06 322.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "DGND"
-			(at 226.06 321.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 226.06 316.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 226.06 316.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 226.06 316.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "f617c4e7-27bc-4996-8e33-45941c1cb60d")
-		)
-		(instances
-			(project "eye-of-terror"
-				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
-					(reference "#PWR0125")
 					(unit 1)
 				)
 			)
@@ -28862,7 +26030,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 185.42 397.51 0)
+		(at 191.77 397.51 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -28871,7 +26039,7 @@
 		(fields_autoplaced yes)
 		(uuid "679d9060-d796-433f-8534-7dd5fc3e3ed0")
 		(property "Reference" "#PWR049"
-			(at 185.42 403.86 0)
+			(at 191.77 403.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28879,16 +26047,17 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "PGND"
-			(at 185.42 402.59 0)
+		(property "Value" "DGND"
+			(at 194.31 398.7799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Footprint" ""
-			(at 185.42 397.51 0)
+			(at 191.77 397.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28897,7 +26066,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 185.42 397.51 0)
+			(at 191.77 397.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28906,7 +26075,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 185.42 397.51 0)
+			(at 191.77 397.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29070,72 +26239,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 223.52 44.45 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "6919565b-c2af-4640-b32d-2628c56ba413")
-		(property "Reference" "#PWR085"
-			(at 223.52 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "DGND"
-			(at 223.52 49.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 223.52 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 223.52 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 223.52 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "4978a9cf-34c9-4e10-ac3b-c2705e5407a8")
-		)
-		(instances
-			(project "eye-of-terror"
-				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
-					(reference "#PWR085")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R_Small_US")
 		(at 393.7 388.62 0)
 		(unit 1)
@@ -29200,72 +26303,6 @@
 			(project "eye-of-terror"
 				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
 					(reference "R30")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+3V3")
-		(at 528.32 91.44 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "69b52ded-a409-405d-9fe3-7be970634890")
-		(property "Reference" "#PWR0122"
-			(at 528.32 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+3V3"
-			(at 528.32 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 528.32 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 528.32 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 528.32 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "ba1ad876-fb9d-4f6e-882a-c9b7d1fc0be0")
-		)
-		(instances
-			(project "eye-of-terror"
-				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
-					(reference "#PWR0122")
 					(unit 1)
 				)
 			)
@@ -29744,72 +26781,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+3V3")
-		(at 419.1 91.44 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "6e64acde-00ec-4861-a7bf-1f4be010d2e8")
-		(property "Reference" "#PWR0104"
-			(at 419.1 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+3V3"
-			(at 419.1 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 419.1 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 419.1 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 419.1 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "2226c2f7-7e6c-49d7-b924-b160f04001b8")
-		)
-		(instances
-			(project "eye-of-terror"
-				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
-					(reference "#PWR0104")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:Q_Photo_NPN")
 		(at 558.8 300.99 0)
 		(unit 1)
@@ -29875,79 +26846,6 @@
 			(project "eye-of-terror"
 				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
 					(reference "Q16")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector_Generic:Conn_01x03")
-		(at 439.42 68.58 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "6f9bcfda-09ca-4a6c-b529-91b49e8f435d")
-		(property "Reference" "J9"
-			(at 441.96 67.3099 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Conn_01x03"
-			(at 441.96 69.8499 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical"
-			(at 439.42 68.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 439.42 68.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 439.42 68.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "5ecc76e3-0f20-4f82-a241-aa5aafd586a5")
-		)
-		(pin "2"
-			(uuid "88c2b394-20d6-4def-9d8f-9e25999e0c84")
-		)
-		(pin "3"
-			(uuid "aedf8572-ba99-4c0b-a72d-8dfe3278a6b8")
-		)
-		(instances
-			(project "eye-of-terror"
-				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
-					(reference "J9")
 					(unit 1)
 				)
 			)
@@ -30450,138 +27348,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 208.28 316.23 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "7372cbcf-98c1-4582-837e-57f133b13187")
-		(property "Reference" "#PWR077"
-			(at 208.28 322.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "DGND"
-			(at 208.28 321.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 208.28 316.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 208.28 316.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 208.28 316.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "aff5c495-479f-43f9-9965-8128fe7d4f33")
-		)
-		(instances
-			(project "eye-of-terror"
-				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
-					(reference "#PWR077")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+5V")
-		(at 461.01 36.83 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "74020c2e-7f0f-4639-8ed2-9784a5b67296")
-		(property "Reference" "#PWR0106"
-			(at 461.01 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+5V"
-			(at 461.01 31.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 461.01 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 461.01 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 461.01 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "b6d462c5-9158-455d-baee-20688fde0e1f")
-		)
-		(instances
-			(project "eye-of-terror"
-				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
-					(reference "#PWR0106")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C_Small")
 		(at 370.84 161.29 180)
 		(unit 1)
@@ -30645,72 +27411,6 @@
 			(project "eye-of-terror"
 				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
 					(reference "C33")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+5V")
-		(at 408.94 91.44 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "7522e1cf-a749-41f5-be28-6750a7dcd808")
-		(property "Reference" "#PWR0103"
-			(at 408.94 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+5V"
-			(at 408.94 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 408.94 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 408.94 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 408.94 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "aff60873-739b-4e55-ba47-6fca572e5c6e")
-		)
-		(instances
-			(project "eye-of-terror"
-				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
-					(reference "#PWR0103")
 					(unit 1)
 				)
 			)
@@ -30781,72 +27481,6 @@
 			(project "eye-of-terror"
 				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
 					(reference "C36")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 431.8 102.87 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "7653dc38-5d95-459d-9c0e-948f4bcb4b6e")
-		(property "Reference" "#PWR0105"
-			(at 431.8 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "DGND"
-			(at 431.8 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 431.8 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 431.8 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 431.8 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "fddd102f-53a8-4167-ba7e-1d6239a2fcd5")
-		)
-		(instances
-			(project "eye-of-terror"
-				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
-					(reference "#PWR0105")
 					(unit 1)
 				)
 			)
@@ -31047,83 +27681,6 @@
 			(project "eye-of-terror"
 				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
 					(reference "#PWR080")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:LED")
-		(at 203.2 30.48 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "77a9b2cc-c812-4828-b513-75d7b18436d4")
-		(property "Reference" "D9"
-			(at 204.7875 22.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "RED"
-			(at 204.7875 25.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Diode_SMD:D_1206_3216Metric"
-			(at 203.2 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 203.2 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Light emitting diode"
-			(at 203.2 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 203.2 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "bd1fccb5-4c60-4238-b4f2-e0795a09e6cb")
-		)
-		(pin "2"
-			(uuid "73dbc45d-a5c7-4f41-9594-bbc07c2b6b1b")
-		)
-		(instances
-			(project "eye-of-terror"
-				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
-					(reference "D9")
 					(unit 1)
 				)
 			)
@@ -31397,72 +27954,6 @@
 			(project ""
 				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
 					(reference "#PWR011")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 431.8 73.66 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "7b05cc24-d932-480e-9221-538e178cd52f")
-		(property "Reference" "#PWR0102"
-			(at 431.8 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "DGND"
-			(at 431.8 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 431.8 73.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 431.8 73.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 431.8 73.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "6432ce20-457c-440e-906e-ab9d8e2bb1b2")
-		)
-		(instances
-			(project "eye-of-terror"
-				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
-					(reference "#PWR0102")
 					(unit 1)
 				)
 			)
@@ -31747,7 +28238,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 207.01 397.51 0)
+		(at 213.36 397.51 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -31756,7 +28247,7 @@
 		(fields_autoplaced yes)
 		(uuid "7e4195a0-c88c-4533-ae1b-2bf1ef4676b4")
 		(property "Reference" "#PWR074"
-			(at 207.01 403.86 0)
+			(at 213.36 403.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31764,16 +28255,17 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "PGND"
-			(at 207.01 402.59 0)
+		(property "Value" "DGND"
+			(at 215.9 398.7799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Footprint" ""
-			(at 207.01 397.51 0)
+			(at 213.36 397.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31782,7 +28274,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 207.01 397.51 0)
+			(at 213.36 397.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31791,7 +28283,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 207.01 397.51 0)
+			(at 213.36 397.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31940,74 +28432,6 @@
 			(project "eye-of-terror"
 				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
 					(reference "#PWR072")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:NetTie_2")
-		(at 203.2 314.96 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "7f9e9caf-9fa9-4750-b59c-a4b6f584153d")
-		(property "Reference" "NT2"
-			(at 203.2 309.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "NetTie_2"
-			(at 203.2 312.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "NetTie:NetTie-2_SMD_Pad2.0mm"
-			(at 203.2 314.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 203.2 314.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Net tie, 2 pins"
-			(at 203.2 314.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "13d82c29-6c7c-448d-ae9a-783f4370e850")
-		)
-		(pin "2"
-			(uuid "fd2d1dad-4805-42e4-86b4-7bb4013f6d95")
-		)
-		(instances
-			(project ""
-				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
-					(reference "NT2")
 					(unit 1)
 				)
 			)
@@ -32287,74 +28711,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R_Small_US")
-		(at 217.17 30.48 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "835cf467-e307-4b28-b137-e7920ed9d311")
-		(property "Reference" "R31"
-			(at 217.17 24.13 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "68"
-			(at 217.17 26.67 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 217.17 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 217.17 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, small US symbol"
-			(at 217.17 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "79816e3d-1426-4d13-9b72-1a8b240ba8f3")
-		)
-		(pin "2"
-			(uuid "fe57386b-c3c3-4a7a-8d1b-44cdaaf26598")
-		)
-		(instances
-			(project "eye-of-terror"
-				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
-					(reference "R31")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C_Small")
 		(at 54.61 351.79 0)
 		(unit 1)
@@ -32419,72 +28775,6 @@
 			(project "eye-of-terror"
 				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
 					(reference "C5")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 541.02 48.26 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "846ac1ae-d62f-4706-b9c2-05dfe72973d1")
-		(property "Reference" "#PWR0117"
-			(at 541.02 54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "DGND"
-			(at 541.02 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 541.02 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 541.02 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 541.02 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "6ab5ac32-db78-415d-b59f-9302b769d728")
-		)
-		(instances
-			(project "eye-of-terror"
-				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
-					(reference "#PWR0117")
 					(unit 1)
 				)
 			)
@@ -32627,138 +28917,6 @@
 			(project "eye-of-terror"
 				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
 					(reference "C26")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+5V")
-		(at 518.16 62.23 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "85a5186a-072a-4d31-a2e1-13b59ef1a29b")
-		(property "Reference" "#PWR0118"
-			(at 518.16 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+5V"
-			(at 518.16 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 518.16 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 518.16 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 518.16 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "25cf3709-7ec2-46e4-abc0-ff3ff48565af")
-		)
-		(instances
-			(project "eye-of-terror"
-				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
-					(reference "#PWR0118")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+3V3")
-		(at 419.1 62.23 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "86296f5f-eb73-4643-b59e-618e87b6c7f4")
-		(property "Reference" "#PWR0101"
-			(at 419.1 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+3V3"
-			(at 419.1 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 419.1 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 419.1 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 419.1 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "8b899edc-d49d-4738-b427-8a3bde77097d")
-		)
-		(instances
-			(project "eye-of-terror"
-				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
-					(reference "#PWR0101")
 					(unit 1)
 				)
 			)
@@ -33485,147 +29643,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector_Generic:Conn_01x03")
-		(at 548.64 43.18 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "90bef118-2def-4a1a-ab16-ee5c0180b146")
-		(property "Reference" "J14"
-			(at 551.18 41.9099 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Conn_01x03"
-			(at 551.18 44.4499 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical"
-			(at 548.64 43.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 548.64 43.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 548.64 43.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "e9193102-2644-4db3-af6e-ba3824e19f35")
-		)
-		(pin "2"
-			(uuid "b15624b0-54da-45dd-85bc-db9633aa28db")
-		)
-		(pin "3"
-			(uuid "67a44fad-59c3-467e-9267-2adab13625b1")
-		)
-		(instances
-			(project "eye-of-terror"
-				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
-					(reference "J14")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:NetTie_2")
-		(at 220.98 314.96 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "923ba7b2-7308-46e6-aad3-0dc3a0ef10a0")
-		(property "Reference" "NT3"
-			(at 220.98 309.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "NetTie_2"
-			(at 220.98 312.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "NetTie:NetTie-2_SMD_Pad2.0mm"
-			(at 220.98 314.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 220.98 314.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Net tie, 2 pins"
-			(at 220.98 314.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "5f5e1c49-6fe9-48ba-a53d-07c6a2d2bcd8")
-		)
-		(pin "2"
-			(uuid "5e937651-2a77-4a09-8d50-97507e81b288")
-		)
-		(instances
-			(project "eye-of-terror"
-				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
-					(reference "NT3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:+BATT")
 		(at 222.25 207.01 0)
 		(unit 1)
@@ -34263,139 +30280,6 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 223.52 335.28 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "95e8b7af-8267-4ee3-a59a-8cdb0d8e070c")
-		(property "Reference" "#PWR0131"
-			(at 229.87 335.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "DGND"
-			(at 227.33 335.2799 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 223.52 335.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 223.52 335.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 223.52 335.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "c2a431d3-355b-415d-80e0-3d20b4b51e20")
-		)
-		(instances
-			(project "eye-of-terror"
-				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
-					(reference "#PWR0131")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 541.02 102.87 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "9714508b-d772-4ab6-acb9-16cdff5d0af0")
-		(property "Reference" "#PWR0123"
-			(at 541.02 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "DGND"
-			(at 541.02 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 541.02 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 541.02 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 541.02 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "358cb89b-b34f-4b51-a3f3-48a3645a96d8")
-		)
-		(instances
-			(project "eye-of-terror"
-				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
-					(reference "#PWR0123")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
 		(at 548.64 308.61 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -34455,73 +30339,6 @@
 			(project "eye-of-terror"
 				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
 					(reference "#PWR0152")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 182.88 318.77 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "97a46c68-0785-4121-bcad-dfdcd3817301")
-		(property "Reference" "#PWR051"
-			(at 176.53 318.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "DGND"
-			(at 179.07 318.7699 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 182.88 318.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 182.88 318.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 182.88 318.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "1b0029fe-6bca-4b1d-bfbd-89f8508cbc60")
-		)
-		(instances
-			(project ""
-				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
-					(reference "#PWR051")
 					(unit 1)
 				)
 			)
@@ -34716,72 +30533,6 @@
 			(project "eye-of-terror"
 				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
 					(reference "H21")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+5V")
-		(at 408.94 36.83 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "9b215d7c-ab23-42f5-b238-a143cb0ce61e")
-		(property "Reference" "#PWR098"
-			(at 408.94 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+5V"
-			(at 408.94 31.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 408.94 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 408.94 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 408.94 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "f86955f6-1a89-4472-8d62-94ea06622fac")
-		)
-		(instances
-			(project ""
-				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
-					(reference "#PWR098")
 					(unit 1)
 				)
 			)
@@ -35606,73 +31357,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 182.88 340.36 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "a1ca744a-edb7-42c0-bd0f-98ed74eb82cb")
-		(property "Reference" "#PWR0128"
-			(at 176.53 340.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "PGND"
-			(at 179.07 340.3599 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 182.88 340.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 182.88 340.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 182.88 340.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "d447c924-3984-43fd-af26-9686407a1454")
-		)
-		(instances
-			(project "eye-of-terror"
-				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
-					(reference "#PWR0128")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C_Small")
 		(at 284.48 158.75 0)
 		(mirror x)
@@ -36203,79 +31887,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Jumper:SolderJumper_3_Open")
-		(at 523.24 64.77 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "a5c2f89a-b3a1-4962-9966-5edc9a28fb01")
-		(property "Reference" "JP24"
-			(at 523.24 58.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "SolderJumper_3_Open"
-			(at 523.24 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Jumper:SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm"
-			(at 523.24 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 523.24 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Solder Jumper, 3-pole, open"
-			(at 523.24 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "b1bdc5f1-484e-45aa-9332-8e586e6357bb")
-		)
-		(pin "1"
-			(uuid "0e55a3a8-c798-488d-b400-31ea367bd511")
-		)
-		(pin "3"
-			(uuid "d6b65b4f-b072-4b48-a12b-475358213205")
-		)
-		(instances
-			(project "eye-of-terror"
-				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
-					(reference "JP24")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Mechanical:MountingHole")
 		(at 457.2 139.7 0)
 		(unit 1)
@@ -36678,79 +32289,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Jumper:SolderJumper_3_Open")
-		(at 523.24 39.37 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "a7b1d753-9900-4961-bcb9-13d1419075c1")
-		(property "Reference" "JP23"
-			(at 523.24 33.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "SolderJumper_3_Open"
-			(at 523.24 35.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Jumper:SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm"
-			(at 523.24 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 523.24 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Solder Jumper, 3-pole, open"
-			(at 523.24 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "da69e850-8824-4f1e-9e17-71759ea6edc9")
-		)
-		(pin "1"
-			(uuid "db68da82-8eee-475d-93da-107c13aee3f1")
-		)
-		(pin "3"
-			(uuid "0210dc86-0ba0-4c82-bb79-02fca5c59d2f")
-		)
-		(instances
-			(project "eye-of-terror"
-				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
-					(reference "JP23")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R_Small_US")
 		(at 311.15 304.8 0)
 		(unit 1)
@@ -36962,72 +32500,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+5V")
-		(at 518.16 36.83 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "a9b82867-f846-436d-beb3-9c1cee4a4a25")
-		(property "Reference" "#PWR0115"
-			(at 518.16 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+5V"
-			(at 518.16 31.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 518.16 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 518.16 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 518.16 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "8698216c-f659-49fd-baa0-5ff987fef2a9")
-		)
-		(instances
-			(project "eye-of-terror"
-				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
-					(reference "#PWR0115")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:LED")
 		(at 203.2 99.06 180)
 		(unit 1)
@@ -37099,72 +32571,6 @@
 			(project "eye-of-terror"
 				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
 					(reference "D15")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 215.9 316.23 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "abaa5c8f-f382-4897-ac22-18fb5185590d")
-		(property "Reference" "#PWR0124"
-			(at 215.9 322.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "PGND"
-			(at 215.9 321.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 215.9 316.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 215.9 316.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 215.9 316.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "90c8b72c-abe3-447b-a93a-0dc8d0fe8a39")
-		)
-		(instances
-			(project "eye-of-terror"
-				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
-					(reference "#PWR0124")
 					(unit 1)
 				)
 			)
@@ -37989,72 +33395,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 223.52 55.88 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "b1d607b1-5a2b-4795-b97a-b0c4e2213b94")
-		(property "Reference" "#PWR086"
-			(at 223.52 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "DGND"
-			(at 223.52 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 223.52 55.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 223.52 55.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 223.52 55.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "56b2fdbb-3086-4611-9504-59f63548c64b")
-		)
-		(instances
-			(project "eye-of-terror"
-				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
-					(reference "#PWR086")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:LED")
 		(at 222.25 228.6 90)
 		(unit 1)
@@ -38073,7 +33413,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "RED"
+		(property "Value" "GREEN"
 			(at 226.06 231.4574 90)
 			(effects
 				(font
@@ -38755,7 +34095,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small_US")
-		(at 207.01 377.19 0)
+		(at 213.36 377.19 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -38764,7 +34104,7 @@
 		(fields_autoplaced yes)
 		(uuid "b85c8a1a-2279-4ed7-966a-fe6129c52cda")
 		(property "Reference" "R22"
-			(at 209.55 375.9199 0)
+			(at 215.9 375.9199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38773,7 +34113,7 @@
 			)
 		)
 		(property "Value" "1k"
-			(at 209.55 378.4599 0)
+			(at 215.9 378.4599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38782,7 +34122,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 207.01 377.19 0)
+			(at 213.36 377.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38791,7 +34131,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 207.01 377.19 0)
+			(at 213.36 377.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38800,7 +34140,7 @@
 			)
 		)
 		(property "Description" "Resistor, small US symbol"
-			(at 207.01 377.19 0)
+			(at 213.36 377.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38818,72 +34158,6 @@
 			(project "eye-of-terror"
 				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
 					(reference "R22")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 483.87 102.87 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "b89e58be-2b94-4b0e-a5d9-9033e8bac916")
-		(property "Reference" "#PWR0114"
-			(at 483.87 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "DGND"
-			(at 483.87 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 483.87 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 483.87 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 483.87 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "0f11b897-8a33-42e3-afbe-2881025ca48e")
-		)
-		(instances
-			(project "eye-of-terror"
-				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
-					(reference "#PWR0114")
 					(unit 1)
 				)
 			)
@@ -39223,7 +34497,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small_US")
-		(at 207.01 391.16 0)
+		(at 213.36 391.16 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -39232,7 +34506,7 @@
 		(fields_autoplaced yes)
 		(uuid "bbba0778-00f4-433b-bfc3-12e2ee0f2fe0")
 		(property "Reference" "R23"
-			(at 209.55 389.8899 0)
+			(at 215.9 389.8899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -39241,7 +34515,7 @@
 			)
 		)
 		(property "Value" "1.5k"
-			(at 209.55 392.4299 0)
+			(at 215.9 392.4299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -39250,7 +34524,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_1210_3225Metric"
-			(at 207.01 391.16 0)
+			(at 213.36 391.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -39259,7 +34533,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 207.01 391.16 0)
+			(at 213.36 391.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -39268,7 +34542,7 @@
 			)
 		)
 		(property "Description" "Resistor, small US symbol"
-			(at 207.01 391.16 0)
+			(at 213.36 391.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -39482,79 +34756,6 @@
 			(project "eye-of-terror"
 				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
 					(reference "#PWR087")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Jumper:SolderJumper_3_Open")
-		(at 414.02 64.77 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "bea36438-8f2f-489c-8d39-6196fa6e9471")
-		(property "Reference" "JP18"
-			(at 414.02 58.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "SolderJumper_3_Open"
-			(at 414.02 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Jumper:SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm"
-			(at 414.02 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 414.02 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Solder Jumper, 3-pole, open"
-			(at 414.02 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "65f06d96-1de4-46c3-9e29-2e97fb2121ed")
-		)
-		(pin "1"
-			(uuid "cc392e4a-94e0-4b04-96c4-2f0d02ad3687")
-		)
-		(pin "3"
-			(uuid "8fd6f2d2-bb06-4e35-8976-18389a52caf2")
-		)
-		(instances
-			(project "eye-of-terror"
-				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
-					(reference "JP18")
 					(unit 1)
 				)
 			)
@@ -40089,286 +35290,6 @@
 			(project ""
 				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
 					(reference "U7")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 182.88 331.47 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "c246bb47-eb89-401b-93c6-84d115a4d402")
-		(property "Reference" "#PWR0126"
-			(at 176.53 331.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "PGND"
-			(at 179.07 331.4699 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 182.88 331.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 182.88 331.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 182.88 331.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "025aae00-2623-461f-b0fa-c311d0219ce7")
-		)
-		(instances
-			(project "eye-of-terror"
-				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
-					(reference "#PWR0126")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Jumper:SolderJumper_3_Open")
-		(at 466.09 93.98 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "c26488b8-a900-4a2b-8056-cfc53613fddc")
-		(property "Reference" "JP22"
-			(at 466.09 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "SolderJumper_3_Open"
-			(at 466.09 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Jumper:SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm"
-			(at 466.09 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 466.09 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Solder Jumper, 3-pole, open"
-			(at 466.09 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "d395ade0-eb1b-486d-85b5-d914c1ecee48")
-		)
-		(pin "1"
-			(uuid "1e2f7dab-c82e-414a-9796-378d9753ae94")
-		)
-		(pin "3"
-			(uuid "a093f8c2-38cb-47d2-8520-b685900205c3")
-		)
-		(instances
-			(project "eye-of-terror"
-				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
-					(reference "JP22")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 212.09 335.28 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "c2bd6823-d17b-4938-aca3-2893acabec99")
-		(property "Reference" "#PWR0130"
-			(at 205.74 335.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "PGND"
-			(at 208.28 335.2799 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 212.09 335.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 212.09 335.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 212.09 335.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "9dd913c5-a7bc-4945-86bb-283205bdede7")
-		)
-		(instances
-			(project "eye-of-terror"
-				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
-					(reference "#PWR0130")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector_Generic:Conn_01x03")
-		(at 439.42 43.18 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "c4fc5092-a1ac-4073-8e17-0782870b856f")
-		(property "Reference" "J8"
-			(at 441.96 41.9099 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Conn_01x03"
-			(at 441.96 44.4499 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical"
-			(at 439.42 43.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 439.42 43.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 439.42 43.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "4ae9e649-230e-437d-bc62-2249c542f94b")
-		)
-		(pin "2"
-			(uuid "af5a918d-07aa-41cf-aa30-4f2a9361e409")
-		)
-		(pin "3"
-			(uuid "6996578a-3b5e-4b99-a627-8e19f4a532cb")
-		)
-		(instances
-			(project ""
-				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
-					(reference "J8")
 					(unit 1)
 				)
 			)
@@ -40978,79 +35899,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Jumper:SolderJumper_3_Open")
-		(at 466.09 39.37 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "cf3ac0fa-2e97-441c-8de4-05a25008964e")
-		(property "Reference" "JP20"
-			(at 466.09 33.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "SolderJumper_3_Open"
-			(at 466.09 35.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Jumper:SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm"
-			(at 466.09 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 466.09 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Solder Jumper, 3-pole, open"
-			(at 466.09 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "3b399f63-5aca-4c43-aa5a-9465d99e248e")
-		)
-		(pin "1"
-			(uuid "02d73c18-a017-49cd-95f9-17ff79ccdf96")
-		)
-		(pin "3"
-			(uuid "e9c05124-839e-45e6-9117-80c82a76c14f")
-		)
-		(instances
-			(project "eye-of-terror"
-				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
-					(reference "JP20")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:Q_Photo_NPN")
 		(at 511.81 328.93 90)
 		(unit 1)
@@ -41462,79 +36310,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector_Generic:Conn_01x03")
-		(at 491.49 97.79 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "d494c243-2ef3-499f-8aa9-5215e7586c3e")
-		(property "Reference" "J13"
-			(at 494.03 96.5199 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Conn_01x03"
-			(at 494.03 99.0599 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical"
-			(at 491.49 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 491.49 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 491.49 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "543e03ab-425c-4c43-b716-58e9db84cfb4")
-		)
-		(pin "2"
-			(uuid "aff479c4-161c-4680-9dd1-9f8791c944d6")
-		)
-		(pin "3"
-			(uuid "2298c6d1-3542-4ef6-a96f-0a1b705aff8e")
-		)
-		(instances
-			(project "eye-of-terror"
-				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
-					(reference "J13")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:+3V3")
 		(at 261.62 115.57 0)
 		(unit 1)
@@ -41595,72 +36370,6 @@
 			(project ""
 				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
 					(reference "#PWR063")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 541.02 73.66 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "d613d022-a516-4642-9f50-de5ea2150881")
-		(property "Reference" "#PWR0120"
-			(at 541.02 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "DGND"
-			(at 541.02 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 541.02 73.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 541.02 73.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 541.02 73.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "a7d385cd-19e0-4b5b-97c0-2fb6ab5eb019")
-		)
-		(instances
-			(project "eye-of-terror"
-				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
-					(reference "#PWR0120")
 					(unit 1)
 				)
 			)
@@ -42298,74 +37007,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R_Small_US")
-		(at 217.17 41.91 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "d942d032-8836-4844-a1a7-645c8ee0c60a")
-		(property "Reference" "R32"
-			(at 217.17 35.56 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "68"
-			(at 217.17 38.1 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 217.17 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 217.17 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, small US symbol"
-			(at 217.17 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "501efa27-cdd1-49ed-a1e9-b689d89316b8")
-		)
-		(pin "2"
-			(uuid "112ae0bf-798a-47c1-91b1-038063d55ef2")
-		)
-		(instances
-			(project "eye-of-terror"
-				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
-					(reference "R32")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:+5V")
 		(at 100.33 321.31 0)
 		(unit 1)
@@ -42566,7 +37207,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 207.01 370.84 0)
+		(at 213.36 370.84 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -42575,7 +37216,7 @@
 		(fields_autoplaced yes)
 		(uuid "daa9f77e-938e-438c-9ed3-b0ec5802b430")
 		(property "Reference" "#PWR076"
-			(at 207.01 374.65 0)
+			(at 213.36 374.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42584,7 +37225,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 207.01 365.76 0)
+			(at 213.36 365.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42592,7 +37233,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 207.01 370.84 0)
+			(at 213.36 370.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42601,7 +37242,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 207.01 370.84 0)
+			(at 213.36 370.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42610,7 +37251,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 207.01 370.84 0)
+			(at 213.36 370.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42993,73 +37634,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 182.88 313.69 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "dce46496-8639-46ee-bd67-9f9f7c3a996c")
-		(property "Reference" "#PWR052"
-			(at 176.53 313.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "PGND"
-			(at 179.07 313.6899 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 182.88 313.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 182.88 313.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 182.88 313.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "2366095f-2b52-4edc-9ea0-4346725e7104")
-		)
-		(instances
-			(project ""
-				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
-					(reference "#PWR052")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R_Small_US")
 		(at 477.52 257.81 0)
 		(unit 1)
@@ -43124,147 +37698,6 @@
 			(project "eye-of-terror"
 				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
 					(reference "R47")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Jumper:SolderJumper_3_Open")
-		(at 466.09 64.77 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "dd7ae7c6-e40b-4a16-bdf1-b44d380e63e4")
-		(property "Reference" "JP21"
-			(at 466.09 58.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "SolderJumper_3_Open"
-			(at 466.09 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Jumper:SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm"
-			(at 466.09 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 466.09 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Solder Jumper, 3-pole, open"
-			(at 466.09 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "c4a99d88-12e8-4c92-9688-489dffbb37b0")
-		)
-		(pin "1"
-			(uuid "6cdc6d8d-3618-4481-bdb6-6e74535b771f")
-		)
-		(pin "3"
-			(uuid "5b83d7f0-49da-4d45-af7e-1956931c6b6c")
-		)
-		(instances
-			(project "eye-of-terror"
-				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
-					(reference "JP21")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:NetTie_2")
-		(at 189.23 331.47 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "dda2ba47-44c1-40a0-bd1a-93371942d58e")
-		(property "Reference" "NT4"
-			(at 189.23 326.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "NetTie_2"
-			(at 189.23 328.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "NetTie:NetTie-2_SMD_Pad2.0mm"
-			(at 189.23 331.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 189.23 331.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Net tie, 2 pins"
-			(at 189.23 331.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "dd684966-2546-4167-aa4a-67e30bd4763a")
-		)
-		(pin "2"
-			(uuid "5d6a61d7-2a44-4ad6-ba1c-071804dd4134")
-		)
-		(instances
-			(project "eye-of-terror"
-				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
-					(reference "NT4")
 					(unit 1)
 				)
 			)
@@ -43591,79 +38024,6 @@
 			(project "eye-of-terror"
 				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
 					(reference "H46")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector_Generic:Conn_01x03")
-		(at 491.49 68.58 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "deb7eb0b-1606-48f3-b5d0-58addb353af0")
-		(property "Reference" "J12"
-			(at 494.03 67.3099 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Conn_01x03"
-			(at 494.03 69.8499 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical"
-			(at 491.49 68.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 491.49 68.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 491.49 68.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "f5d97bf3-31c0-4acf-ae2b-e1744c2b6ff9")
-		)
-		(pin "2"
-			(uuid "5d44963e-6147-4c50-8a64-144b05a93bde")
-		)
-		(pin "3"
-			(uuid "6c394b19-b5d6-4ae4-bd71-8c8052738c17")
-		)
-		(instances
-			(project "eye-of-terror"
-				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
-					(reference "J12")
 					(unit 1)
 				)
 			)
@@ -44115,7 +38475,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e09dc578-aa7e-4d10-9a78-1f9668b82562")
-		(property "Reference" "#PWR0132"
+		(property "Reference" "#PWR0154"
 			(at 449.58 269.24 0)
 			(effects
 				(font
@@ -44165,7 +38525,7 @@
 		(instances
 			(project "eye-of-terror"
 				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
-					(reference "#PWR0132")
+					(reference "#PWR0154")
 					(unit 1)
 				)
 			)
@@ -44230,72 +38590,6 @@
 			(project "eye-of-terror"
 				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
 					(reference "H25")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+5V")
-		(at 518.16 91.44 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "e2bbbe84-afbb-49f2-aa66-2ed15debcdca")
-		(property "Reference" "#PWR0121"
-			(at 518.16 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+5V"
-			(at 518.16 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 518.16 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 518.16 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 518.16 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "b5072d18-cfc6-43e9-85d4-f2a4d37f18d5")
-		)
-		(instances
-			(project "eye-of-terror"
-				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
-					(reference "#PWR0121")
 					(unit 1)
 				)
 			)
@@ -44929,7 +39223,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e832f35d-5500-4998-8456-c23c71334e27")
-		(property "Reference" "#PWR0133"
+		(property "Reference" "#PWR0161"
 			(at 477.52 269.24 0)
 			(effects
 				(font
@@ -44979,7 +39273,7 @@
 		(instances
 			(project "eye-of-terror"
 				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
-					(reference "#PWR0133")
+					(reference "#PWR0161")
 					(unit 1)
 				)
 			)
@@ -45052,72 +39346,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+3V3")
-		(at 419.1 36.83 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "e8b7f476-4c6d-4d24-a2b0-661301513aff")
-		(property "Reference" "#PWR099"
-			(at 419.1 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+3V3"
-			(at 419.1 31.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 419.1 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 419.1 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 419.1 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "6008676a-2ef5-41db-ae39-fde95a4feacd")
-		)
-		(instances
-			(project ""
-				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
-					(reference "#PWR099")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C_Small")
 		(at 22.86 293.37 0)
 		(unit 1)
@@ -45182,83 +39410,6 @@
 			(project ""
 				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
 					(reference "C1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:LED")
-		(at 203.2 53.34 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "eb078df5-25c1-4690-95e6-4c48b7c916e8")
-		(property "Reference" "D11"
-			(at 204.7875 45.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "RED"
-			(at 204.7875 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Diode_SMD:D_1206_3216Metric"
-			(at 203.2 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 203.2 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Light emitting diode"
-			(at 203.2 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 203.2 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "c850778e-ae8a-4542-9a12-fb3d3ef450d9")
-		)
-		(pin "2"
-			(uuid "5c17a95c-0ad7-4c8a-9f37-d303603dd154")
-		)
-		(instances
-			(project "eye-of-terror"
-				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
-					(reference "D11")
 					(unit 1)
 				)
 			)
@@ -45347,145 +39498,6 @@
 			(project ""
 				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
 					(reference "U5")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Jumper:SolderJumper_3_Open")
-		(at 414.02 93.98 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "eb88e0a4-f8c2-40ca-8942-6eeefba3710d")
-		(property "Reference" "JP19"
-			(at 414.02 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "SolderJumper_3_Open"
-			(at 414.02 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Jumper:SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm"
-			(at 414.02 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 414.02 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Solder Jumper, 3-pole, open"
-			(at 414.02 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "362cc31e-decb-4fa0-a9e4-f50013f1e7ae")
-		)
-		(pin "1"
-			(uuid "a9883336-329c-4d05-b4a8-937eedc1c056")
-		)
-		(pin "3"
-			(uuid "f28fc525-5012-4382-aad4-553b27a3ab92")
-		)
-		(instances
-			(project "eye-of-terror"
-				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
-					(reference "JP19")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 483.87 48.26 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "ebb51daa-feea-4d71-b1b5-e106accc69e1")
-		(property "Reference" "#PWR0108"
-			(at 483.87 54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "DGND"
-			(at 483.87 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 483.87 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 483.87 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 483.87 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "df469ed9-0e27-46a0-9449-e2de6ca348fa")
-		)
-		(instances
-			(project "eye-of-terror"
-				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
-					(reference "#PWR0108")
 					(unit 1)
 				)
 			)
@@ -45830,72 +39842,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+5V")
-		(at 408.94 62.23 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "ee2b736b-a589-45ac-96db-7c146e95759f")
-		(property "Reference" "#PWR0100"
-			(at 408.94 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+5V"
-			(at 408.94 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 408.94 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 408.94 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 408.94 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "01954539-3bd3-4882-ba22-25d3fc5e94ad")
-		)
-		(instances
-			(project "eye-of-terror"
-				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
-					(reference "#PWR0100")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Jumper:SolderJumper_2_Bridged")
 		(at 109.22 224.79 0)
 		(unit 1)
@@ -46092,72 +40038,6 @@
 			(project "eye-of-terror"
 				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
 					(reference "#PWR082")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 223.52 33.02 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "f184d7b0-9139-4812-8cf3-4e76b585048c")
-		(property "Reference" "#PWR084"
-			(at 223.52 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "DGND"
-			(at 223.52 38.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 223.52 33.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 223.52 33.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 223.52 33.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "1b8f3ef5-7f85-4aa7-b142-a6a6ec3ea899")
-		)
-		(instances
-			(project "eye-of-terror"
-				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
-					(reference "#PWR084")
 					(unit 1)
 				)
 			)
@@ -46716,150 +40596,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:LED")
-		(at 203.2 41.91 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "f7e6ea44-043e-40b9-a3f0-4cb24be3ef56")
-		(property "Reference" "D10"
-			(at 204.7875 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "RED"
-			(at 204.7875 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Diode_SMD:D_1206_3216Metric"
-			(at 203.2 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 203.2 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Light emitting diode"
-			(at 203.2 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 203.2 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "5f4ab5cc-5836-4551-b720-f33f00bb89c2")
-		)
-		(pin "2"
-			(uuid "ee480c3d-0763-42a4-8b62-28de4bcc2582")
-		)
-		(instances
-			(project "eye-of-terror"
-				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
-					(reference "D10")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 194.31 331.47 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "f8937044-6b89-454b-8e39-5293ba01fe41")
-		(property "Reference" "#PWR0127"
-			(at 200.66 331.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "DGND"
-			(at 198.12 331.4699 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 194.31 331.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 194.31 331.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 194.31 331.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "8484dbc1-16da-433b-8504-4f1e98938e4c")
-		)
-		(instances
-			(project "eye-of-terror"
-				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
-					(reference "#PWR0127")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Mechanical:MountingHole")
 		(at 532.13 170.18 0)
 		(unit 1)
@@ -46984,72 +40720,6 @@
 			(project "eye-of-terror"
 				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
 					(reference "#PWR026")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+3V3")
-		(at 471.17 62.23 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "fa63174a-aa7c-4afa-95e8-1da49582c668")
-		(property "Reference" "#PWR0110"
-			(at 471.17 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+3V3"
-			(at 471.17 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 471.17 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 471.17 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 471.17 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "b2ef2deb-2aef-44f3-b31c-d839540e764a")
-		)
-		(instances
-			(project "eye-of-terror"
-				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
-					(reference "#PWR0110")
 					(unit 1)
 				)
 			)

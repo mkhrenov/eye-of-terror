@@ -694,7 +694,7 @@
       {
         "filename": "eye-of-terror.kicad_sch",
         "name": "eye-of-terror",
-        "uuid": "00000000-0000-0000-0000-000000000000"
+        "uuid": "39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
       }
     ],
     "used_designators": "",
@@ -703,7 +703,7 @@
   "sheets": [
     [
       "39a8340e-8573-4ee6-a9e8-ae7a8efb30e4",
-      "Root"
+      "eye-of-terror"
     ]
   ],
   "text_variables": {},

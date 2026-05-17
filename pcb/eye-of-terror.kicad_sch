@@ -1779,6 +1779,148 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "Device:NetTie_2"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom no)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "NT"
+				(at 0 1.27 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "NetTie_2"
+				(at 0 -1.27 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Net tie, 2 pins"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "net tie short"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_fp_filters" "Net*Tie*"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "NetTie_2_0_1"
+				(polyline
+					(pts
+						(xy -1.27 0) (xy 1.27 0)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "NetTie_2_1_1"
+				(pin passive line
+					(at -2.54 0 0)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 2.54 0 180)
+					(length 2.54)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Device:Q_Photo_NPN"
 			(pin_names
 				(offset 0)
@@ -8123,6 +8265,18 @@
 		(uuid "11a511c8-edbf-4d94-89ff-f7d17d6297e5")
 	)
 	(rectangle
+		(start 389.89 222.25)
+		(end 509.27 283.21)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "2296e5e6-5b84-49bd-9bdd-2c07adac864a")
+	)
+	(rectangle
 		(start 109.22 336.55)
 		(end 170.18 365.76)
 		(stroke
@@ -8448,6 +8602,18 @@
 		)
 		(uuid "1fb7dd0b-c942-4e9e-8761-486652eccb33")
 	)
+	(text "Motor Winding Connections"
+		(exclude_from_sim no)
+		(at 452.12 229.87 0)
+		(effects
+			(font
+				(size 3.81 3.81)
+				(thickness 0.762)
+				(bold yes)
+			)
+		)
+		(uuid "302ff7f5-e45d-4d69-94aa-805bae6f419f")
+	)
 	(text "12 MHz Crystal"
 		(exclude_from_sim no)
 		(at 140.208 267.462 0)
@@ -8495,6 +8661,17 @@
 			)
 		)
 		(uuid "5218b039-1f37-4220-a3e8-786e176204b1")
+	)
+	(text "Phases U, V, and W connect to outputs A, B, and C in a delta configuration."
+		(exclude_from_sim no)
+		(at 414.02 236.22 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "674630f0-d2dc-4bb3-9694-ddb5cb3c40e5")
 	)
 	(text "RP2354B MCU"
 		(exclude_from_sim no)
@@ -8984,12 +9161,6 @@
 		(uuid "22063a35-8d12-41b9-8319-718232c9e0fc")
 	)
 	(junction
-		(at 191.77 383.54)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "26750c00-6fd4-44d5-a59f-4e8830f79b64")
-	)
-	(junction
 		(at 71.12 358.14)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -9290,12 +9461,6 @@
 		(uuid "92208754-8d34-42ab-99e3-2d68e74c8e94")
 	)
 	(junction
-		(at 213.36 383.54)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "95d34f69-b581-4005-8657-b3f34b256438")
-	)
-	(junction
 		(at 86.36 44.45)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -9416,6 +9581,12 @@
 		(uuid "ca83f961-234a-46bb-a7b9-29decc370282")
 	)
 	(junction
+		(at 492.76 279.4)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "cf9aa81a-006d-4f40-a235-a29e7f07e128")
+	)
+	(junction
 		(at 311.15 311.15)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -9476,6 +9647,12 @@
 		(uuid "efcddf4b-caab-468e-8052-5279e286f3bf")
 	)
 	(junction
+		(at 410.21 280.67)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f093e62a-9467-494b-99d1-65e0db1488fb")
+	)
+	(junction
 		(at 99.06 289.56)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -9486,6 +9663,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f1b04a32-f16d-4aa6-98cf-3e914294b404")
+	)
+	(junction
+		(at 450.85 251.46)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f369fe22-fa9f-45a5-aff3-4b0af1fe20f1")
 	)
 	(junction
 		(at 46.99 30.48)
@@ -9524,6 +9707,10 @@
 		(uuid "29f2536a-4f7a-4b00-beca-f51c42d72e44")
 	)
 	(no_connect
+		(at 350.52 176.53)
+		(uuid "2e6e65ff-2922-4258-be67-e3c163a36adf")
+	)
+	(no_connect
 		(at 148.59 396.24)
 		(uuid "5171831b-689f-4a7d-a210-56b08bff9859")
 	)
@@ -9546,16 +9733,6 @@
 	(no_connect
 		(at 66.04 161.29)
 		(uuid "cd2c4e9f-b931-4e98-a8af-5e0b9b0bceb2")
-	)
-	(wire
-		(pts
-			(xy 200.66 383.54) (xy 213.36 383.54)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "00821e85-daad-4316-b090-cbec3620c4c8")
 	)
 	(wire
 		(pts
@@ -9629,6 +9806,16 @@
 	)
 	(wire
 		(pts
+			(xy 189.23 314.96) (xy 189.23 317.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0379f927-3c4b-472f-b568-18ec8e3bda57")
+	)
+	(wire
+		(pts
 			(xy 290.83 120.65) (xy 304.8 120.65)
 		)
 		(stroke
@@ -9666,6 +9853,16 @@
 			(type default)
 		)
 		(uuid "0411cb41-e854-40fa-8856-b8f957c95102")
+	)
+	(wire
+		(pts
+			(xy 410.21 280.67) (xy 449.58 280.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0424c726-54ef-4dcb-8d81-caa3d991cd94")
 	)
 	(wire
 		(pts
@@ -9939,16 +10136,6 @@
 	)
 	(wire
 		(pts
-			(xy 213.36 383.54) (xy 213.36 388.62)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1034ee25-ac22-45bf-a6a0-031c8caf961f")
-	)
-	(wire
-		(pts
 			(xy 410.21 137.16) (xy 410.21 138.43)
 		)
 		(stroke
@@ -10029,6 +10216,16 @@
 	)
 	(wire
 		(pts
+			(xy 189.23 330.2) (xy 200.66 330.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "143f67ef-34e5-44ac-8f65-90420aeb6889")
+	)
+	(wire
+		(pts
 			(xy 490.22 193.04) (xy 490.22 195.58)
 		)
 		(stroke
@@ -10086,6 +10283,16 @@
 			(type default)
 		)
 		(uuid "1827e742-7641-49f3-8db2-90da2a51d49b")
+	)
+	(wire
+		(pts
+			(xy 464.82 264.16) (xy 474.98 264.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "18bd909d-fc77-467d-a8dd-e94e18e92968")
 	)
 	(wire
 		(pts
@@ -10236,16 +10443,6 @@
 			(type default)
 		)
 		(uuid "205b3509-1268-48f0-9d6e-3f859c9a182d")
-	)
-	(wire
-		(pts
-			(xy 354.33 176.53) (xy 354.33 177.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "20995336-431a-4e3c-a561-2dcd3b507051")
 	)
 	(wire
 		(pts
@@ -10506,16 +10703,6 @@
 			(type default)
 		)
 		(uuid "28777270-8a59-4c7f-b211-7472695d77bd")
-	)
-	(wire
-		(pts
-			(xy 213.36 393.7) (xy 213.36 397.51)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2890d4d9-396a-415b-bf7e-f4d8238931f7")
 	)
 	(wire
 		(pts
@@ -10809,6 +10996,16 @@
 	)
 	(wire
 		(pts
+			(xy 464.82 264.16) (xy 450.85 251.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3308e20f-d6af-421d-b93e-2f378570b7cc")
+	)
+	(wire
+		(pts
 			(xy 72.39 30.48) (xy 77.47 30.48)
 		)
 		(stroke
@@ -11076,6 +11273,16 @@
 			(type default)
 		)
 		(uuid "421acd73-695c-491b-9f0a-0149cbb1fca9")
+	)
+	(wire
+		(pts
+			(xy 427.99 264.16) (xy 438.15 264.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4239c86c-60d0-401a-b2fa-601bada53d35")
 	)
 	(wire
 		(pts
@@ -11629,16 +11836,6 @@
 	)
 	(wire
 		(pts
-			(xy 191.77 383.54) (xy 191.77 388.62)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5a4de797-b0ea-4a64-b932-f0745a955fcf")
-	)
-	(wire
-		(pts
 			(xy 436.88 147.32) (xy 436.88 154.94)
 		)
 		(stroke
@@ -12129,6 +12326,16 @@
 	)
 	(wire
 		(pts
+			(xy 205.74 314.96) (xy 217.17 314.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "719c433f-ee48-4034-a3a8-eecc3c2c8a50")
+	)
+	(wire
+		(pts
 			(xy 148.59 398.78) (xy 161.29 398.78)
 		)
 		(stroke
@@ -12409,6 +12616,26 @@
 	)
 	(wire
 		(pts
+			(xy 421.64 261.62) (xy 421.64 269.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7897e1d8-b39d-4283-b947-198c022ae065")
+	)
+	(wire
+		(pts
+			(xy 427.99 261.62) (xy 427.99 264.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "78b58142-e473-4ff5-8608-b8cf749aeb9d")
+	)
+	(wire
+		(pts
 			(xy 217.17 49.53) (xy 220.98 49.53)
 		)
 		(stroke
@@ -12609,6 +12836,16 @@
 	)
 	(wire
 		(pts
+			(xy 189.23 314.96) (xy 200.66 314.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "802504a2-92d5-4bd9-a7fa-624e3d0df034")
+	)
+	(wire
+		(pts
 			(xy 77.47 30.48) (xy 82.55 30.48)
 		)
 		(stroke
@@ -12626,6 +12863,16 @@
 			(type default)
 		)
 		(uuid "808e425f-3636-40ca-a7d7-0a8dec217248")
+	)
+	(wire
+		(pts
+			(xy 217.17 314.96) (xy 217.17 317.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "80c0597b-a0df-4d1a-b0e1-b7c48cd0025d")
 	)
 	(wire
 		(pts
@@ -12676,16 +12923,6 @@
 			(type default)
 		)
 		(uuid "836449b5-d41a-4c2e-a309-08af4265f1a6")
-	)
-	(wire
-		(pts
-			(xy 350.52 176.53) (xy 354.33 176.53)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "837de1cb-fb45-4948-9c14-f050a8b3478c")
 	)
 	(wire
 		(pts
@@ -12759,6 +12996,16 @@
 	)
 	(wire
 		(pts
+			(xy 217.17 330.2) (xy 217.17 332.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "87403304-a5bd-4885-9758-0c2d0bf59529")
+	)
+	(wire
+		(pts
 			(xy 273.05 146.05) (xy 304.8 146.05)
 		)
 		(stroke
@@ -12829,6 +13076,16 @@
 	)
 	(wire
 		(pts
+			(xy 450.85 245.11) (xy 461.01 245.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8b949be9-df63-420e-bad4-e2303b333e16")
+	)
+	(wire
+		(pts
 			(xy 49.53 151.13) (xy 66.04 151.13)
 		)
 		(stroke
@@ -12866,6 +13123,16 @@
 			(type default)
 		)
 		(uuid "8dcb8083-3521-4eb1-a971-1394be4b425f")
+	)
+	(wire
+		(pts
+			(xy 189.23 330.2) (xy 189.23 332.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8dd2c1ec-e823-4eb1-97fb-cfe6bfd11bf6")
 	)
 	(wire
 		(pts
@@ -13009,6 +13276,16 @@
 	)
 	(wire
 		(pts
+			(xy 455.93 276.86) (xy 455.93 279.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "93a5a7d8-ebec-49c5-aefc-b693cffec9af")
+	)
+	(wire
+		(pts
 			(xy 53.34 107.95) (xy 66.04 107.95)
 		)
 		(stroke
@@ -13116,6 +13393,16 @@
 			(type default)
 		)
 		(uuid "959f98b9-9087-49e0-9a42-38edeea3a364")
+	)
+	(wire
+		(pts
+			(xy 450.85 245.11) (xy 450.85 251.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "95f70597-ea4a-4b95-a9b0-95503363c10a")
 	)
 	(wire
 		(pts
@@ -13326,16 +13613,6 @@
 			(type default)
 		)
 		(uuid "9cfee2ca-7fb4-431a-814c-4e886b313781")
-	)
-	(wire
-		(pts
-			(xy 191.77 379.73) (xy 191.77 383.54)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9d260a18-129a-4c3c-9506-f893af7199a6")
 	)
 	(wire
 		(pts
@@ -13789,16 +14066,6 @@
 	)
 	(wire
 		(pts
-			(xy 213.36 370.84) (xy 213.36 374.65)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "acbd4308-0ab1-4785-a009-24380a98554c")
-	)
-	(wire
-		(pts
 			(xy 72.39 36.83) (xy 72.39 38.1)
 		)
 		(stroke
@@ -13929,6 +14196,16 @@
 	)
 	(wire
 		(pts
+			(xy 455.93 279.4) (xy 492.76 279.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b24f9892-2e3a-450e-80d8-14e8a71ef2a0")
+	)
+	(wire
+		(pts
 			(xy 250.19 311.15) (xy 262.89 311.15)
 		)
 		(stroke
@@ -13976,16 +14253,6 @@
 			(type default)
 		)
 		(uuid "b378c32f-496e-4ea6-b7ff-435626474fda")
-	)
-	(wire
-		(pts
-			(xy 191.77 393.7) (xy 191.77 397.51)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b4346bf8-088a-454b-b6c8-d0ab0c77e876")
 	)
 	(wire
 		(pts
@@ -14099,6 +14366,16 @@
 	)
 	(wire
 		(pts
+			(xy 205.74 330.2) (xy 217.17 330.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b8231222-a529-46bc-9de7-6b1ab49a7d00")
+	)
+	(wire
+		(pts
 			(xy 116.84 97.79) (xy 130.81 97.79)
 		)
 		(stroke
@@ -14106,6 +14383,16 @@
 			(type default)
 		)
 		(uuid "b8420786-f144-4dc6-a8b2-69a0f92b5a3b")
+	)
+	(wire
+		(pts
+			(xy 481.33 267.97) (xy 492.76 279.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b84b5d4b-b6fb-4eb8-a0b6-d4f95141c52c")
 	)
 	(wire
 		(pts
@@ -14196,16 +14483,6 @@
 			(type default)
 		)
 		(uuid "bab314a9-3556-41d8-98f8-7b90573a2dcd")
-	)
-	(wire
-		(pts
-			(xy 179.07 383.54) (xy 191.77 383.54)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bae56bd0-bf74-4a24-9c1b-700917a977ec")
 	)
 	(wire
 		(pts
@@ -14419,16 +14696,6 @@
 	)
 	(wire
 		(pts
-			(xy 191.77 370.84) (xy 191.77 374.65)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c23681a9-483f-4590-a617-797940547214")
-	)
-	(wire
-		(pts
 			(xy 154.94 382.27) (xy 148.59 382.27)
 		)
 		(stroke
@@ -14466,6 +14733,16 @@
 			(type default)
 		)
 		(uuid "c374a4f0-734c-4e0f-8ae6-383415812acd")
+	)
+	(wire
+		(pts
+			(xy 449.58 276.86) (xy 449.58 280.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c3894969-46b6-4157-9da7-c3a463ff84d3")
 	)
 	(wire
 		(pts
@@ -14526,6 +14803,16 @@
 			(type default)
 		)
 		(uuid "c7e040bc-6426-40a0-a34a-303dd21993c5")
+	)
+	(wire
+		(pts
+			(xy 410.21 280.67) (xy 421.64 269.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c7e64b1a-0fb8-48dd-ae89-fee3af28826c")
 	)
 	(wire
 		(pts
@@ -14899,6 +15186,16 @@
 	)
 	(wire
 		(pts
+			(xy 492.76 279.4) (xy 502.92 279.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d8fec351-fae7-4ad5-97af-9e27ea92fd42")
+	)
+	(wire
+		(pts
 			(xy 90.17 295.91) (xy 90.17 297.18)
 		)
 		(stroke
@@ -15089,6 +15386,16 @@
 	)
 	(wire
 		(pts
+			(xy 474.98 261.62) (xy 474.98 264.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e0de8229-7ea0-4e15-b00d-32b308f87869")
+	)
+	(wire
+		(pts
 			(xy 132.08 325.12) (xy 142.24 325.12)
 		)
 		(stroke
@@ -15166,6 +15473,16 @@
 			(type default)
 		)
 		(uuid "e3e8d4bc-dfc2-4cb7-90f7-31d7da643850")
+	)
+	(wire
+		(pts
+			(xy 481.33 261.62) (xy 481.33 267.97)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e55679de-7866-432f-b749-c42223712609")
 	)
 	(wire
 		(pts
@@ -15259,16 +15576,6 @@
 	)
 	(wire
 		(pts
-			(xy 213.36 379.73) (xy 213.36 383.54)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "eb3d4d03-aa04-4658-bc2c-f7e90a44510a")
-	)
-	(wire
-		(pts
 			(xy 548.64 185.42) (xy 548.64 184.15)
 		)
 		(stroke
@@ -15339,6 +15646,16 @@
 	)
 	(wire
 		(pts
+			(xy 438.15 264.16) (xy 450.85 251.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "eefd36b1-5544-4249-9ff4-88a346db93b1")
+	)
+	(wire
+		(pts
 			(xy 393.7 382.27) (xy 393.7 386.08)
 		)
 		(stroke
@@ -15396,6 +15713,16 @@
 			(type default)
 		)
 		(uuid "f137db46-4c10-4f24-9fb9-90738488db36")
+	)
+	(wire
+		(pts
+			(xy 398.78 280.67) (xy 410.21 280.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f1c3af1c-00e8-4850-808b-1b36a4c6c929")
 	)
 	(wire
 		(pts
@@ -15697,16 +16024,6 @@
 		)
 		(uuid "02a370c8-3568-4eaa-b6da-6ca42053e396")
 	)
-	(label "5V_MON"
-		(at 200.66 383.54 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "04b3e1f7-537b-4889-9cd7-b586f80f4796")
-	)
 	(label "SHC"
 		(at 359.41 101.6 180)
 		(effects
@@ -15967,16 +16284,6 @@
 			(justify left bottom)
 		)
 		(uuid "2eadb65f-6bf4-4536-9929-eacffaf03c62")
-	)
-	(label "BATT_MON"
-		(at 179.07 383.54 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "30c8fdc6-17ed-4e0e-8f53-a4bf60b9d625")
 	)
 	(label "ENC_SENSE_9"
 		(at 49.53 151.13 0)
@@ -16358,6 +16665,16 @@
 			(justify right bottom)
 		)
 		(uuid "6f833d77-b2cc-44a7-8478-2c4d48563af4")
+	)
+	(label "MOT_B"
+		(at 502.92 279.4 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "709935b2-208e-4181-aafb-646075d7dd1c")
 	)
 	(label "SDA_BOT_IR_TOF"
 		(at 49.53 115.57 0)
@@ -16769,6 +17086,16 @@
 		)
 		(uuid "a2e01ab9-a359-4e24-adf2-a5c2b8367536")
 	)
+	(label "MOT_A"
+		(at 461.01 245.11 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "a5e50123-e42b-4b30-835d-00b186a64dc9")
+	)
 	(label "ENC_SENSE_3"
 		(at 505.46 147.32 180)
 		(effects
@@ -16809,6 +17136,16 @@
 			(justify right bottom)
 		)
 		(uuid "acb37067-ca52-42e2-8ffb-f81426ebe1cf")
+	)
+	(label "MOT_C"
+		(at 398.78 280.67 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "b02550fe-b138-4e2e-af38-5a91e55bf8e5")
 	)
 	(label "AGND"
 		(at 360.68 170.18 180)
@@ -19494,84 +19831,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+BATT")
-		(at 191.77 370.84 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "15056e3a-def0-4885-b8f5-4d321bc44f42")
-		(property "Reference" "#PWR050"
-			(at 191.77 374.65 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "+BATT"
-			(at 191.77 365.76 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 191.77 370.84 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 191.77 370.84 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+BATT\""
-			(at 191.77 370.84 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "5631977a-575b-4cf8-a8c3-955477bdf9b3")
-		)
-		(instances
-			(project "eye-of-terror"
-				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
-					(reference "#PWR050")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Jumper:SolderJumper_2_Bridged")
 		(at 222.25 215.9 90)
 		(unit 1)
@@ -21257,88 +21516,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R_Small_US")
-		(at 191.77 391.16 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "2768112f-7cef-4ffe-a2c9-74ea57ffb7d3")
-		(property "Reference" "R21"
-			(at 194.31 389.8899 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "10k"
-			(at 194.31 392.4299 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 191.77 391.16 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 191.77 391.16 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor, small US symbol"
-			(at 191.77 391.16 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "2b217f26-9e5a-426a-b7d9-c74b6fd9c511")
-		)
-		(pin "2"
-			(uuid "a8705c12-b0f3-41ef-8679-e50212c043c5")
-		)
-		(instances
-			(project "eye-of-terror"
-				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
-					(reference "R21")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 22.86 303.53 0)
 		(unit 1)
@@ -21647,6 +21824,86 @@
 			(project "eye-of-terror"
 				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
 					(reference "#PWR016")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:NetTie_2")
+		(at 203.2 330.2 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "2e18cc95-d266-44ba-83fb-9961f6ad65e6")
+		(property "Reference" "NT2"
+			(at 203.2 325.12 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "NetTie_2"
+			(at 203.2 327.66 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "NetTie:NetTie-2_SMD_Pad2.0mm"
+			(at 203.2 330.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 203.2 330.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Net tie, 2 pins"
+			(at 203.2 330.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "4bd7615f-3131-45ab-be36-31c65f18c403")
+		)
+		(pin "1"
+			(uuid "c260e83d-a16f-4014-8687-ea894b1168a7")
+		)
+		(instances
+			(project "eye-of-terror"
+				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
+					(reference "NT2")
 					(unit 1)
 				)
 			)
@@ -22583,6 +22840,84 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 217.17 332.74 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "36c5d4d0-c838-443e-8536-3be6f995ae68")
+		(property "Reference" "#PWR086"
+			(at 217.17 339.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "DGND"
+			(at 217.17 337.82 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 217.17 332.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 217.17 332.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 217.17 332.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "2c149cf4-961b-4a26-89fb-d548c658b8e3")
+		)
+		(instances
+			(project "eye-of-terror"
+				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
+					(reference "#PWR086")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R_Small_US")
 		(at 39.37 336.55 0)
 		(unit 1)
@@ -23138,6 +23473,85 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 427.99 261.62 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3a9de1ab-5083-4520-b578-da4064e8a447")
+		(property "Reference" "TP7"
+			(at 430.53 257.0479 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "PHASE_V"
+			(at 430.53 259.5879 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 433.07 261.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 433.07 261.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "test point"
+			(at 427.99 261.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "33335cab-c666-45c0-bfce-bb3420811400")
+		)
+		(instances
+			(project "eye-of-terror"
+				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
+					(reference "TP7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C_Small")
 		(at 147.32 52.07 180)
 		(unit 1)
@@ -23240,7 +23654,7 @@
 				)
 			)
 		)
-		(property "Value" "15"
+		(property "Value" "100"
 			(at 214.63 45.72 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23557,7 +23971,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "15"
+		(property "Value" "100"
 			(at 280.67 359.4099 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26218,7 +26632,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1.5k"
+		(property "Value" "1k"
 			(at 224.79 243.8399 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27068,6 +27482,86 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 421.64 261.62 0)
+		(mirror y)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5c6efada-b848-4f45-a3c0-e0605fbe0aed")
+		(property "Reference" "TP6"
+			(at 419.1 257.0479 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "PHASE_V"
+			(at 419.1 259.5879 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 416.56 261.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 416.56 261.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "test point"
+			(at 421.64 261.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "dfed117c-ce9e-41c4-8fcd-051b2d9817ea")
+		)
+		(instances
+			(project "eye-of-terror"
+				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
+					(reference "TP6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 222.25 251.46 0)
 		(unit 1)
@@ -27460,88 +27954,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R_Small_US")
-		(at 191.77 377.19 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "63bc0674-6180-4df0-99f7-ff27ad572123")
-		(property "Reference" "R20"
-			(at 194.31 375.9199 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "68k"
-			(at 194.31 378.4599 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 191.77 377.19 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 191.77 377.19 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor, small US symbol"
-			(at 191.77 377.19 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "1a9a1234-8bd2-445c-99ba-51712f063180")
-		)
-		(pin "2"
-			(uuid "dc27e7c2-2d1c-4959-b5e0-057498787861")
-		)
-		(instances
-			(project "eye-of-terror"
-				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
-					(reference "R20")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 477.52 208.28 0)
 		(unit 1)
@@ -27784,85 +28196,6 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 191.77 397.51 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "679d9060-d796-433f-8534-7dd5fc3e3ed0")
-		(property "Reference" "#PWR049"
-			(at 191.77 403.86 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "DGND"
-			(at 194.31 398.7799 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 191.77 397.51 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 191.77 397.51 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 191.77 397.51 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "6841ab50-7613-4e9e-a901-fdc76e1d6ee9")
-		)
-		(instances
-			(project "eye-of-terror"
-				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
-					(reference "#PWR049")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
 		(at 410.21 209.55 0)
 		(unit 1)
 		(body_style 1)
@@ -27962,7 +28295,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "15"
+		(property "Value" "100"
 			(at 396.24 389.8899 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28846,7 +29179,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "15"
+		(property "Value" "100"
 			(at 336.55 359.4099 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -30368,85 +30701,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 213.36 397.51 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "7e4195a0-c88c-4533-ae1b-2bf1ef4676b4")
-		(property "Reference" "#PWR074"
-			(at 213.36 403.86 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "DGND"
-			(at 215.9 398.7799 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 213.36 397.51 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 213.36 397.51 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 213.36 397.51 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "194bde77-1bb1-48db-b9d9-7edd78f66826")
-		)
-		(instances
-			(project "eye-of-terror"
-				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
-					(reference "#PWR074")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R_Small_US")
 		(at 88.9 341.63 90)
 		(unit 1)
@@ -30521,6 +30775,85 @@
 			(project "eye-of-terror"
 				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
 					(reference "R7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 474.98 261.62 0)
+		(mirror y)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "7f22dd91-650b-4828-b521-2dcc6e412e91")
+		(property "Reference" "TP4"
+			(at 472.44 257.0479 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "PHASE_U"
+			(at 472.44 259.5879 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 469.9 261.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 469.9 261.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "test point"
+			(at 474.98 261.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "57247fcc-e408-4777-a2e3-fb0168ff36e7")
+		)
+		(instances
+			(project "eye-of-terror"
+				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
+					(reference "TP4")
 					(unit 1)
 				)
 			)
@@ -31030,7 +31363,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "15"
+		(property "Value" "100"
 			(at 336.55 389.8899 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31168,6 +31501,164 @@
 			(project "eye-of-terror"
 				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
 					(reference "C26")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:NetTie_2")
+		(at 203.2 314.96 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "85892cf0-e1a9-4174-96ec-9f24f9dbab95")
+		(property "Reference" "NT1"
+			(at 203.2 309.88 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "NetTie_2"
+			(at 203.2 312.42 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "NetTie:NetTie-2_SMD_Pad2.0mm"
+			(at 203.2 314.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 203.2 314.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Net tie, 2 pins"
+			(at 203.2 314.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "28d79d38-807d-44aa-a622-aa6d22e7302c")
+		)
+		(pin "1"
+			(uuid "dcf13de7-f106-4a5b-acae-ae888c52f5cc")
+		)
+		(instances
+			(project "eye-of-terror"
+				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
+					(reference "NT1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 217.17 317.5 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "86877de8-302e-4cc6-bc09-c15c5490b9c0")
+		(property "Reference" "#PWR077"
+			(at 217.17 323.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "DGND"
+			(at 217.17 322.58 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 217.17 317.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 217.17 317.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 217.17 317.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "53ee9c8d-b099-4eac-a3ab-56aeb3196bf7")
+		)
+		(instances
+			(project "eye-of-terror"
+				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
+					(reference "#PWR077")
 					(unit 1)
 				)
 			)
@@ -33274,6 +33765,84 @@
 			(project "eye-of-terror"
 				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
 					(reference "R64")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 189.23 332.74 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9d1882ef-ba5c-49ae-8740-2b87d4e554bb")
+		(property "Reference" "#PWR085"
+			(at 189.23 339.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "PGND"
+			(at 189.23 337.82 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 189.23 332.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 189.23 332.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 189.23 332.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "e9813490-53b3-4fcf-8e91-c42d335e5321")
+		)
+		(instances
+			(project "eye-of-terror"
+				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
+					(reference "#PWR085")
 					(unit 1)
 				)
 			)
@@ -35419,84 +35988,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 354.33 177.8 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "abf1936c-7028-4152-aaa9-d3218321960a")
-		(property "Reference" "#PWR060"
-			(at 354.33 184.15 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "PGND"
-			(at 354.33 182.88 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 354.33 177.8 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 354.33 177.8 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 354.33 177.8 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "4e49bc47-b50a-41ee-87ea-aee4939dcf91")
-		)
-		(instances
-			(project "eye-of-terror"
-				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
-					(reference "#PWR060")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Mechanical:MountingHole")
 		(at 499.11 116.84 0)
 		(unit 1)
@@ -36165,7 +36656,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "GREEN"
+		(property "Value" "RED"
 			(at 226.06 231.4574 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -36412,7 +36903,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "15"
+		(property "Value" "100"
 			(at 396.24 359.4099 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -36886,88 +37377,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R_Small_US")
-		(at 213.36 377.19 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "b85c8a1a-2279-4ed7-966a-fe6129c52cda")
-		(property "Reference" "R22"
-			(at 215.9 375.9199 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "1k"
-			(at 215.9 378.4599 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 213.36 377.19 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 213.36 377.19 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor, small US symbol"
-			(at 213.36 377.19 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "d68640e9-b93f-4958-995c-e13fff830006")
-		)
-		(pin "2"
-			(uuid "4bea1328-e4d9-4780-b228-b9939f743f09")
-		)
-		(instances
-			(project "eye-of-terror"
-				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
-					(reference "R22")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 370.84 165.1 0)
 		(unit 1)
@@ -37280,88 +37689,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R_Small_US")
-		(at 213.36 391.16 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "bbba0778-00f4-433b-bfc3-12e2ee0f2fe0")
-		(property "Reference" "R23"
-			(at 215.9 389.8899 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "1.5k"
-			(at 215.9 392.4299 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_1210_3225Metric"
-			(at 213.36 391.16 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 213.36 391.16 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor, small US symbol"
-			(at 213.36 391.16 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "c000f713-44d7-46a4-b3ef-6d61c534fb80")
-		)
-		(pin "2"
-			(uuid "c4655e84-1ed1-4119-b112-826b3bfe31ee")
-		)
-		(instances
-			(project "eye-of-terror"
-				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
-					(reference "R23")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 561.34 208.28 0)
 		(unit 1)
@@ -37434,6 +37761,84 @@
 			(project "eye-of-terror"
 				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
 					(reference "#PWR0158")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 189.23 317.5 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "bd691834-8b18-4e69-85b2-fcf65da8162a")
+		(property "Reference" "#PWR084"
+			(at 189.23 323.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "PGND"
+			(at 189.23 322.58 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 189.23 317.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 189.23 317.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 189.23 317.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "8a9bc5d5-ec90-4f36-b1ec-a3d1c5f1aee3")
+		)
+		(instances
+			(project "eye-of-terror"
+				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
+					(reference "#PWR084")
 					(unit 1)
 				)
 			)
@@ -37619,7 +38024,7 @@
 				)
 			)
 		)
-		(property "Value" "15"
+		(property "Value" "100"
 			(at 214.63 29.21 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -38224,7 +38629,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "15"
+		(property "Value" "100"
 			(at 280.67 389.8899 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -38673,6 +39078,85 @@
 			(project "eye-of-terror"
 				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
 					(reference "#PWR0144")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 455.93 276.86 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "cebd501d-0330-4b1d-9777-e86f3cce7513")
+		(property "Reference" "TP9"
+			(at 458.47 272.2879 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "PHASE_W"
+			(at 458.47 274.8279 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 461.01 276.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 461.01 276.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "test point"
+			(at 455.93 276.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "37699796-e7da-48ae-80c6-db57703f6fa2")
+		)
+		(instances
+			(project "eye-of-terror"
+				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
+					(reference "TP9")
 					(unit 1)
 				)
 			)
@@ -40137,84 +40621,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+5V")
-		(at 213.36 370.84 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "daa9f77e-938e-438c-9ed3-b0ec5802b430")
-		(property "Reference" "#PWR076"
-			(at 213.36 374.65 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "+5V"
-			(at 213.36 365.76 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 213.36 370.84 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 213.36 370.84 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 213.36 370.84 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "65c0c469-7201-4d47-8f2d-804874eea614")
-		)
-		(instances
-			(project "eye-of-terror"
-				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
-					(reference "#PWR076")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R_Small_US")
 		(at 490.22 142.24 0)
 		(mirror y)
@@ -41101,6 +41507,86 @@
 			(project "eye-of-terror"
 				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
 					(reference "H46")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 449.58 276.86 0)
+		(mirror y)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "dee62321-a0bc-49bf-9624-12599e0c7d70")
+		(property "Reference" "TP8"
+			(at 447.04 272.2879 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "PHASE_W"
+			(at 447.04 274.8279 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 444.5 276.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 444.5 276.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "test point"
+			(at 449.58 276.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "37613157-0e9d-4592-9359-cc5b9eec75b8")
+		)
+		(instances
+			(project "eye-of-terror"
+				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
+					(reference "TP8")
 					(unit 1)
 				)
 			)
@@ -42162,6 +42648,85 @@
 			(project "eye-of-terror"
 				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
 					(reference "C38")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 481.33 261.62 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e52bf855-fe76-4c05-89ba-f95e0143683d")
+		(property "Reference" "TP5"
+			(at 483.87 257.0479 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "PHASE_U"
+			(at 483.87 259.5879 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 486.41 261.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 486.41 261.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "test point"
+			(at 481.33 261.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "5f493ae6-5cc3-4f4c-a6e2-bbf0bb71d133")
+		)
+		(instances
+			(project "eye-of-terror"
+				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
+					(reference "TP5")
 					(unit 1)
 				)
 			)

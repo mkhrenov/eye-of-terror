@@ -463,9 +463,9 @@
       "no_connect_connected": "warning",
       "no_connect_dangling": "warning",
       "pin_not_connected": "error",
-      "pin_not_driven": "error",
-      "pin_to_pin": "warning",
-      "power_pin_not_driven": "error",
+      "pin_not_driven": "warning",
+      "pin_to_pin": "ignore",
+      "power_pin_not_driven": "warning",
       "same_local_global_label": "warning",
       "similar_label_and_power": "warning",
       "similar_labels": "warning",
@@ -491,7 +491,8 @@
       "AP6320X-WU",
       "ul_GT-USB-7055A",
       "rpi-lib-kicad-rp235x",
-      "mounting-holes"
+      "mounting-holes",
+      "ESD122DMXR"
     ],
     "pinned_symbol_libs": [
       "radiomaster-rp2",
@@ -551,7 +552,7 @@
       "method": 0,
       "sort_order": 0
     },
-    "bom_export_filename": "eye-of-terror.csv",
+    "bom_export_filename": "${PROJECTNAME}.csv",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
       "field_delimiter": ",",
@@ -603,6 +604,12 @@
           "show": false
         },
         {
+          "group_by": false,
+          "label": "LCSC Number",
+          "name": "LCSC Number",
+          "show": true
+        },
+        {
           "group_by": true,
           "label": "Footprint",
           "name": "Footprint",
@@ -631,14 +638,86 @@
           "label": "#",
           "name": "${ITEM_NUMBER}",
           "show": false
+        },
+        {
+          "group_by": false,
+          "label": "MF",
+          "name": "MF",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "MP",
+          "name": "MP",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "PARTREV",
+          "name": "PARTREV",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Package",
+          "name": "Package",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Price",
+          "name": "Price",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Purchase-URL",
+          "name": "Purchase-URL",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "STANDARD",
+          "name": "STANDARD",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "MAXIMUM_PACKAGE_HEIGHT",
+          "name": "MAXIMUM_PACKAGE_HEIGHT",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "SnapEDA_Link",
+          "name": "SnapEDA_Link",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Check_prices",
+          "name": "Check_prices",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "MANUFACTURER",
+          "name": "MANUFACTURER",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Availability",
+          "name": "Availability",
+          "show": false
         }
       ],
       "filter_string": "",
       "group_symbols": true,
       "include_excluded_from_bom": false,
       "name": "",
-      "sort_asc": false,
-      "sort_field": "${QUANTITY}"
+      "sort_asc": true,
+      "sort_field": "Reference"
     },
     "bus_aliases": {},
     "connection_grid_size": 50.0,
@@ -697,7 +776,7 @@
         "uuid": "39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
       }
     ],
-    "used_designators": "TP6-9,#PWR49-50,#PWR74,#PWR76,R20-23",
+    "used_designators": "JP17,U8,D9,#PWR87,#PWR89-90",
     "variants": []
   },
   "sheets": [

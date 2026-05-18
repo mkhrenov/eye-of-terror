@@ -492,7 +492,8 @@
       "ul_GT-USB-7055A",
       "rpi-lib-kicad-rp235x",
       "mounting-holes",
-      "ESD122DMXR"
+      "ESD122DMXR",
+      "motor-phase-connection"
     ],
     "pinned_symbol_libs": [
       "radiomaster-rp2",

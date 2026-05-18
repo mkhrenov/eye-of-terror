@@ -204,6 +204,19 @@
 				)
 			)
 		)
+		(property "LCSC Number" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "31131620-650f-459c-bf36-ffaa725af7c0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/ac5a8882-0d87-4ff7-ac36-a85f2f9b2b91")
 		(sheetname "/")
@@ -214,7 +227,7 @@
 				(pins)
 			)
 		)
-		(attr exclude_from_bom)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
 			(center 0 0)
@@ -312,6 +325,19 @@
 				)
 			)
 		)
+		(property "LCSC Number" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b4afb76c-0384-439a-bec5-b86683eacdf6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/a5a09bd3-0085-44ac-bef8-eb35b4521ccb")
 		(sheetname "/")
@@ -322,7 +348,7 @@
 				(pins)
 			)
 		)
-		(attr exclude_from_bom)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
 			(center 0 0)
@@ -420,6 +446,19 @@
 				)
 			)
 		)
+		(property "LCSC Number" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "317bc5fc-2288-4683-8855-feaf5976df96")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/de2bdae5-1d9b-448c-84e0-2222ff8a0ed0")
 		(sheetname "/")
@@ -430,7 +469,7 @@
 				(pins)
 			)
 		)
-		(attr exclude_from_bom)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
 			(center 0 0)
@@ -528,6 +567,19 @@
 				)
 			)
 		)
+		(property "LCSC Number" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "49663afc-5361-419f-bfe2-4bee1d4e1574")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/996b0b69-cd81-485e-bd17-b327388f08cc")
 		(sheetname "/")
@@ -538,7 +590,7 @@
 				(pins)
 			)
 		)
-		(attr exclude_from_bom)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
 			(center 0 0)
@@ -631,6 +683,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Number" "C105588"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4060ae82-cf3a-47cd-808d-f153b29a1b4d")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -836,6 +901,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Number" "C2832211"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "09319895-8d6f-4dfe-98c4-207d0380266c")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -1086,6 +1164,19 @@
 				)
 			)
 		)
+		(property "LCSC Number" "C23733"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "aa32ad08-61cf-4951-9d54-bb5b0683e355")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/0182e89a-97c5-4e27-823a-bf4896c5c52d")
 		(sheetname "/")
@@ -1294,6 +1385,19 @@
 				)
 			)
 		)
+		(property "LCSC Number" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "947288e4-76d6-4b82-8fb2-f4db5baf89b2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/e397e6da-2db1-4d37-8e69-bc13701f2051")
 		(sheetname "/")
@@ -1304,7 +1408,7 @@
 				(pins)
 			)
 		)
-		(attr exclude_from_bom)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
 			(center 0 0)
@@ -1397,6 +1501,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Number" "C368599"
+			(at 0 0 225)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fb4e7d32-5dc4-402a-a6f4-ef07ed1a26cf")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -1605,6 +1722,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Number" "C1518717"
+			(at 0 0 315)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a595f541-9ac9-48c9-9d1b-94c4b94d6475")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -2454,6 +2584,19 @@
 				)
 			)
 		)
+		(property "LCSC Number" "C106235"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5355d1b4-6c96-4141-ab89-4e21f4e10233")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/3d32842c-4aad-4000-b6c4-dc8ec0ef6025")
 		(sheetname "/")
@@ -2658,6 +2801,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Number" "C146233"
+			(at 0 0 210.8)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8a6c66b4-c376-4193-9626-819f6b8d6dbf")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -2891,6 +3047,19 @@
 				)
 			)
 		)
+		(property "LCSC Number" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4f62714b-a916-4f28-b934-a8b522bed1c3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/b4bf8de3-1ac0-4423-bbe4-141e52488bae")
 		(sheetname "/")
@@ -2901,7 +3070,7 @@
 				(pins)
 			)
 		)
-		(attr exclude_from_bom)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
 			(center 0 0)
@@ -2994,6 +3163,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Number" "C114607"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9d2e3c25-327f-4982-81a5-75efdf363a2d")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -3206,6 +3388,19 @@
 				)
 			)
 		)
+		(property "LCSC Number" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b678b28f-4d02-4aa0-94dc-e4e750033395")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/5ba77c67-051c-47a5-8195-766e67f8ad00")
 		(sheetname "/")
@@ -3216,7 +3411,7 @@
 				(pins)
 			)
 		)
-		(attr exclude_from_bom)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
 			(center 0 0)
@@ -3315,6 +3510,19 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "f4123af2-b3dd-41eb-9282-fd8a42f1a5ef")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Number" "C105588"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c9fb99b2-4a54-4b79-85d3-d89f77b8a976")
 			(effects
 				(font
 					(size 1 1)
@@ -3472,6 +3680,19 @@
 				)
 			)
 		)
+		(property "LCSC Number" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c9f2d252-2b54-4d18-a2e6-61243fe71b3c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/1aa2afcc-4230-4c83-9bbe-6ee01cfe1c3d")
 		(sheetname "/")
@@ -3482,7 +3703,7 @@
 				(pins)
 			)
 		)
-		(attr exclude_from_bom)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
 			(center 0 0)
@@ -3526,14 +3747,14 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "TestPoint:TestPoint_Pad_D2.5mm"
+	(footprint "motor-phase-connection:THTPad_D5.0mm_Drill2.5mm"
 		(layer "F.Cu")
 		(uuid "19dc1f48-a4fe-40fc-b7e1-f7b3ed2b9fbd")
 		(at 89.975 231.625)
-		(descr "SMD pad as test Point, diameter 2.5mm")
-		(tags "test point SMD pad")
+		(descr "THT pad as test Point, diameter 4.0mm, hole diameter 2.0mm")
+		(tags "test point THT pad")
 		(property "Reference" "TP5"
-			(at 0 -2.148 0)
+			(at 0 -3.6 0)
 			(layer "F.SilkS")
 			(uuid "4d07649d-167b-4a2a-8212-8bdf1d098857")
 			(effects
@@ -3544,7 +3765,7 @@
 			)
 		)
 		(property "Value" "PHASE_U"
-			(at 0 2.25 0)
+			(at 0 3.1 0)
 			(layer "F.Fab")
 			(uuid "b4a5367b-7ada-4805-be1b-20c43a0d355e")
 			(effects
@@ -3580,6 +3801,19 @@
 				)
 			)
 		)
+		(property "LCSC Number" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "786b2bc4-8cf1-4ec4-830b-cc400d6bdea6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Pin* Test*")
 		(path "/e52bf855-fe76-4c05-89ba-f95e0143683d")
 		(sheetname "/")
@@ -3590,10 +3824,11 @@
 				(pins "1")
 			)
 		)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
 			(center 0 0)
-			(end 0 1.45)
+			(end 2.75 0)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -3604,7 +3839,7 @@
 		)
 		(fp_circle
 			(center 0 0)
-			(end 1.75 0)
+			(end 3 0)
 			(stroke
 				(width 0.05)
 				(type solid)
@@ -3614,7 +3849,7 @@
 			(uuid "08d7cdd2-b018-4f8d-a8e0-06e62ede8852")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 -2.15 0)
+			(at 0 -2.9 0)
 			(layer "F.Fab")
 			(uuid "1f6ba039-792c-457c-8c3d-4b96d8b86f61")
 			(effects
@@ -3624,10 +3859,12 @@
 				)
 			)
 		)
-		(pad "1" smd circle
+		(pad "1" thru_hole circle
 			(at 0 0)
-			(size 2.5 2.5)
-			(layers "F.Cu" "F.Mask")
+			(size 5 5)
+			(drill 2.5)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
 			(net "/MOT_B")
 			(pinfunction "1_1")
 			(pintype "passive")
@@ -3684,6 +3921,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Number" "C14663"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ef528ae4-8ddb-41ed-a136-04d12d1cafc4")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -3890,6 +4140,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Number" "C23733"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f29f6768-13a8-4b91-8c61-86c361e34a92")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -4101,6 +4364,19 @@
 				)
 			)
 		)
+		(property "LCSC Number" "C86285"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4b490018-af87-46f8-acc7-b78b79efb3c1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/956c227d-4162-44e7-8e75-75d15c68dbdf")
 		(sheetname "/")
@@ -4303,6 +4579,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Number" "C23733"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "740d5210-6196-4fdd-83c6-58769e133923")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -4515,6 +4804,19 @@
 				)
 			)
 		)
+		(property "LCSC Number" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6e68b460-a38c-4f14-9b72-a38c64b89d54")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/a5d6bc58-2548-4b9f-a971-a62b6c01b4f5")
 		(sheetname "/")
@@ -4525,7 +4827,7 @@
 				(pins)
 			)
 		)
-		(attr exclude_from_bom)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
 			(center 0 0)
@@ -4618,6 +4920,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Number" "C60490"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "853fa558-72f5-4048-b4d6-63fe7e8f3b99")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -4776,6 +5091,557 @@
 			)
 		)
 	)
+	(footprint "ESD122DMXR:IC_ESD122DMXR"
+		(layer "F.Cu")
+		(uuid "22248a35-e59f-4633-8895-66a7e756341c")
+		(at 164.92 201.525)
+		(property "Reference" "U8"
+			(at 0.062 -0.9524 0)
+			(layer "F.SilkS")
+			(uuid "27b70c0e-8d94-4e21-9be0-63115e36ae3f")
+			(effects
+				(font
+					(size 0.24 0.24)
+					(thickness 0.06)
+				)
+			)
+		)
+		(property "Value" "ESD122DMXR"
+			(at 1.2812 0.9476 0)
+			(layer "F.Fab")
+			(uuid "c82fc249-f76d-4ed2-80b1-c37639f7121b")
+			(effects
+				(font
+					(size 0.24 0.24)
+					(thickness 0.06)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2d1c5555-bf82-4df5-b167-5b5392e2cb9e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Dual 0.2-pF, ±3.6-V, ±17-kV ESD protection diode for USB Type-C and HDMI 2.0"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5086f10d-9060-4af7-ae3d-cf2c05944708")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MF" "Texas Instruments"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "915923b9-ed91-455c-90b6-185e6e34373d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" "0.4 mm"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7a5f6fbd-2ad6-4341-8c3a-c520a58f5912")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Package" "X2SON-3 Texas Instruments"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4bd4d588-134f-4825-8f7c-a0b03bd6bc46")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Price" "None"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5924b27c-aa23-4839-aa61-135d6ccf1597")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/ESD122DMXR/Texas+Instruments/view-part/?ref=eda"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "26314cc7-bb29-4d83-98ce-2a0a1f85fcdd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "STANDARD" "Manufacturer Recommendations"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "abdbb054-5ce5-4ae7-a359-7fcb5f820c6d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "PARTREV" "A"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2bb7eb36-cccb-4c34-83e1-5f62d1d88384")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/ESD122DMXR/Texas+Instruments/view-part/?ref=snap"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "82c1740c-a0ff-45fa-b908-017b77facc79")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MP" "ESD122DMXR"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "57778cc4-bcf9-4c12-97a0-48a850f15997")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=1661990&manufacturer=Texas Instruments&part_name=ESD122DMXR&search_term=None"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "602ea596-29a4-4d99-b5eb-df2ffa0ffe13")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Availability" "In Stock"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "15a52c90-ee9d-4cfb-969b-66038cb248a0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MANUFACTURER" "Texas Instruments"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c5b08e3f-f955-4e40-8af2-a3908479380b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(path "/fd19e165-f4bf-499f-ab3d-5c6d69e9677f")
+		(sheetname "/")
+		(sheetfile "eye-of-terror.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "2" "3" "1")
+			)
+		)
+		(attr smd)
+		(duplicate_pad_numbers_are_jumpers no)
+		(fp_poly
+			(pts
+				(xy -0.3 -0.1) (xy -0.3 0.1) (xy -0.3 0.103) (xy -0.3 0.105) (xy -0.299 0.108) (xy -0.299 0.11)
+				(xy -0.298 0.113) (xy -0.298 0.115) (xy -0.297 0.118) (xy -0.296 0.12) (xy -0.295 0.123) (xy -0.293 0.125)
+				(xy -0.292 0.127) (xy -0.29 0.129) (xy -0.289 0.131) (xy -0.287 0.133) (xy -0.285 0.135) (xy -0.283 0.137)
+				(xy -0.281 0.139) (xy -0.279 0.14) (xy -0.277 0.142) (xy -0.275 0.143) (xy -0.273 0.145) (xy -0.27 0.146)
+				(xy -0.268 0.147) (xy -0.265 0.148) (xy -0.263 0.148) (xy -0.26 0.149) (xy -0.258 0.149) (xy -0.255 0.15)
+				(xy -0.253 0.15) (xy -0.25 0.15) (xy -0.05 0.15) (xy -0.047 0.15) (xy -0.045 0.15) (xy -0.042 0.149)
+				(xy -0.04 0.149) (xy -0.037 0.148) (xy -0.035 0.148) (xy -0.032 0.147) (xy -0.03 0.146) (xy -0.027 0.145)
+				(xy -0.025 0.143) (xy -0.023 0.142) (xy -0.021 0.14) (xy -0.019 0.139) (xy -0.017 0.137) (xy -0.015 0.135)
+				(xy -0.013 0.133) (xy -0.011 0.131) (xy -0.01 0.129) (xy -0.008 0.127) (xy -0.007 0.125) (xy -0.005 0.123)
+				(xy -0.004 0.12) (xy -0.003 0.118) (xy -0.002 0.115) (xy -0.002 0.113) (xy -0.001 0.11) (xy -0.001 0.108)
+				(xy 0 0.105) (xy 0 0.103) (xy 0 0.1) (xy 0 -0.1) (xy 0 -0.103) (xy 0 -0.105) (xy -0.001 -0.108)
+				(xy -0.001 -0.11) (xy -0.002 -0.113) (xy -0.002 -0.115) (xy -0.003 -0.118) (xy -0.004 -0.12) (xy -0.005 -0.123)
+				(xy -0.007 -0.125) (xy -0.008 -0.127) (xy -0.01 -0.129) (xy -0.011 -0.131) (xy -0.013 -0.133) (xy -0.015 -0.135)
+				(xy -0.017 -0.137) (xy -0.019 -0.139) (xy -0.021 -0.14) (xy -0.023 -0.142) (xy -0.025 -0.143) (xy -0.027 -0.145)
+				(xy -0.03 -0.146) (xy -0.032 -0.147) (xy -0.035 -0.148) (xy -0.037 -0.148) (xy -0.04 -0.149) (xy -0.042 -0.149)
+				(xy -0.045 -0.15) (xy -0.047 -0.15) (xy -0.05 -0.15) (xy -0.25 -0.15) (xy -0.253 -0.15) (xy -0.255 -0.15)
+				(xy -0.258 -0.149) (xy -0.26 -0.149) (xy -0.263 -0.148) (xy -0.265 -0.148) (xy -0.268 -0.147) (xy -0.27 -0.146)
+				(xy -0.273 -0.145) (xy -0.275 -0.143) (xy -0.277 -0.142) (xy -0.279 -0.14) (xy -0.281 -0.139) (xy -0.283 -0.137)
+				(xy -0.285 -0.135) (xy -0.287 -0.133) (xy -0.289 -0.131) (xy -0.29 -0.129) (xy -0.292 -0.127) (xy -0.293 -0.125)
+				(xy -0.295 -0.123) (xy -0.296 -0.12) (xy -0.297 -0.118) (xy -0.298 -0.115) (xy -0.298 -0.113) (xy -0.299 -0.11)
+				(xy -0.299 -0.108) (xy -0.3 -0.105) (xy -0.3 -0.103) (xy -0.3 -0.1)
+			)
+			(stroke
+				(width 0.01)
+				(type solid)
+			)
+			(fill yes)
+			(layer "F.Mask")
+			(uuid "f707385f-bf3a-4997-832a-c819952b8878")
+		)
+		(fp_poly
+			(pts
+				(xy 0 -0.44) (xy 0 -0.24) (xy 0 -0.237) (xy 0 -0.235) (xy 0.001 -0.232) (xy 0.001 -0.23) (xy 0.002 -0.227)
+				(xy 0.002 -0.225) (xy 0.003 -0.222) (xy 0.004 -0.22) (xy 0.005 -0.217) (xy 0.007 -0.215) (xy 0.008 -0.213)
+				(xy 0.01 -0.211) (xy 0.011 -0.209) (xy 0.013 -0.207) (xy 0.015 -0.205) (xy 0.017 -0.203) (xy 0.019 -0.201)
+				(xy 0.021 -0.2) (xy 0.023 -0.198) (xy 0.025 -0.197) (xy 0.027 -0.195) (xy 0.03 -0.194) (xy 0.032 -0.193)
+				(xy 0.035 -0.192) (xy 0.037 -0.192) (xy 0.04 -0.191) (xy 0.042 -0.191) (xy 0.045 -0.19) (xy 0.047 -0.19)
+				(xy 0.05 -0.19) (xy 0.25 -0.19) (xy 0.253 -0.19) (xy 0.255 -0.19) (xy 0.258 -0.191) (xy 0.26 -0.191)
+				(xy 0.263 -0.192) (xy 0.265 -0.192) (xy 0.268 -0.193) (xy 0.27 -0.194) (xy 0.273 -0.195) (xy 0.275 -0.197)
+				(xy 0.277 -0.198) (xy 0.279 -0.2) (xy 0.281 -0.201) (xy 0.283 -0.203) (xy 0.285 -0.205) (xy 0.287 -0.207)
+				(xy 0.289 -0.209) (xy 0.29 -0.211) (xy 0.292 -0.213) (xy 0.293 -0.215) (xy 0.295 -0.217) (xy 0.296 -0.22)
+				(xy 0.297 -0.222) (xy 0.298 -0.225) (xy 0.298 -0.227) (xy 0.299 -0.23) (xy 0.299 -0.232) (xy 0.3 -0.235)
+				(xy 0.3 -0.237) (xy 0.3 -0.24) (xy 0.3 -0.44) (xy 0.3 -0.443) (xy 0.3 -0.445) (xy 0.299 -0.448)
+				(xy 0.299 -0.45) (xy 0.298 -0.453) (xy 0.298 -0.455) (xy 0.297 -0.458) (xy 0.296 -0.46) (xy 0.295 -0.463)
+				(xy 0.293 -0.465) (xy 0.292 -0.467) (xy 0.29 -0.469) (xy 0.289 -0.471) (xy 0.287 -0.473) (xy 0.285 -0.475)
+				(xy 0.283 -0.477) (xy 0.281 -0.479) (xy 0.279 -0.48) (xy 0.277 -0.482) (xy 0.275 -0.483) (xy 0.273 -0.485)
+				(xy 0.27 -0.486) (xy 0.268 -0.487) (xy 0.265 -0.488) (xy 0.263 -0.488) (xy 0.26 -0.489) (xy 0.258 -0.489)
+				(xy 0.255 -0.49) (xy 0.253 -0.49) (xy 0.25 -0.49) (xy 0.05 -0.49) (xy 0.047 -0.49) (xy 0.045 -0.49)
+				(xy 0.042 -0.489) (xy 0.04 -0.489) (xy 0.037 -0.488) (xy 0.035 -0.488) (xy 0.032 -0.487) (xy 0.03 -0.486)
+				(xy 0.027 -0.485) (xy 0.025 -0.483) (xy 0.023 -0.482) (xy 0.021 -0.48) (xy 0.019 -0.479) (xy 0.017 -0.477)
+				(xy 0.015 -0.475) (xy 0.013 -0.473) (xy 0.011 -0.471) (xy 0.01 -0.469) (xy 0.008 -0.467) (xy 0.007 -0.465)
+				(xy 0.005 -0.463) (xy 0.004 -0.46) (xy 0.003 -0.458) (xy 0.002 -0.455) (xy 0.002 -0.453) (xy 0.001 -0.45)
+				(xy 0.001 -0.448) (xy 0 -0.445) (xy 0 -0.443) (xy 0 -0.44)
+			)
+			(stroke
+				(width 0.01)
+				(type solid)
+			)
+			(fill yes)
+			(layer "F.Mask")
+			(uuid "ead7d256-318f-456b-80a5-6758c974ada0")
+		)
+		(fp_poly
+			(pts
+				(xy 0 0.24) (xy 0 0.44) (xy 0 0.443) (xy 0 0.445) (xy 0.001 0.448) (xy 0.001 0.45) (xy 0.002 0.453)
+				(xy 0.002 0.455) (xy 0.003 0.458) (xy 0.004 0.46) (xy 0.005 0.463) (xy 0.007 0.465) (xy 0.008 0.467)
+				(xy 0.01 0.469) (xy 0.011 0.471) (xy 0.013 0.473) (xy 0.015 0.475) (xy 0.017 0.477) (xy 0.019 0.479)
+				(xy 0.021 0.48) (xy 0.023 0.482) (xy 0.025 0.483) (xy 0.027 0.485) (xy 0.03 0.486) (xy 0.032 0.487)
+				(xy 0.035 0.488) (xy 0.037 0.488) (xy 0.04 0.489) (xy 0.042 0.489) (xy 0.045 0.49) (xy 0.047 0.49)
+				(xy 0.05 0.49) (xy 0.25 0.49) (xy 0.253 0.49) (xy 0.255 0.49) (xy 0.258 0.489) (xy 0.26 0.489) (xy 0.263 0.488)
+				(xy 0.265 0.488) (xy 0.268 0.487) (xy 0.27 0.486) (xy 0.273 0.485) (xy 0.275 0.483) (xy 0.277 0.482)
+				(xy 0.279 0.48) (xy 0.281 0.479) (xy 0.283 0.477) (xy 0.285 0.475) (xy 0.287 0.473) (xy 0.289 0.471)
+				(xy 0.29 0.469) (xy 0.292 0.467) (xy 0.293 0.465) (xy 0.295 0.463) (xy 0.296 0.46) (xy 0.297 0.458)
+				(xy 0.298 0.455) (xy 0.298 0.453) (xy 0.299 0.45) (xy 0.299 0.448) (xy 0.3 0.445) (xy 0.3 0.443)
+				(xy 0.3 0.44) (xy 0.3 0.24) (xy 0.3 0.237) (xy 0.3 0.235) (xy 0.299 0.232) (xy 0.299 0.23) (xy 0.298 0.227)
+				(xy 0.298 0.225) (xy 0.297 0.222) (xy 0.296 0.22) (xy 0.295 0.217) (xy 0.293 0.215) (xy 0.292 0.213)
+				(xy 0.29 0.211) (xy 0.289 0.209) (xy 0.287 0.207) (xy 0.285 0.205) (xy 0.283 0.203) (xy 0.281 0.201)
+				(xy 0.279 0.2) (xy 0.277 0.198) (xy 0.275 0.197) (xy 0.273 0.195) (xy 0.27 0.194) (xy 0.268 0.193)
+				(xy 0.265 0.192) (xy 0.263 0.192) (xy 0.26 0.191) (xy 0.258 0.191) (xy 0.255 0.19) (xy 0.253 0.19)
+				(xy 0.25 0.19) (xy 0.05 0.19) (xy 0.047 0.19) (xy 0.045 0.19) (xy 0.042 0.191) (xy 0.04 0.191) (xy 0.037 0.192)
+				(xy 0.035 0.192) (xy 0.032 0.193) (xy 0.03 0.194) (xy 0.027 0.195) (xy 0.025 0.197) (xy 0.023 0.198)
+				(xy 0.021 0.2) (xy 0.019 0.201) (xy 0.017 0.203) (xy 0.015 0.205) (xy 0.013 0.207) (xy 0.011 0.209)
+				(xy 0.01 0.211) (xy 0.008 0.213) (xy 0.007 0.215) (xy 0.005 0.217) (xy 0.004 0.22) (xy 0.003 0.222)
+				(xy 0.002 0.225) (xy 0.002 0.227) (xy 0.001 0.23) (xy 0.001 0.232) (xy 0 0.235) (xy 0 0.237) (xy 0 0.24)
+			)
+			(stroke
+				(width 0.01)
+				(type solid)
+			)
+			(fill yes)
+			(layer "F.Mask")
+			(uuid "c712d3c0-fbd4-4e61-9f1f-b65bbf429e84")
+		)
+		(fp_circle
+			(center -0.7 0)
+			(end -0.65 0)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(fill no)
+			(layer "F.SilkS")
+			(uuid "989ac1cf-c8bd-4bf2-b7fa-9462501ab206")
+		)
+		(fp_poly
+			(pts
+				(xy -0.255 -0.055) (xy -0.255 0.055) (xy -0.255 0.058) (xy -0.255 0.06) (xy -0.254 0.063) (xy -0.254 0.065)
+				(xy -0.253 0.068) (xy -0.253 0.07) (xy -0.252 0.073) (xy -0.251 0.075) (xy -0.25 0.078) (xy -0.248 0.08)
+				(xy -0.247 0.082) (xy -0.245 0.084) (xy -0.244 0.086) (xy -0.242 0.088) (xy -0.24 0.09) (xy -0.238 0.092)
+				(xy -0.236 0.094) (xy -0.234 0.095) (xy -0.232 0.097) (xy -0.23 0.098) (xy -0.228 0.1) (xy -0.225 0.101)
+				(xy -0.223 0.102) (xy -0.22 0.103) (xy -0.218 0.103) (xy -0.215 0.104) (xy -0.213 0.104) (xy -0.21 0.105)
+				(xy -0.208 0.105) (xy -0.205 0.105) (xy -0.095 0.105) (xy -0.092 0.105) (xy -0.09 0.105) (xy -0.087 0.104)
+				(xy -0.085 0.104) (xy -0.082 0.103) (xy -0.08 0.103) (xy -0.077 0.102) (xy -0.075 0.101) (xy -0.072 0.1)
+				(xy -0.07 0.098) (xy -0.068 0.097) (xy -0.066 0.095) (xy -0.064 0.094) (xy -0.062 0.092) (xy -0.06 0.09)
+				(xy -0.058 0.088) (xy -0.056 0.086) (xy -0.055 0.084) (xy -0.053 0.082) (xy -0.052 0.08) (xy -0.05 0.078)
+				(xy -0.049 0.075) (xy -0.048 0.073) (xy -0.047 0.07) (xy -0.047 0.068) (xy -0.046 0.065) (xy -0.046 0.063)
+				(xy -0.045 0.06) (xy -0.045 0.058) (xy -0.045 0.055) (xy -0.045 -0.055) (xy -0.045 -0.058) (xy -0.045 -0.06)
+				(xy -0.046 -0.063) (xy -0.046 -0.065) (xy -0.047 -0.068) (xy -0.047 -0.07) (xy -0.048 -0.073) (xy -0.049 -0.075)
+				(xy -0.05 -0.078) (xy -0.052 -0.08) (xy -0.053 -0.082) (xy -0.055 -0.084) (xy -0.056 -0.086) (xy -0.058 -0.088)
+				(xy -0.06 -0.09) (xy -0.062 -0.092) (xy -0.064 -0.094) (xy -0.066 -0.095) (xy -0.068 -0.097) (xy -0.07 -0.098)
+				(xy -0.072 -0.1) (xy -0.075 -0.101) (xy -0.077 -0.102) (xy -0.08 -0.103) (xy -0.082 -0.103) (xy -0.085 -0.104)
+				(xy -0.087 -0.104) (xy -0.09 -0.105) (xy -0.092 -0.105) (xy -0.095 -0.105) (xy -0.205 -0.105) (xy -0.208 -0.105)
+				(xy -0.21 -0.105) (xy -0.213 -0.104) (xy -0.215 -0.104) (xy -0.218 -0.103) (xy -0.22 -0.103) (xy -0.223 -0.102)
+				(xy -0.225 -0.101) (xy -0.228 -0.1) (xy -0.23 -0.098) (xy -0.232 -0.097) (xy -0.234 -0.095) (xy -0.236 -0.094)
+				(xy -0.238 -0.092) (xy -0.24 -0.09) (xy -0.242 -0.088) (xy -0.244 -0.086) (xy -0.245 -0.084) (xy -0.247 -0.082)
+				(xy -0.248 -0.08) (xy -0.25 -0.078) (xy -0.251 -0.075) (xy -0.252 -0.073) (xy -0.253 -0.07) (xy -0.253 -0.068)
+				(xy -0.254 -0.065) (xy -0.254 -0.063) (xy -0.255 -0.06) (xy -0.255 -0.058) (xy -0.255 -0.055)
+			)
+			(stroke
+				(width 0.01)
+				(type solid)
+			)
+			(fill yes)
+			(layer "F.Paste")
+			(uuid "8417187d-d22c-461a-879a-893dc55dc4b5")
+		)
+		(fp_poly
+			(pts
+				(xy 0.045 -0.395) (xy 0.045 -0.285) (xy 0.045 -0.282) (xy 0.045 -0.28) (xy 0.046 -0.277) (xy 0.046 -0.275)
+				(xy 0.047 -0.272) (xy 0.047 -0.27) (xy 0.048 -0.267) (xy 0.049 -0.265) (xy 0.05 -0.262) (xy 0.052 -0.26)
+				(xy 0.053 -0.258) (xy 0.055 -0.256) (xy 0.056 -0.254) (xy 0.058 -0.252) (xy 0.06 -0.25) (xy 0.062 -0.248)
+				(xy 0.064 -0.246) (xy 0.066 -0.245) (xy 0.068 -0.243) (xy 0.07 -0.242) (xy 0.072 -0.24) (xy 0.075 -0.239)
+				(xy 0.077 -0.238) (xy 0.08 -0.237) (xy 0.082 -0.237) (xy 0.085 -0.236) (xy 0.087 -0.236) (xy 0.09 -0.235)
+				(xy 0.092 -0.235) (xy 0.095 -0.235) (xy 0.205 -0.235) (xy 0.208 -0.235) (xy 0.21 -0.235) (xy 0.213 -0.236)
+				(xy 0.215 -0.236) (xy 0.218 -0.237) (xy 0.22 -0.237) (xy 0.223 -0.238) (xy 0.225 -0.239) (xy 0.228 -0.24)
+				(xy 0.23 -0.242) (xy 0.232 -0.243) (xy 0.234 -0.245) (xy 0.236 -0.246) (xy 0.238 -0.248) (xy 0.24 -0.25)
+				(xy 0.242 -0.252) (xy 0.244 -0.254) (xy 0.245 -0.256) (xy 0.247 -0.258) (xy 0.248 -0.26) (xy 0.25 -0.262)
+				(xy 0.251 -0.265) (xy 0.252 -0.267) (xy 0.253 -0.27) (xy 0.253 -0.272) (xy 0.254 -0.275) (xy 0.254 -0.277)
+				(xy 0.255 -0.28) (xy 0.255 -0.282) (xy 0.255 -0.285) (xy 0.255 -0.395) (xy 0.255 -0.398) (xy 0.255 -0.4)
+				(xy 0.254 -0.403) (xy 0.254 -0.405) (xy 0.253 -0.408) (xy 0.253 -0.41) (xy 0.252 -0.413) (xy 0.251 -0.415)
+				(xy 0.25 -0.418) (xy 0.248 -0.42) (xy 0.247 -0.422) (xy 0.245 -0.424) (xy 0.244 -0.426) (xy 0.242 -0.428)
+				(xy 0.24 -0.43) (xy 0.238 -0.432) (xy 0.236 -0.434) (xy 0.234 -0.435) (xy 0.232 -0.437) (xy 0.23 -0.438)
+				(xy 0.228 -0.44) (xy 0.225 -0.441) (xy 0.223 -0.442) (xy 0.22 -0.443) (xy 0.218 -0.443) (xy 0.215 -0.444)
+				(xy 0.213 -0.444) (xy 0.21 -0.445) (xy 0.208 -0.445) (xy 0.205 -0.445) (xy 0.095 -0.445) (xy 0.092 -0.445)
+				(xy 0.09 -0.445) (xy 0.087 -0.444) (xy 0.085 -0.444) (xy 0.082 -0.443) (xy 0.08 -0.443) (xy 0.077 -0.442)
+				(xy 0.075 -0.441) (xy 0.072 -0.44) (xy 0.07 -0.438) (xy 0.068 -0.437) (xy 0.066 -0.435) (xy 0.064 -0.434)
+				(xy 0.062 -0.432) (xy 0.06 -0.43) (xy 0.058 -0.428) (xy 0.056 -0.426) (xy 0.055 -0.424) (xy 0.053 -0.422)
+				(xy 0.052 -0.42) (xy 0.05 -0.418) (xy 0.049 -0.415) (xy 0.048 -0.413) (xy 0.047 -0.41) (xy 0.047 -0.408)
+				(xy 0.046 -0.405) (xy 0.046 -0.403) (xy 0.045 -0.4) (xy 0.045 -0.398) (xy 0.045 -0.395)
+			)
+			(stroke
+				(width 0.01)
+				(type solid)
+			)
+			(fill yes)
+			(layer "F.Paste")
+			(uuid "3e45eb05-1f5b-44b4-8094-0992574631da")
+		)
+		(fp_poly
+			(pts
+				(xy 0.045 0.285) (xy 0.045 0.395) (xy 0.045 0.398) (xy 0.045 0.4) (xy 0.046 0.403) (xy 0.046 0.405)
+				(xy 0.047 0.408) (xy 0.047 0.41) (xy 0.048 0.413) (xy 0.049 0.415) (xy 0.05 0.418) (xy 0.052 0.42)
+				(xy 0.053 0.422) (xy 0.055 0.424) (xy 0.056 0.426) (xy 0.058 0.428) (xy 0.06 0.43) (xy 0.062 0.432)
+				(xy 0.064 0.434) (xy 0.066 0.435) (xy 0.068 0.437) (xy 0.07 0.438) (xy 0.072 0.44) (xy 0.075 0.441)
+				(xy 0.077 0.442) (xy 0.08 0.443) (xy 0.082 0.443) (xy 0.085 0.444) (xy 0.087 0.444) (xy 0.09 0.445)
+				(xy 0.092 0.445) (xy 0.095 0.445) (xy 0.205 0.445) (xy 0.208 0.445) (xy 0.21 0.445) (xy 0.213 0.444)
+				(xy 0.215 0.444) (xy 0.218 0.443) (xy 0.22 0.443) (xy 0.223 0.442) (xy 0.225 0.441) (xy 0.228 0.44)
+				(xy 0.23 0.438) (xy 0.232 0.437) (xy 0.234 0.435) (xy 0.236 0.434) (xy 0.238 0.432) (xy 0.24 0.43)
+				(xy 0.242 0.428) (xy 0.244 0.426) (xy 0.245 0.424) (xy 0.247 0.422) (xy 0.248 0.42) (xy 0.25 0.418)
+				(xy 0.251 0.415) (xy 0.252 0.413) (xy 0.253 0.41) (xy 0.253 0.408) (xy 0.254 0.405) (xy 0.254 0.403)
+				(xy 0.255 0.4) (xy 0.255 0.398) (xy 0.255 0.395) (xy 0.255 0.285) (xy 0.255 0.282) (xy 0.255 0.28)
+				(xy 0.254 0.277) (xy 0.254 0.275) (xy 0.253 0.272) (xy 0.253 0.27) (xy 0.252 0.267) (xy 0.251 0.265)
+				(xy 0.25 0.262) (xy 0.248 0.26) (xy 0.247 0.258) (xy 0.245 0.256) (xy 0.244 0.254) (xy 0.242 0.252)
+				(xy 0.24 0.25) (xy 0.238 0.248) (xy 0.236 0.246) (xy 0.234 0.245) (xy 0.232 0.243) (xy 0.23 0.242)
+				(xy 0.228 0.24) (xy 0.225 0.239) (xy 0.223 0.238) (xy 0.22 0.237) (xy 0.218 0.237) (xy 0.215 0.236)
+				(xy 0.213 0.236) (xy 0.21 0.235) (xy 0.208 0.235) (xy 0.205 0.235) (xy 0.095 0.235) (xy 0.092 0.235)
+				(xy 0.09 0.235) (xy 0.087 0.236) (xy 0.085 0.236) (xy 0.082 0.237) (xy 0.08 0.237) (xy 0.077 0.238)
+				(xy 0.075 0.239) (xy 0.072 0.24) (xy 0.07 0.242) (xy 0.068 0.243) (xy 0.066 0.245) (xy 0.064 0.246)
+				(xy 0.062 0.248) (xy 0.06 0.25) (xy 0.058 0.252) (xy 0.056 0.254) (xy 0.055 0.256) (xy 0.053 0.258)
+				(xy 0.052 0.26) (xy 0.05 0.262) (xy 0.049 0.265) (xy 0.048 0.267) (xy 0.047 0.27) (xy 0.047 0.272)
+				(xy 0.046 0.275) (xy 0.046 0.277) (xy 0.045 0.28) (xy 0.045 0.282) (xy 0.045 0.285)
+			)
+			(stroke
+				(width 0.01)
+				(type solid)
+			)
+			(fill yes)
+			(layer "F.Paste")
+			(uuid "5f59e422-844c-40ba-bcc1-1568f8c33ed2")
+		)
+		(fp_line
+			(start -0.55 -0.75)
+			(end -0.55 0.75)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "ea181cb1-8935-4a6f-8f37-15227706e06e")
+		)
+		(fp_line
+			(start -0.55 0.75)
+			(end 0.55 0.75)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "4bdc8ac8-213c-47c9-84fd-c5ebabfbf8cb")
+		)
+		(fp_line
+			(start 0.55 -0.75)
+			(end -0.55 -0.75)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "0865614b-d3fe-4328-b678-235e7b5aa89f")
+		)
+		(fp_line
+			(start 0.55 0.75)
+			(end 0.55 -0.75)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "afad7937-a8a3-4611-9bfc-f3d1fdcc8e73")
+		)
+		(fp_line
+			(start -0.3 -0.5)
+			(end 0.3 -0.5)
+			(stroke
+				(width 0.127)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "71026759-e8bf-4adb-8e88-359461b0bda9")
+		)
+		(fp_line
+			(start -0.3 0.5)
+			(end -0.3 -0.5)
+			(stroke
+				(width 0.127)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "a96c96e0-eb97-49ad-8cb5-04835086541b")
+		)
+		(fp_line
+			(start 0.3 -0.5)
+			(end 0.3 0.5)
+			(stroke
+				(width 0.127)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "57ae13cc-a422-4a45-bbca-ccb40ec8cdc0")
+		)
+		(fp_line
+			(start 0.3 0.5)
+			(end -0.3 0.5)
+			(stroke
+				(width 0.127)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "b2ae06ec-d132-402d-938d-9a8e97f0f22b")
+		)
+		(fp_circle
+			(center -0.7 0)
+			(end -0.65 0)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(fill no)
+			(layer "F.Fab")
+			(uuid "e2e5aa5d-beb1-4ef5-843c-17c3dae7893e")
+		)
+		(pad "1" smd roundrect
+			(at -0.15 0)
+			(size 0.2 0.2)
+			(layers "F.Cu")
+			(roundrect_rratio 0.25)
+			(net "DGND")
+			(pinfunction "GND_1")
+			(pintype "power_in")
+			(uuid "8b141e70-f114-494b-a20b-afaf8f0d0521")
+		)
+		(pad "2" smd roundrect
+			(at 0.15 0.34)
+			(size 0.2 0.2)
+			(layers "F.Cu")
+			(roundrect_rratio 0.25)
+			(net "/USB_DM")
+			(pinfunction "IO1_2")
+			(pintype "bidirectional")
+			(uuid "95004e0f-43fd-4540-b3e1-7b4ccd01528f")
+		)
+		(pad "3" smd roundrect
+			(at 0.15 -0.34)
+			(size 0.2 0.2)
+			(layers "F.Cu")
+			(roundrect_rratio 0.25)
+			(net "/USB_DP")
+			(pinfunction "IO2_3")
+			(pintype "bidirectional")
+			(uuid "8d656562-ddf4-49cc-af3b-f593f85dabcb")
+		)
+		(embedded_fonts no)
+		(model "${KIPRJMOD}/models/ESD122DMXR.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -90)
+			)
+		)
+	)
 	(footprint "MountingHole:MountingHole_3.2mm_M3"
 		(locked yes)
 		(layer "F.Cu")
@@ -4830,6 +5696,19 @@
 				)
 			)
 		)
+		(property "LCSC Number" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "93598859-889a-4b9b-bade-a07dc36d8742")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/0877000d-104a-4ce7-adcb-83f4b358ffde")
 		(sheetname "/")
@@ -4840,7 +5719,7 @@
 				(pins)
 			)
 		)
-		(attr exclude_from_bom)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
 			(center 0 0)
@@ -4938,6 +5817,19 @@
 				)
 			)
 		)
+		(property "LCSC Number" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "23b86ea0-0c93-4ea5-be43-7c0806839733")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/c0f43346-1e96-4e25-b2c6-781bec1ce8bb")
 		(sheetname "/")
@@ -4948,7 +5840,7 @@
 				(pins)
 			)
 		)
-		(attr exclude_from_bom)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
 			(center 0 0)
@@ -5040,6 +5932,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Number" "C23733"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4901e6a6-9946-4c8d-a50d-263a023c6447")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -5252,6 +6157,19 @@
 				)
 			)
 		)
+		(property "LCSC Number" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0b49f37f-8280-419e-bebe-c9711cca244e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/3b3489eb-c75e-46cd-b207-14f2f5980c0b")
 		(sheetname "/")
@@ -5262,7 +6180,7 @@
 				(pins)
 			)
 		)
-		(attr exclude_from_bom)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
 			(center 0 0)
@@ -5355,6 +6273,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Number" "C163455"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "54ec05f9-abdc-4c18-8f47-b3dd340e3339")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -5562,6 +6493,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Number" "C72487"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a51bbf1d-ccfa-452b-a22c-e0cb96e3b8ee")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -6004,6 +6948,19 @@
 				)
 			)
 		)
+		(property "LCSC Number" "C15849"
+			(at 0 0 225)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e846598a-0b70-4e62-b64b-e2deb05ca85c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/2b7b3946-8908-4310-9dae-0b725a28be61")
 		(sheetname "/")
@@ -6212,6 +7169,19 @@
 				)
 			)
 		)
+		(property "LCSC Number" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "02c1bf43-1940-477b-a36e-e9789e937825")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/02a824ab-96f8-4040-a62b-730626abdf8e")
 		(sheetname "/")
@@ -6222,7 +7192,7 @@
 				(pins)
 			)
 		)
-		(attr exclude_from_bom)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
 			(center 0 0)
@@ -6315,6 +7285,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Number" "C106235"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bd5f7aeb-aad6-4289-82c2-5dbffb843525")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -6532,6 +7515,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "ba28a89b-da30-4cba-9df8-a88e79967b87")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Number" "C965827"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "252ac1e3-6828-4721-8c31-93c25a9e8873")
 			(effects
 				(font
 					(size 1 1)
@@ -6762,6 +7758,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Number" "C39843328"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "553605a7-1a52-41c9-bddf-a235b09c36d8")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -8079,6 +9088,19 @@
 				)
 			)
 		)
+		(property "LCSC Number" "C138002"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "08962ea3-8bdb-4907-86fe-1229b70e475e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/a23d8559-7556-4e58-9526-8a388e7798f0")
 		(sheetname "/")
@@ -8282,6 +9304,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Number" "C86295"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "01964461-5b0c-4c08-aa8d-f37f86aaa8bf")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -8494,6 +9529,19 @@
 				)
 			)
 		)
+		(property "LCSC Number" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bfa92740-8291-4019-afe5-229bfb499003")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/1193804f-2656-4e53-9f48-99b618034cb1")
 		(sheetname "/")
@@ -8504,7 +9552,7 @@
 				(pins)
 			)
 		)
-		(attr exclude_from_bom)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
 			(center 0 0)
@@ -8602,6 +9650,19 @@
 				)
 			)
 		)
+		(property "LCSC Number" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "56b3cef8-fdf1-460e-bfbb-165bca4b9f2e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/9f867eda-56d2-4ada-88bd-99ff7c227a29")
 		(sheetname "/")
@@ -8612,7 +9673,7 @@
 				(pins)
 			)
 		)
-		(attr exclude_from_bom)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
 			(center 0 0)
@@ -8707,6 +9768,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Number" "C537070"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "35c3555c-f259-40cc-9d04-4153878f4803")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -9830,6 +10904,19 @@
 				)
 			)
 		)
+		(property "LCSC Number" "C105588"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "501f897d-39dd-454d-a324-42f7d503125a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/b4f8b89d-10fe-4efd-82cc-ee5252ea05c0")
 		(sheetname "/")
@@ -9926,14 +11013,14 @@
 			)
 		)
 	)
-	(footprint "TestPoint:TestPoint_Pad_D2.5mm"
+	(footprint "motor-phase-connection:THTPad_D5.0mm_Drill2.5mm"
 		(layer "F.Cu")
 		(uuid "38fb079d-5dab-4b70-bc1d-73538650a1b4")
 		(at 170.375 161.225)
-		(descr "SMD pad as test Point, diameter 2.5mm")
-		(tags "test point SMD pad")
+		(descr "THT pad as test Point, diameter 4.0mm, hole diameter 2.0mm")
+		(tags "test point THT pad")
 		(property "Reference" "TP9"
-			(at 0 -2.148 0)
+			(at 0 -3.6 0)
 			(layer "F.SilkS")
 			(uuid "629b0f1a-53ee-48f9-ac52-2ac926f9bffa")
 			(effects
@@ -9944,7 +11031,7 @@
 			)
 		)
 		(property "Value" "PHASE_W"
-			(at 0 2.25 0)
+			(at 0 3.1 0)
 			(layer "F.Fab")
 			(uuid "e4c0fe69-8542-4c59-ba6c-623134ebafc0")
 			(effects
@@ -9980,6 +11067,19 @@
 				)
 			)
 		)
+		(property "LCSC Number" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f253d54c-ceb3-43e8-9bed-8fa75cf8a9f5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Pin* Test*")
 		(path "/cebd501d-0330-4b1d-9777-e86f3cce7513")
 		(sheetname "/")
@@ -9990,10 +11090,11 @@
 				(pins "1")
 			)
 		)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
 			(center 0 0)
-			(end 0 1.45)
+			(end 2.75 0)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -10004,7 +11105,7 @@
 		)
 		(fp_circle
 			(center 0 0)
-			(end 1.75 0)
+			(end 3 0)
 			(stroke
 				(width 0.05)
 				(type solid)
@@ -10014,7 +11115,7 @@
 			(uuid "c4d730f0-388f-465e-adaa-d5eab5c10e14")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 -2.15 0)
+			(at 0 -2.9 0)
 			(layer "F.Fab")
 			(uuid "b38e5fc3-c060-4608-a13e-978c26e5105d")
 			(effects
@@ -10024,10 +11125,12 @@
 				)
 			)
 		)
-		(pad "1" smd circle
+		(pad "1" thru_hole circle
 			(at 0 0)
-			(size 2.5 2.5)
-			(layers "F.Cu" "F.Mask")
+			(size 5 5)
+			(drill 2.5)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
 			(net "/MOT_B")
 			(pinfunction "1_1")
 			(pintype "passive")
@@ -10089,6 +11192,19 @@
 				)
 			)
 		)
+		(property "LCSC Number" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e6dbccd8-70f5-425a-9684-094fedfae347")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/f28be142-43c0-421d-8402-5a260c776fa7")
 		(sheetname "/")
@@ -10099,7 +11215,7 @@
 				(pins)
 			)
 		)
-		(attr exclude_from_bom)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
 			(center 0 0)
@@ -10192,6 +11308,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Number" "C114065"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "57422d6c-e6c5-4650-9a63-62e54d2b0bfd")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -10409,6 +11538,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "3cd3d96c-59aa-4fad-ab44-6181d0fb97e7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Number" "C965825"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e84a2303-5d0d-47d6-9fb6-3ff9743350c2")
 			(effects
 				(font
 					(size 1 1)
@@ -10645,6 +11787,19 @@
 				)
 			)
 		)
+		(property "LCSC Number" "C15849"
+			(at 0 0 135)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f07ccc42-81e5-4413-8136-629d6a8ba4f7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/772573f8-1b5c-4eec-acf7-5ab0ad6d3a8a")
 		(sheetname "/")
@@ -10847,6 +12002,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Number" "C60474"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8e8f84e1-e789-4322-aa3a-59a93bd7cbbc")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -11056,6 +12224,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Number" "C35490"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "71131b8b-d526-4860-9bf2-a578b6f51633")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -11340,6 +12521,19 @@
 				)
 			)
 		)
+		(property "LCSC Number" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8fb4d1ee-3461-4b95-886e-57a7fd75c522")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/36ff7ca0-6171-493f-92fd-67fdcf431aaa")
 		(sheetname "/")
@@ -11350,7 +12544,7 @@
 				(pins)
 			)
 		)
-		(attr exclude_from_bom)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
 			(center 0 0)
@@ -11444,6 +12638,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Number" "C146233"
+			(at 0 0 210.8)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "221f7bd7-5ad0-4d8a-82b9-0cb870c2668a")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -11676,6 +12883,19 @@
 				)
 			)
 		)
+		(property "LCSC Number" "C22548"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4a0148f1-6e1b-48d6-a91b-3d2ca95138ab")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/56c7c241-0bb1-4750-946f-c82873a738d3")
 		(sheetname "/")
@@ -11881,6 +13101,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Number" "C537070"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "85f4ffcd-4cba-4287-b1c7-942f40d7ad9c")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -12997,6 +14230,19 @@
 				)
 			)
 		)
+		(property "LCSC Number" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ddc152cc-01fe-4802-b5d9-2195b72ed4f1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/a999dac2-b832-44a2-99dd-4600f4b2f102")
 		(sheetname "/")
@@ -13007,7 +14253,7 @@
 				(pins "1" "2")
 			)
 		)
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -4.25 -1.6)
@@ -13302,6 +14548,19 @@
 				)
 			)
 		)
+		(property "LCSC Number" "C965825"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a15ec295-6dff-4ad1-9d4f-f55bf40e0de5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/50df65d7-837e-4437-ab6b-8efe191390a5")
 		(sheetname "/")
@@ -13478,6 +14737,177 @@
 			)
 		)
 	)
+	(footprint "Resistor_SMD:R_0402_1005Metric"
+		(layer "F.Cu")
+		(uuid "458b4283-13f1-463c-af94-04bd8895a698")
+		(at 162.165 203.235)
+		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
+		(tags "resistor")
+		(property "Reference" "R22"
+			(at 0 -1.17 0)
+			(layer "F.SilkS")
+			(uuid "6669d32d-b811-447e-8565-90315aae7dac")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "1k"
+			(at 0 1.17 0)
+			(layer "F.Fab")
+			(uuid "040e358e-ec9d-4204-a1a3-f4a6f9996e61")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8f28bd98-07b2-4541-99ca-fe07c5b562e8")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor, small US symbol"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "621431ef-72b4-4056-8d48-131acceb3af2")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "5a70bc35-c75b-4f1d-87e4-1f5eed6a0bc7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Number" "C106235"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "859d53b7-c54c-43d2-aa92-e94f5fc87371")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property ki_fp_filters "R_*")
+		(path "/892006c9-271b-44c6-b20a-7559ef9e80b3")
+		(sheetname "/")
+		(sheetfile "eye-of-terror.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
+		(attr smd)
+		(duplicate_pad_numbers_are_jumpers no)
+		(fp_line
+			(start -0.153641 -0.38)
+			(end 0.153641 -0.38)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "0607d544-9ea0-4aa6-ae58-ecbe953ace0d")
+		)
+		(fp_line
+			(start -0.153641 0.38)
+			(end 0.153641 0.38)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "6263880e-52a8-4335-950a-e858f562e370")
+		)
+		(fp_rect
+			(start -0.93 -0.47)
+			(end 0.93 0.47)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(fill no)
+			(layer "F.CrtYd")
+			(uuid "32e08aad-5ab9-4aad-8ca0-07b4f9620ecc")
+		)
+		(fp_rect
+			(start -0.525 -0.27)
+			(end 0.525 0.27)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(fill no)
+			(layer "F.Fab")
+			(uuid "c1083b1c-a6f8-4120-b244-23d0c7222153")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "1ddb56ee-9f7a-4d2c-a951-b4c221591302")
+			(effects
+				(font
+					(size 0.26 0.26)
+					(thickness 0.04)
+				)
+			)
+		)
+		(pad "1" smd roundrect
+			(at -0.51 0)
+			(size 0.54 0.64)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(roundrect_rratio 0.25)
+			(net "+5V")
+			(pintype "passive")
+			(uuid "12747a39-bc6c-4b66-8277-1c53d4394647")
+		)
+		(pad "2" smd roundrect
+			(at 0.51 0)
+			(size 0.54 0.64)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(roundrect_rratio 0.25)
+			(net "/5V_MON")
+			(pintype "passive")
+			(uuid "2b75874c-7ac1-4ea6-88d9-6b089663b69a")
+		)
+		(embedded_fonts no)
+		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+	)
 	(footprint "MountingHole:MountingHole_3.2mm_M3"
 		(locked yes)
 		(layer "F.Cu")
@@ -13532,6 +14962,19 @@
 				)
 			)
 		)
+		(property "LCSC Number" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "717fc037-e38b-4b4e-a4ce-75c180b9f06d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/f529dcf4-c887-47d1-979a-39efb96efded")
 		(sheetname "/")
@@ -13542,7 +14985,7 @@
 				(pins)
 			)
 		)
-		(attr exclude_from_bom)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
 			(center 0 0)
@@ -13640,6 +15083,19 @@
 				)
 			)
 		)
+		(property "LCSC Number" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "445965f0-f0e4-4a14-b100-76a863c4ee9f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/d85b224f-1e91-4800-9a5c-f2b01224bf70")
 		(sheetname "/")
@@ -13650,7 +15106,7 @@
 				(pins)
 			)
 		)
-		(attr exclude_from_bom)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
 			(center 0 0)
@@ -13742,6 +15198,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Number" "C60474"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d49629d9-d7a8-46d6-a5f5-42d167aed965")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -13962,6 +15431,19 @@
 				)
 			)
 		)
+		(property "LCSC Number" "C105588"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "675f31b8-1abb-41d0-814c-8434eed12469")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/c0d84cb1-a99f-442f-9605-7dd8f7265fcf")
 		(sheetname "/")
@@ -14112,6 +15594,19 @@
 				)
 			)
 		)
+		(property "LCSC Number" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "819c11b8-c956-4587-823c-aef9563f59a1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/04e8482f-e36b-46ee-9506-400ba74848e7")
 		(sheetname "/")
@@ -14122,7 +15617,7 @@
 				(pins)
 			)
 		)
-		(attr exclude_from_bom)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
 			(center 0 0)
@@ -14220,6 +15715,19 @@
 				)
 			)
 		)
+		(property "LCSC Number" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "02d0810a-a2d3-4942-a421-7753f9e13500")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/fa9fc339-88b8-40ce-998a-164dbf4a6a5c")
 		(sheetname "/")
@@ -14230,7 +15738,7 @@
 				(pins)
 			)
 		)
-		(attr exclude_from_bom)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
 			(center 0 0)
@@ -14274,14 +15782,14 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "TestPoint:TestPoint_Pad_D2.5mm"
+	(footprint "motor-phase-connection:THTPad_D5.0mm_Drill2.5mm"
 		(layer "F.Cu")
 		(uuid "4f411dcb-473a-4e27-8663-ce733ad1c2ae")
 		(at 170.375 147.575)
-		(descr "SMD pad as test Point, diameter 2.5mm")
-		(tags "test point SMD pad")
+		(descr "THT pad as test Point, diameter 4.0mm, hole diameter 2.0mm")
+		(tags "test point THT pad")
 		(property "Reference" "TP6"
-			(at 0 -2.148 0)
+			(at 0 -3.6 0)
 			(layer "F.SilkS")
 			(uuid "337c5b3a-825c-458c-98ee-5323ccb622de")
 			(effects
@@ -14292,7 +15800,7 @@
 			)
 		)
 		(property "Value" "PHASE_V"
-			(at 0 2.25 0)
+			(at 0 3.1 0)
 			(layer "F.Fab")
 			(uuid "3384319c-3a3f-4116-8b2f-27635b5bbae6")
 			(effects
@@ -14328,6 +15836,19 @@
 				)
 			)
 		)
+		(property "LCSC Number" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3a0a4887-1652-4ab7-a2b8-2abcd693aef7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Pin* Test*")
 		(path "/5c6efada-b848-4f45-a3c0-e0605fbe0aed")
 		(sheetname "/")
@@ -14338,10 +15859,11 @@
 				(pins "1")
 			)
 		)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
 			(center 0 0)
-			(end 0 1.45)
+			(end 2.75 0)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -14352,7 +15874,7 @@
 		)
 		(fp_circle
 			(center 0 0)
-			(end 1.75 0)
+			(end 3 0)
 			(stroke
 				(width 0.05)
 				(type solid)
@@ -14362,7 +15884,7 @@
 			(uuid "02feeb5f-a47d-4201-9f4c-22be670de95d")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 -2.15 0)
+			(at 0 -2.9 0)
 			(layer "F.Fab")
 			(uuid "c7e7a46a-39f7-4472-938a-5ec1b6e5125e")
 			(effects
@@ -14372,10 +15894,12 @@
 				)
 			)
 		)
-		(pad "1" smd circle
+		(pad "1" thru_hole circle
 			(at 0 0)
-			(size 2.5 2.5)
-			(layers "F.Cu" "F.Mask")
+			(size 5 5)
+			(drill 2.5)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
 			(net "/MOT_C")
 			(pinfunction "1_1")
 			(pintype "passive")
@@ -14432,6 +15956,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Number" "C7467246"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9d84b68e-f556-40f8-8324-2fb2eac5b172")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -14643,6 +16180,19 @@
 				)
 			)
 		)
+		(property "LCSC Number" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "263ea3d4-ed55-4ed1-8d00-8f19195e7835")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/9700f32d-1471-44c4-bb0f-98ed1c0944d9")
 		(sheetname "/")
@@ -14653,7 +16203,7 @@
 				(pins "1" "2" "3")
 			)
 		)
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.38 -1.38)
@@ -14915,6 +16465,19 @@
 				)
 			)
 		)
+		(property "LCSC Number" "C163455"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f12a7bb2-38d3-4916-bfa0-862769bdd3cf")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/250e4668-e745-44a7-96eb-660f1b12869b")
 		(sheetname "/")
@@ -15117,6 +16680,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Number" "C60474"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c7ef73a8-913e-4f33-b760-e93483e87b59")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -15328,6 +16904,19 @@
 				)
 			)
 		)
+		(property "LCSC Number" "C114759"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "caf7e6b9-7686-4795-a509-1d277e885e38")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/fc342a21-50c4-4ad3-b901-1edf3ab166c3")
 		(sheetname "/")
@@ -15535,6 +17124,19 @@
 				)
 			)
 		)
+		(property "LCSC Number" "C86295"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7ad234f0-0fc0-4193-8fc3-e6a1681e56ba")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/199a4f65-d78a-474a-8f86-1b7e7b359bef")
 		(sheetname "/")
@@ -15738,6 +17340,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Number" "C106235"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5daddc75-d1fc-4f05-8382-2e3cc6df44d2")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -15950,6 +17565,19 @@
 				)
 			)
 		)
+		(property "LCSC Number" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "85d10cb1-c494-4243-b2ce-e9cfb14e91f1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/bd99a512-aefa-4973-baec-7305eeb2dcdc")
 		(sheetname "/")
@@ -15960,7 +17588,7 @@
 				(pins)
 			)
 		)
-		(attr exclude_from_bom)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
 			(center 0 0)
@@ -16053,6 +17681,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Number" "C60490"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6a0170e7-fb27-4c9f-be59-29b849c96552")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -16265,6 +17906,19 @@
 				)
 			)
 		)
+		(property "LCSC Number" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5b23c817-6283-49aa-9bb3-70b50c460cda")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/6b33beda-f88a-4503-ae2e-677bb665a7d3")
 		(sheetname "/")
@@ -16275,7 +17929,7 @@
 				(pins)
 			)
 		)
-		(attr exclude_from_bom)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
 			(center 0 0)
@@ -16368,6 +18022,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Number" "C60490"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "dd8992e1-28c0-4fe8-8dd7-0e46f2ff5dd4")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -16577,6 +18244,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Number" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "42228fdc-c5fb-4740-b367-6f8d6fbde208")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -16869,6 +18549,19 @@
 				)
 			)
 		)
+		(property "LCSC Number" "C60490"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "99313702-7121-4989-815f-eda4c50accbf")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/361c8e02-e74d-43c1-9d19-6cede52cced2")
 		(sheetname "/")
@@ -17076,6 +18769,19 @@
 				)
 			)
 		)
+		(property "LCSC Number" "C60474"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c13e6727-faa9-4424-9ff1-9d391d6921a1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/1a4740d9-a9e4-4f94-a3e9-af301db56318")
 		(sheetname "/")
@@ -17279,6 +18985,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Number" "C2921170"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c5974ccb-46fe-4b18-af5c-51d6d4925b6d")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -17582,6 +19301,19 @@
 				)
 			)
 		)
+		(property "LCSC Number" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "811a2d22-2f2b-4fb9-8fca-839ea7786df5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/a47b3ea1-1c04-4af5-8a0f-16167b1d8710")
 		(sheetname "/")
@@ -17592,7 +19324,7 @@
 				(pins)
 			)
 		)
-		(attr exclude_from_bom)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
 			(center 0 0)
@@ -17687,6 +19419,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Number" "C537070"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "224ff319-7669-4c18-a792-b910bff9c9d7")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -18814,6 +20559,19 @@
 				)
 			)
 		)
+		(property "LCSC Number" "C2984265"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "229f10ef-e067-4e09-ac6c-24e0006df54e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/7b315fab-3d24-42e3-b8fe-f564e57be3cf")
 		(sheetname "/")
@@ -19046,6 +20804,19 @@
 				)
 			)
 		)
+		(property "LCSC Number" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5fb3b923-b9c3-4f94-a7e3-b4cb4a3fad0c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Net*Tie*")
 		(path "/85892cf0-e1a9-4174-96ec-9f24f9dbab95")
 		(sheetname "/")
@@ -19150,6 +20921,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "94fb8d6e-46cf-405a-a11f-f36c70a2e285")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Number" "C965827"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d3f82f85-8319-4d11-a2f8-f1427cb03b8c")
 			(effects
 				(font
 					(size 1 1)
@@ -19387,6 +21171,19 @@
 				)
 			)
 		)
+		(property "LCSC Number" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "80d2d31b-de97-4cea-bb79-a558f43cabdc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/61e69d5c-33d7-4d90-91e3-2982b76713cd")
 		(sheetname "/")
@@ -19397,7 +21194,7 @@
 				(pins)
 			)
 		)
-		(attr exclude_from_bom)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
 			(center 0 0)
@@ -19440,6 +21237,299 @@
 			(uuid "bbab4ba1-1867-4fae-ba0f-02dc4666706f")
 		)
 		(embedded_fonts no)
+	)
+	(footprint "Diode_SMD:D_SMB"
+		(layer "F.Cu")
+		(uuid "66e3d7e5-0dbf-4543-b249-cd98e953c4e6")
+		(at 159.32 197.475)
+		(descr "Diode SMB (DO-214AA)")
+		(tags "Diode SMB (DO-214AA)")
+		(property "Reference" "D9"
+			(at 0 -3 0)
+			(layer "F.SilkS")
+			(uuid "0ef2fa4d-b181-4e1b-9932-137dc07dcb1b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "SS36"
+			(at 0 3.1 0)
+			(layer "F.Fab")
+			(uuid "74cd3e99-8930-463f-8c75-19a76758cb06")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/docs/88751/ss32.pdf"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "318f1db3-0ece-48c3-8b25-3ee18c095d59")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" "60V 3A Schottky Diode, SMA"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9ded6f71-a6c4-4299-9914-b7098e0ccbe4")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Number" "C35490"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "45e22839-d32d-4b5b-a43c-0337d8907a94")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property ki_fp_filters "D*SMA*")
+		(path "/83fe5c22-9bb3-4ddd-b1a6-78aca45d980b")
+		(sheetname "/")
+		(sheetfile "eye-of-terror.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
+		(attr smd)
+		(duplicate_pad_numbers_are_jumpers no)
+		(fp_line
+			(start -3.66 -2.15)
+			(end -3.66 2.15)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "fa023b51-328e-4b06-9ce4-ef91e0b91008")
+		)
+		(fp_line
+			(start -3.66 -2.15)
+			(end 2.15 -2.15)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "e6b84736-1fb0-4faf-bfd3-d819a3e260fd")
+		)
+		(fp_line
+			(start -3.66 2.15)
+			(end 2.15 2.15)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "e5604865-a439-43ef-87db-15ca5b8dbf7b")
+		)
+		(fp_line
+			(start -3.65 -2.25)
+			(end 3.65 -2.25)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "95fd1497-67ac-4e23-aebb-83698e301386")
+		)
+		(fp_line
+			(start -3.65 2.25)
+			(end -3.65 -2.25)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "34f7ed87-b2cc-4045-b7e2-efb43146c025")
+		)
+		(fp_line
+			(start 3.65 -2.25)
+			(end 3.65 2.25)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "1db04759-4446-4220-adf5-27eb00a58e99")
+		)
+		(fp_line
+			(start 3.65 2.25)
+			(end -3.65 2.25)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "348ddbe6-c25a-433b-9f37-4e1d754d83a1")
+		)
+		(fp_line
+			(start -2.3 2)
+			(end -2.3 -2)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "9623eec4-34cb-462d-b6eb-26f72acfd05b")
+		)
+		(fp_line
+			(start -0.64944 -0.79908)
+			(end -0.64944 0.80112)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "9faa3a34-58e8-4899-a9ff-b62d61664cf4")
+		)
+		(fp_line
+			(start -0.64944 0.00102)
+			(end -1.55114 0.00102)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "dd9cb503-ca09-40f7-b208-198ece94481e")
+		)
+		(fp_line
+			(start -0.64944 0.00102)
+			(end 0.50118 -0.79908)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "c46232d1-654d-4bc1-9c19-42fa3941ac79")
+		)
+		(fp_line
+			(start -0.64944 0.00102)
+			(end 0.50118 0.75032)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "96341941-4f3e-4eea-b286-0eb95d568a00")
+		)
+		(fp_line
+			(start 0.50118 0.00102)
+			(end 1.4994 0.00102)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "041c971e-923f-41ac-8986-f463c1058434")
+		)
+		(fp_line
+			(start 0.50118 0.75032)
+			(end 0.50118 -0.79908)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "4756b4ab-5e0d-4bd0-bdd2-66e627a421f6")
+		)
+		(fp_line
+			(start 2.3 -2)
+			(end -2.3 -2)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "e026f2a5-aa08-4dc7-b04b-35f094750bbb")
+		)
+		(fp_line
+			(start 2.3 -2)
+			(end 2.3 2)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "3a9953bf-d5f0-4ca7-bd13-bed1ec20966b")
+		)
+		(fp_line
+			(start 2.3 2)
+			(end -2.3 2)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "dd0a09fe-1381-4b79-a474-28dc834d90be")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 -3 0)
+			(layer "F.Fab")
+			(uuid "706dd6f2-8846-4102-b261-429f06e956f5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(pad "1" smd roundrect
+			(at -2.15 0)
+			(size 2.5 2.3)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(roundrect_rratio 0.1086956522)
+			(net "VBUS")
+			(pinfunction "K_1")
+			(pintype "passive")
+			(uuid "4bace56a-3739-4a17-b30f-5efbb3d224db")
+		)
+		(pad "2" smd roundrect
+			(at 2.15 0)
+			(size 2.5 2.3)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(roundrect_rratio 0.1086956522)
+			(net "Net-(D9-A)")
+			(pinfunction "A_2")
+			(pintype "passive")
+			(uuid "56dff023-067e-426a-b1fd-bb0828c83a21")
+		)
+		(embedded_fonts no)
+		(model "${KICAD10_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SMB.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Capacitor_SMD:C_0603_1608Metric"
 		(layer "F.Cu")
@@ -19490,6 +21580,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Number" "C15849"
+			(at 0 0 225)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7a66ce07-60d0-492a-9bf0-9bfdabcf36f9")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -19701,6 +21804,19 @@
 				)
 			)
 		)
+		(property "LCSC Number" "C14663"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "43e1af4a-5ff2-4fd5-9ad5-01174e746bf8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/d91b3680-667c-4d2e-baf4-93b0cb3f81c3")
 		(sheetname "/")
@@ -19904,6 +22020,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Number" "C60490"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b3bd89cf-1cb8-4d5a-80a8-2182bc947114")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -20116,6 +22245,19 @@
 				)
 			)
 		)
+		(property "LCSC Number" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "43ff5ccb-4aab-4e30-92ef-cb0d094e5339")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/8d55292c-3636-4b36-9e2d-ffebf9fff1c5")
 		(sheetname "/")
@@ -20126,7 +22268,7 @@
 				(pins)
 			)
 		)
-		(attr exclude_from_bom)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
 			(center 0 0)
@@ -20219,6 +22361,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Number" "C105588"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a8bfaaf0-7e0b-4d13-b23b-6609aa7396f0")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -20436,6 +22591,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "113f56cc-aa4a-4c69-96c9-52bd2117a48d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Number" "C965825"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3cf31de6-2852-411f-a213-192b1b7c3e12")
 			(effects
 				(font
 					(size 1 1)
@@ -20672,6 +22840,19 @@
 				)
 			)
 		)
+		(property "LCSC Number" "C14663"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "59126b00-070f-4d94-b98e-52861e0d51c3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/e41de6de-e269-462e-8e36-70afb170d74c")
 		(sheetname "/")
@@ -20829,7 +23010,7 @@
 	(footprint "NetTie:NetTie-2_SMD_Pad2.0mm"
 		(layer "F.Cu")
 		(uuid "726973dc-7c4b-41ea-a869-540fe07771e8")
-		(at 176.15 146.8)
+		(at 189.1 148.5)
 		(descr "Net tie, 2 pin, 2.0mm square SMD pads")
 		(tags "net tie")
 		(property "Reference" "NT2"
@@ -20878,6 +23059,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Number" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "75db8c2b-b42c-4e4c-ae15-233ee3fbadf2")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -20976,6 +23170,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Number" "C105588"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e5476a13-0d1f-415c-8738-57690801e8af")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -21188,6 +23395,19 @@
 				)
 			)
 		)
+		(property "LCSC Number" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4318b3df-2b88-44b4-8a6e-0429f579cf74")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/b124c73c-1e49-49f6-b4b9-71e336f22268")
 		(sheetname "/")
@@ -21198,7 +23418,7 @@
 				(pins)
 			)
 		)
-		(attr exclude_from_bom)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
 			(center 0 0)
@@ -21296,6 +23516,19 @@
 				)
 			)
 		)
+		(property "LCSC Number" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6262a423-cc78-4d44-81d4-7b7c5575f41f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/0b8fd004-2b01-43df-a2a9-76c4dcd8c15d")
 		(sheetname "/")
@@ -21306,7 +23539,7 @@
 				(pins)
 			)
 		)
-		(attr exclude_from_bom)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
 			(center 0 0)
@@ -21399,6 +23632,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Number" "C106235"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "09ae7f2b-cdd7-4009-b631-a87a48d73890")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -21611,6 +23857,19 @@
 				)
 			)
 		)
+		(property "LCSC Number" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c59d272c-e81f-4040-bfb3-8dcf0cda0f76")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/defca6c5-d48f-4450-84e0-7ea6d8e58fdb")
 		(sheetname "/")
@@ -21621,7 +23880,7 @@
 				(pins)
 			)
 		)
-		(attr exclude_from_bom)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
 			(center 0 0)
@@ -21714,6 +23973,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Number" "C25100"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ffef328d-0584-4d4b-92cf-f8e90e6a0c1d")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -21924,6 +24196,19 @@
 				)
 			)
 		)
+		(property "LCSC Number" "C60474"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ed91ee1a-cb74-4caa-865f-5e5cbf0aeaaf")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/d7ce16a4-f68d-46cf-82e6-5d7148504d47")
 		(sheetname "/")
@@ -22129,6 +24414,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Number" "C537070"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "81c914f5-19c6-4d9e-ba74-2f524fff72ac")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -23242,6 +25540,19 @@
 				)
 			)
 		)
+		(property "LCSC Number" "C20625731"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "58405b41-b318-48b4-bb14-7e5c648da4d7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Crystal*")
 		(path "/712b586e-67e5-4621-8f09-10a15889b745")
 		(sheetname "/")
@@ -23409,6 +25720,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Number" "C60474"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "705a6dba-1f8d-4573-ba14-aaa446f60b80")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -23626,6 +25950,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "58c9a44e-f736-45c8-88b6-33d4a2894353")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Number" "C2984265"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "99a96fee-168d-4232-b895-21f0c53f789d")
 			(effects
 				(font
 					(size 1 1)
@@ -23858,6 +26195,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Number" "C72487"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2c0e8827-2e50-4172-8fb4-2cdf03eb1939")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -24298,6 +26648,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Number" "C537070"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "737b0b7a-a140-4709-b895-bc530d060a3f")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -25413,6 +27776,19 @@
 				)
 			)
 		)
+		(property "LCSC Number" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "199210a6-5997-42a4-944e-82e85eb0f13f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/5349ae0c-7955-4058-b282-157b81b4c46b")
 		(sheetname "/")
@@ -25423,7 +27799,7 @@
 				(pins)
 			)
 		)
-		(attr exclude_from_bom)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
 			(center 0 0)
@@ -25517,6 +27893,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Number" "C7450622"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "82859678-1b56-490e-9717-69f7216058ae")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -25852,7 +28241,7 @@
 			(at -1.25 -0.8607)
 			(size 0.3048 0.8636)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net "VBUS")
+			(net "Net-(D9-A)")
 			(pinfunction "VBUS_A4/B9")
 			(pintype "power_in")
 			(uuid "fc20e1e7-ebfd-4dfb-a4d6-267997b6b618")
@@ -25861,7 +28250,7 @@
 			(at -1.25 0.8693)
 			(size 0.3048 0.8636)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net "VBUS")
+			(net "Net-(D9-A)")
 			(pinfunction "VBUS_A4/B9")
 			(pintype "power_in")
 			(uuid "14409d55-5821-4c08-8b20-9ec8372d3e21")
@@ -25924,7 +28313,7 @@
 			(at 1.25 -0.8607)
 			(size 0.3048 0.8636)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net "VBUS")
+			(net "Net-(D9-A)")
 			(pinfunction "VBUS_B4/A9")
 			(pintype "power_in")
 			(uuid "13af0c3b-c9ac-4507-9b4b-50577cced288")
@@ -25933,7 +28322,7 @@
 			(at 1.25 0.8693)
 			(size 0.3048 0.8636)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net "VBUS")
+			(net "Net-(D9-A)")
 			(pinfunction "VBUS_B4/A9")
 			(pintype "power_in")
 			(uuid "d666f357-68a1-411b-b3dc-59bf646859db")
@@ -26024,6 +28413,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Number" "C60474"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7ee8d36c-b4d4-49dd-84f3-342d40df23e4")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -26235,6 +28637,19 @@
 				)
 			)
 		)
+		(property "LCSC Number" "C60490"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "20ec7e32-18b5-49e4-862f-9472d9da3dcb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/db58dca8-3bbe-446d-bbc3-06d7feac3d23")
 		(sheetname "/")
@@ -26439,6 +28854,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Number" "C780769"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bdbcbf61-70e8-40f3-948f-000e0d73a8c3")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -27030,6 +29458,19 @@
 				)
 			)
 		)
+		(property "LCSC Number" "C25100"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a0075197-dbda-40e8-bb6a-fa7ef6f108de")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/4b9e8552-964f-4784-b4a2-caea602ba507")
 		(sheetname "/")
@@ -27238,6 +29679,19 @@
 				)
 			)
 		)
+		(property "LCSC Number" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b2a509ad-784b-4f2d-8570-1b7697a59991")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/da39f047-4a22-4ab7-80d0-3cbd29e56000")
 		(sheetname "/")
@@ -27248,7 +29702,7 @@
 				(pins)
 			)
 		)
-		(attr exclude_from_bom)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
 			(center 0 0)
@@ -27346,6 +29800,19 @@
 				)
 			)
 		)
+		(property "LCSC Number" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fde53cce-59f9-4cfb-8284-db1f57ae725e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/9aac36c0-97cc-47d4-a9d4-d6f971615918")
 		(sheetname "/")
@@ -27356,7 +29823,7 @@
 				(pins)
 			)
 		)
-		(attr exclude_from_bom)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
 			(center 0 0)
@@ -27454,6 +29921,19 @@
 				)
 			)
 		)
+		(property "LCSC Number" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5b80e288-55c2-4296-891b-44234cbf1467")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/94e43492-c218-4783-9823-fe42f73e2628")
 		(sheetname "/")
@@ -27464,7 +29944,7 @@
 				(pins)
 			)
 		)
-		(attr exclude_from_bom)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
 			(center 0 0)
@@ -27562,6 +30042,19 @@
 				)
 			)
 		)
+		(property "LCSC Number" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "97906611-fccb-4162-b854-df715a47eced")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/2583e5ca-d6de-462d-8ff0-936cf9f2da2d")
 		(sheetname "/")
@@ -27572,7 +30065,7 @@
 				(pins)
 			)
 		)
-		(attr exclude_from_bom)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
 			(center 0 0)
@@ -27670,6 +30163,19 @@
 				)
 			)
 		)
+		(property "LCSC Number" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1030e6a4-7470-4de7-bdc5-f0e95e513e5f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/d34803ea-5113-431c-a86d-9b377e135346")
 		(sheetname "/")
@@ -27680,7 +30186,7 @@
 				(pins)
 			)
 		)
-		(attr exclude_from_bom)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
 			(center 0 0)
@@ -27772,6 +30278,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Number" "C60474"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "121ac802-34f2-4bc4-8cab-b2e5692bcce8")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -27930,6 +30449,308 @@
 			)
 		)
 	)
+	(footprint "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm"
+		(layer "F.Cu")
+		(uuid "9d062db1-0e0b-4935-9bbb-e8ded8405ec9")
+		(at 165.665 196.475)
+		(descr "SMD Solder Jumper, 1x1.5mm, rounded Pads, 0.3mm gap, bridged with 1 copper strip")
+		(tags "net tie solder jumper bridged")
+		(property "Reference" "JP17"
+			(at 0 -1.8 0)
+			(layer "F.SilkS")
+			(uuid "3db63b1f-4a0f-4a20-8b33-65e99b66ad6f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "SolderJumper_2_Bridged"
+			(at 0 1.9 0)
+			(layer "F.Fab")
+			(uuid "dd49b43f-e9dc-4b9b-98a9-027ba4e67e6e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e4d7cd50-e4e2-4426-883f-0277a41c4af4")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" "Solder Jumper, 2-pole, closed/bridged"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "cac085b3-0a2f-4861-a5f3-e9b4a16c9495")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Number" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "87b94855-6a37-4025-af1b-21eadd7ac971")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property ki_fp_filters "SolderJumper*Bridged*")
+		(path "/577da346-3db2-491d-85a0-141f2815e2bb")
+		(sheetname "/")
+		(sheetfile "eye-of-terror.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
+		(zone_connect 1)
+		(attr exclude_from_pos_files exclude_from_bom allow_soldermask_bridges)
+		(net_tie_pad_groups "1, 2")
+		(duplicate_pad_numbers_are_jumpers no)
+		(fp_poly
+			(pts
+				(xy 0.25 -0.3) (xy -0.25 -0.3) (xy -0.25 0.3) (xy 0.25 0.3)
+			)
+			(stroke
+				(width 0)
+				(type solid)
+			)
+			(fill yes)
+			(layer "F.Cu")
+			(uuid "6114e3b7-039e-4794-857d-69d4c5c130fb")
+		)
+		(fp_rect
+			(start -0.15 -0.75)
+			(end 0.15 0.75)
+			(stroke
+				(width 0)
+				(type default)
+			)
+			(fill yes)
+			(layer "F.Mask")
+			(uuid "fc03b597-8243-44da-a5a9-74fb81b9bc43")
+		)
+		(fp_line
+			(start -1.4 0.3)
+			(end -1.4 -0.3)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "2d90d188-d48d-40f5-99fd-6ac091f125cb")
+		)
+		(fp_line
+			(start -0.7 -1)
+			(end 0.7 -1)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "ed297864-284a-4b12-a726-dafb5a0a1a83")
+		)
+		(fp_line
+			(start 0.7 1)
+			(end -0.7 1)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "56dded45-d4ab-4785-85d8-1023666e91d2")
+		)
+		(fp_line
+			(start 1.4 -0.3)
+			(end 1.4 0.3)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "2fc2f94c-91be-4b6d-be52-e1880a2a12d6")
+		)
+		(fp_arc
+			(start -1.4 -0.3)
+			(mid -1.194975 -0.794975)
+			(end -0.7 -1)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "12a49e72-d4b3-44d3-89eb-62d3488c8a45")
+		)
+		(fp_arc
+			(start -0.7 1)
+			(mid -1.194975 0.794975)
+			(end -1.4 0.3)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "597b4605-4a2c-49b8-aea6-482cc75c093f")
+		)
+		(fp_arc
+			(start 0.7 -1)
+			(mid 1.194975 -0.794975)
+			(end 1.4 -0.3)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "54eaf74b-b4ca-4725-8a26-3e5973d4ff38")
+		)
+		(fp_arc
+			(start 1.4 0.3)
+			(mid 1.194975 0.794975)
+			(end 0.7 1)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "8edb2d97-3df4-419a-9463-671e13511798")
+		)
+		(fp_line
+			(start -1.65 -1.25)
+			(end -1.65 1.25)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "6589d5e8-a9e6-4f78-aa70-f9f86825fcdb")
+		)
+		(fp_line
+			(start -1.65 -1.25)
+			(end 1.65 -1.25)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "eb2ee6cf-053c-41ef-9e90-f517a6f33ebd")
+		)
+		(fp_line
+			(start 1.65 1.25)
+			(end -1.65 1.25)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "eccd69ca-567b-4fc6-99e7-332b62145ff8")
+		)
+		(fp_line
+			(start 1.65 1.25)
+			(end 1.65 -1.25)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "5a394fad-d315-48ea-8fbc-9100a8fad7fc")
+		)
+		(pad "1" smd custom
+			(at -0.65 0)
+			(size 1 0.5)
+			(layers "F.Cu" "F.Mask")
+			(net "VBUS")
+			(pinfunction "A_1")
+			(pintype "passive")
+			(zone_connect 2)
+			(thermal_bridge_angle 45)
+			(options
+				(clearance outline)
+				(anchor rect)
+			)
+			(primitives
+				(gr_circle
+					(center 0 0.25)
+					(end 0.5 0.25)
+					(width 0)
+					(fill yes)
+				)
+				(gr_circle
+					(center 0 -0.25)
+					(end 0.5 -0.25)
+					(width 0)
+					(fill yes)
+				)
+				(gr_poly
+					(pts
+						(xy 0.5 0.75) (xy 0 0.75) (xy 0 -0.75) (xy 0.5 -0.75)
+					)
+					(width 0)
+					(fill yes)
+				)
+			)
+			(uuid "7ca4bfc3-852d-4deb-971a-03a6e79f8d0c")
+		)
+		(pad "2" smd custom
+			(at 0.65 0)
+			(size 1 0.5)
+			(layers "F.Cu" "F.Mask")
+			(net "+5V")
+			(pinfunction "B_2")
+			(pintype "passive")
+			(zone_connect 2)
+			(thermal_bridge_angle 45)
+			(options
+				(clearance outline)
+				(anchor rect)
+			)
+			(primitives
+				(gr_circle
+					(center 0 0.25)
+					(end 0.5 0.25)
+					(width 0)
+					(fill yes)
+				)
+				(gr_circle
+					(center 0 -0.25)
+					(end 0.5 -0.25)
+					(width 0)
+					(fill yes)
+				)
+				(gr_poly
+					(pts
+						(xy 0 0.75) (xy -0.5 0.75) (xy -0.5 -0.75) (xy 0 -0.75)
+					)
+					(width 0)
+					(fill yes)
+				)
+			)
+			(uuid "029abd7e-851a-439e-bc5c-7139da2019f9")
+		)
+		(embedded_fonts no)
+	)
 	(footprint "MountingHole:MountingHole_3.2mm_M3"
 		(locked yes)
 		(layer "F.Cu")
@@ -27984,6 +30805,19 @@
 				)
 			)
 		)
+		(property "LCSC Number" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f64ac9e7-bab8-4801-b3fb-c78c56649883")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/a08816be-421c-487c-9797-fbe0983ce6c5")
 		(sheetname "/")
@@ -27994,7 +30828,7 @@
 				(pins)
 			)
 		)
-		(attr exclude_from_bom)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
 			(center 0 0)
@@ -28092,6 +30926,19 @@
 				)
 			)
 		)
+		(property "LCSC Number" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c98de63c-321d-440e-b247-bd06e95bda3f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/185fc577-7511-48b1-88b2-f11839f7b9b8")
 		(sheetname "/")
@@ -28102,7 +30949,7 @@
 				(pins)
 			)
 		)
-		(attr exclude_from_bom)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
 			(center 0 0)
@@ -28195,6 +31042,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Number" "C7467246"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3d13e6c5-e14b-4043-9802-93a07ed9b44c")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -28407,6 +31267,19 @@
 				)
 			)
 		)
+		(property "LCSC Number" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ba7424bb-734a-4317-a3b1-efe1ef2a9a66")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/ddb47cd9-cce4-41bf-a08c-5c048c83dcc9")
 		(sheetname "/")
@@ -28417,7 +31290,7 @@
 				(pins)
 			)
 		)
-		(attr exclude_from_bom)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
 			(center 0 0)
@@ -28515,6 +31388,19 @@
 				)
 			)
 		)
+		(property "LCSC Number" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "42d344ee-0833-4986-a638-3f178ea525cb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/4376722c-e4d0-45a0-8a3d-7d170142f488")
 		(sheetname "/")
@@ -28525,7 +31411,7 @@
 				(pins)
 			)
 		)
-		(attr exclude_from_bom)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
 			(center 0 0)
@@ -28623,6 +31509,19 @@
 				)
 			)
 		)
+		(property "LCSC Number" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "aded34d5-20a4-4b6c-be0f-91eeea9a8075")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/f62c92cc-e9c2-408c-b187-19a66c28da00")
 		(sheetname "/")
@@ -28633,7 +31532,7 @@
 				(pins)
 			)
 		)
-		(attr exclude_from_bom)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
 			(center 0 0)
@@ -28731,6 +31630,19 @@
 				)
 			)
 		)
+		(property "LCSC Number" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "48073c47-629c-4f79-ab40-d1116b233125")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/e0d3ae4e-d127-4167-8907-ade47004fa57")
 		(sheetname "/")
@@ -28741,7 +31653,7 @@
 				(pins)
 			)
 		)
-		(attr exclude_from_bom)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
 			(center 0 0)
@@ -28785,14 +31697,14 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "TestPoint:TestPoint_Pad_D2.5mm"
+	(footprint "motor-phase-connection:THTPad_D5.0mm_Drill2.5mm"
 		(layer "F.Cu")
 		(uuid "a88618c0-4237-4f0c-a142-24e78945f6d1")
 		(at 170.375 152.125)
-		(descr "SMD pad as test Point, diameter 2.5mm")
-		(tags "test point SMD pad")
+		(descr "THT pad as test Point, diameter 4.0mm, hole diameter 2.0mm")
+		(tags "test point THT pad")
 		(property "Reference" "TP7"
-			(at 0 -2.148 0)
+			(at 0 -3.6 0)
 			(layer "F.SilkS")
 			(uuid "b91b4386-416c-46fd-b98a-0c4e8804d572")
 			(effects
@@ -28803,7 +31715,7 @@
 			)
 		)
 		(property "Value" "PHASE_V"
-			(at 0 2.25 0)
+			(at 0 3.1 0)
 			(layer "F.Fab")
 			(uuid "d9e81472-a1b5-45f1-a99c-8213c64f42e6")
 			(effects
@@ -28839,6 +31751,19 @@
 				)
 			)
 		)
+		(property "LCSC Number" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "286e260c-c731-490a-b9ee-943091fdecb5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Pin* Test*")
 		(path "/3a9de1ab-5083-4520-b578-da4064e8a447")
 		(sheetname "/")
@@ -28849,10 +31774,11 @@
 				(pins "1")
 			)
 		)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
 			(center 0 0)
-			(end 0 1.45)
+			(end 2.75 0)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -28863,7 +31789,7 @@
 		)
 		(fp_circle
 			(center 0 0)
-			(end 1.75 0)
+			(end 3 0)
 			(stroke
 				(width 0.05)
 				(type solid)
@@ -28873,7 +31799,7 @@
 			(uuid "b507ec93-1940-48f7-8766-981ebc8abfc9")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 -2.15 0)
+			(at 0 -2.9 0)
 			(layer "F.Fab")
 			(uuid "9e5f6ea8-b794-44d2-9ba0-6d0493d9898c")
 			(effects
@@ -28883,10 +31809,12 @@
 				)
 			)
 		)
-		(pad "1" smd circle
+		(pad "1" thru_hole circle
 			(at 0 0)
-			(size 2.5 2.5)
-			(layers "F.Cu" "F.Mask")
+			(size 5 5)
+			(drill 2.5)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
 			(net "/MOT_A")
 			(pinfunction "1_1")
 			(pintype "passive")
@@ -28949,6 +31877,19 @@
 				)
 			)
 		)
+		(property "LCSC Number" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bf61b1d6-3f09-4180-912b-18ee175ba6c4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/e3da99ee-922a-4d8d-9d10-1968b43c1baa")
 		(sheetname "/")
@@ -28959,7 +31900,7 @@
 				(pins "1" "2")
 			)
 		)
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 11.45 -4.15)
@@ -29240,6 +32181,19 @@
 				)
 			)
 		)
+		(property "LCSC Number" "C60474"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "83f7927e-b426-406e-b1d1-000bbf2bbf9b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/d71b39dd-f1cd-4efa-b7e1-5a11fc8f673b")
 		(sheetname "/")
@@ -29442,6 +32396,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Number" "C23733"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b00f96e0-0e0e-42fa-8c42-8f58493c337e")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -29651,6 +32618,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Number" "C110904"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "cb2c94da-b7cd-4425-84b6-a5b8f32fc999")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -29947,6 +32927,19 @@
 				)
 			)
 		)
+		(property "LCSC Number" "C965827"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "90851bd8-8ae4-4823-944a-370a4b5c4181")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/54535a3f-6372-4e43-8184-00989d0f4171")
 		(sheetname "/")
@@ -30123,14 +33116,14 @@
 			)
 		)
 	)
-	(footprint "TestPoint:TestPoint_Pad_D2.5mm"
+	(footprint "motor-phase-connection:THTPad_D5.0mm_Drill2.5mm"
 		(layer "F.Cu")
 		(uuid "ae70730f-29ce-405f-83cb-b87e40957f4f")
 		(at 89.975 227.075)
-		(descr "SMD pad as test Point, diameter 2.5mm")
-		(tags "test point SMD pad")
+		(descr "THT pad as test Point, diameter 4.0mm, hole diameter 2.0mm")
+		(tags "test point THT pad")
 		(property "Reference" "TP4"
-			(at 0 -2.148 0)
+			(at 0 -3.6 0)
 			(layer "F.SilkS")
 			(uuid "7d5658e8-a6fa-491b-9123-9d148f460abb")
 			(effects
@@ -30141,7 +33134,7 @@
 			)
 		)
 		(property "Value" "PHASE_U"
-			(at 0 2.25 0)
+			(at 0 3.1 0)
 			(layer "F.Fab")
 			(uuid "9454cecb-2444-4e8e-bce9-ce2b0c4f677c")
 			(effects
@@ -30177,6 +33170,19 @@
 				)
 			)
 		)
+		(property "LCSC Number" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4c163c17-bbb4-460c-958c-5b43413be4fe")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Pin* Test*")
 		(path "/7f22dd91-650b-4828-b521-2dcc6e412e91")
 		(sheetname "/")
@@ -30187,10 +33193,11 @@
 				(pins "1")
 			)
 		)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
 			(center 0 0)
-			(end 0 1.45)
+			(end 2.75 0)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -30201,7 +33208,7 @@
 		)
 		(fp_circle
 			(center 0 0)
-			(end 1.75 0)
+			(end 3 0)
 			(stroke
 				(width 0.05)
 				(type solid)
@@ -30211,7 +33218,7 @@
 			(uuid "3a7a2519-b128-4749-8195-827472241faa")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 -2.15 0)
+			(at 0 -2.9 0)
 			(layer "F.Fab")
 			(uuid "2277d9bb-d4cd-43db-98e5-b40ba855e27e")
 			(effects
@@ -30221,10 +33228,12 @@
 				)
 			)
 		)
-		(pad "1" smd circle
+		(pad "1" thru_hole circle
 			(at 0 0)
-			(size 2.5 2.5)
-			(layers "F.Cu" "F.Mask")
+			(size 5 5)
+			(drill 2.5)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
 			(net "/MOT_A")
 			(pinfunction "1_1")
 			(pintype "passive")
@@ -30291,6 +33300,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "45c62a22-9c0c-47c4-8e5d-3a21d606fa8a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Number" "C965827"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "29de3e45-b67b-45a7-bd50-6d4acb866e09")
 			(effects
 				(font
 					(size 1 1)
@@ -30527,6 +33549,19 @@
 				)
 			)
 		)
+		(property "LCSC Number" "C15849"
+			(at 0 0 225)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "78d65e83-418e-4156-8a2d-dfe8fe33266b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/74ef39d8-53c0-4e2a-8dd9-f74ebc9dc75c")
 		(sheetname "/")
@@ -30730,6 +33765,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Number" "C105578"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bbeb59d0-43ac-49ec-baf7-e099959e8618")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -30942,6 +33990,19 @@
 				)
 			)
 		)
+		(property "LCSC Number" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "09fc664f-00fe-4530-8c2f-e97c7e990eb6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/76debaef-c854-4142-9f18-27f2db13a12c")
 		(sheetname "/")
@@ -30952,7 +34013,7 @@
 				(pins)
 			)
 		)
-		(attr exclude_from_bom)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
 			(center 0 0)
@@ -31045,6 +34106,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Number" "C60490"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3db71817-e7da-44a7-b9b9-c9b4011318b6")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -31252,6 +34326,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Number" "C62782"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a81256a8-e37a-4a37-bd85-2e21f461dc3a")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -31464,6 +34551,19 @@
 				)
 			)
 		)
+		(property "LCSC Number" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3a7b6e58-a5a1-4921-8924-035daca04b82")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/48f635a0-49fb-4c88-a704-21940bfafa51")
 		(sheetname "/")
@@ -31474,7 +34574,7 @@
 				(pins)
 			)
 		)
-		(attr exclude_from_bom)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
 			(center 0 0)
@@ -31677,6 +34777,19 @@
 				)
 			)
 		)
+		(property "LCSC Number" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7e4b7338-d88e-48fb-8f66-351a384ed413")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/8a969886-01ba-496b-b64d-2f6d2e75fe95")
 		(sheetname "/")
 		(sheetfile "eye-of-terror.kicad_sch")
@@ -31686,7 +34799,7 @@
 				(pins "1" "2" "3" "4")
 			)
 		)
-		(attr smd exclude_from_bom)
+		(attr smd exclude_from_pos_files exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_rect
 			(start -7.5 -6)
@@ -31831,6 +34944,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "1303e740-c047-498d-a00d-ffb4fce6f48d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Number" "C2984265"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ef0a7bdf-c823-4ccd-8c13-8c2907a1514b")
 			(effects
 				(font
 					(size 1 1)
@@ -32068,6 +35194,19 @@
 				)
 			)
 		)
+		(property "LCSC Number" "C146233"
+			(at 0 0 210.8)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "71a073d1-39c8-422c-908a-df8ee8336205")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/ee042616-d991-4af4-b5d1-a122d84eaffe")
 		(sheetname "/")
 		(sheetfile "eye-of-terror.kicad_sch")
@@ -32294,6 +35433,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Number" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "adb9999e-be53-4f8c-93f9-6174af37934c")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -32582,6 +35734,19 @@
 				)
 			)
 		)
+		(property "LCSC Number" "C163455"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "37446b69-bc1d-4ad0-abad-e34187ac8076")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/3816d31f-46bd-42c0-abc5-d645e9c4bca0")
 		(sheetname "/")
@@ -32791,6 +35956,19 @@
 				)
 			)
 		)
+		(property "LCSC Number" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "637e812e-19eb-4a19-8a72-e429974fda55")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/2f021f8d-566c-4f39-96c2-fd0798a955e2")
 		(sheetname "/")
@@ -32801,7 +35979,7 @@
 				(pins "1" "2")
 			)
 		)
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 11.45 4.15)
@@ -33084,6 +36262,19 @@
 				)
 			)
 		)
+		(property "LCSC Number" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1dd49ae1-cd34-452f-8c8b-55099f360dce")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/a4e08d0b-3cdc-4769-b686-88fbec4b7ef1")
 		(sheetname "/")
@@ -33094,7 +36285,7 @@
 				(pins)
 			)
 		)
-		(attr exclude_from_bom)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
 			(center 0 0)
@@ -33197,6 +36388,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "62eb197a-4403-4e7c-92e3-5cd3022d16a8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Number" "C2984265"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "068616bf-07f3-4348-80c9-9c89caa3aa77")
 			(effects
 				(font
 					(size 1 1)
@@ -33446,6 +36650,19 @@
 				)
 			)
 		)
+		(property "LCSC Number" "C965825"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "70a2ac80-92fc-44be-8134-6372bf3da0a2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/d64277c4-85cc-42f8-ba52-12e1c0a9dbb2")
 		(sheetname "/")
@@ -33674,6 +36891,19 @@
 				)
 			)
 		)
+		(property "LCSC Number" "C60474"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "961f6440-cce0-4deb-906b-d0960fd746c6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/e2fa2c08-8237-49f7-aab5-a139ee5713cd")
 		(sheetname "/")
@@ -33882,6 +37112,19 @@
 				)
 			)
 		)
+		(property "LCSC Number" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6561e289-8761-463d-b4fb-69f3e4488037")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/25f017c6-fa0e-4d53-bf45-b2fcbf363031")
 		(sheetname "/")
@@ -33892,7 +37135,7 @@
 				(pins)
 			)
 		)
-		(attr exclude_from_bom)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
 			(center 0 0)
@@ -33935,6 +37178,177 @@
 			(uuid "72a1603e-656c-4366-8218-589e491972db")
 		)
 		(embedded_fonts no)
+	)
+	(footprint "Resistor_SMD:R_1210_3225Metric"
+		(layer "F.Cu")
+		(uuid "c9071c38-bc9e-47df-8fa2-4ef27aeab899")
+		(at 157.905 202.355)
+		(descr "Resistor SMD 1210 (3225 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
+		(tags "resistor")
+		(property "Reference" "R23"
+			(at 0 -2.28 0)
+			(layer "F.SilkS")
+			(uuid "216d2bc0-1a4f-4074-8eb8-79f8100fbae9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "1.5k"
+			(at 0 2.28 0)
+			(layer "F.Fab")
+			(uuid "2fd2289b-ae8c-40ad-b4ec-a02e50f7c525")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fc51177a-3f3c-4802-86c8-e8e08658ccad")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor, small US symbol"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5e5c298c-f36d-488b-8927-2abed837d139")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "70512efe-b1aa-4746-985f-99fa70de676d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Number" "C3000602"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1a1fddfa-bae1-4afc-9fc7-ee744a8c832d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property ki_fp_filters "R_*")
+		(path "/b105780e-150e-4d0f-a0f5-998acbc04993")
+		(sheetname "/")
+		(sheetfile "eye-of-terror.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
+		(attr smd)
+		(duplicate_pad_numbers_are_jumpers no)
+		(fp_line
+			(start -0.723737 -1.355)
+			(end 0.723737 -1.355)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "936cdd71-979d-435e-ac49-ecd2546bbb91")
+		)
+		(fp_line
+			(start -0.723737 1.355)
+			(end 0.723737 1.355)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "556c3869-a8ef-4dcf-b10c-990bf95f76ec")
+		)
+		(fp_rect
+			(start -2.28 -1.58)
+			(end 2.28 1.58)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(fill no)
+			(layer "F.CrtYd")
+			(uuid "e7e7f707-bcbf-4bdb-8802-5472fe32b696")
+		)
+		(fp_rect
+			(start -1.6 -1.245)
+			(end 1.6 1.245)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(fill no)
+			(layer "F.Fab")
+			(uuid "6bb23258-6ebf-42ad-8125-3bffc59e12b2")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "7f443230-78cd-4882-9bdf-3876e702b848")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.12)
+				)
+			)
+		)
+		(pad "1" smd roundrect
+			(at -1.4625 0)
+			(size 1.125 2.65)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(roundrect_rratio 0.222222)
+			(net "/5V_MON")
+			(pintype "passive")
+			(uuid "2baa7928-2334-41e2-ba14-030904796188")
+		)
+		(pad "2" smd roundrect
+			(at 1.4625 0)
+			(size 1.125 2.65)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(roundrect_rratio 0.222222)
+			(net "DGND")
+			(pintype "passive")
+			(uuid "2f196707-a477-41bf-a945-bd271565c0f7")
+		)
+		(embedded_fonts no)
+		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_1210_3225Metric.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Button_Switch_SMD:SW_Push_SPST_NO_Alps_SKRK"
 		(layer "F.Cu")
@@ -33987,6 +37401,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Number" "C720477"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0002517f-b389-4533-adbf-c8741232a78a")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -34249,6 +37676,19 @@
 				)
 			)
 		)
+		(property "LCSC Number" "C60474"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "65627a25-c693-4ce1-a6a0-c5581b93976d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/38dc2383-d700-4a5d-b1a3-588a499d51d0")
 		(sheetname "/")
@@ -34456,6 +37896,19 @@
 				)
 			)
 		)
+		(property "LCSC Number" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6d32026c-835c-425a-b236-fcad9a35bf53")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/654e7f5e-fbf8-44e2-bb94-9e27880119c4")
 		(sheetname "/")
@@ -34466,7 +37919,7 @@
 				(pins "1" "2" "3")
 			)
 		)
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.38 6.46)
@@ -34728,6 +38181,19 @@
 				)
 			)
 		)
+		(property "LCSC Number" "C86295"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "868660df-c4b5-40eb-8494-ed32e8494aba")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/31e9cb6e-c8d6-447b-a936-715417ce440e")
 		(sheetname "/")
@@ -34936,6 +38402,19 @@
 				)
 			)
 		)
+		(property "LCSC Number" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "10bc3826-868a-439a-8bd2-e2619eb94354")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/69c82d92-17b4-472f-89f6-bff5c20d3fac")
 		(sheetname "/")
@@ -34946,7 +38425,7 @@
 				(pins)
 			)
 		)
-		(attr exclude_from_bom)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
 			(center 0 0)
@@ -35044,6 +38523,19 @@
 				)
 			)
 		)
+		(property "LCSC Number" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0c7d7408-2b9b-4325-8263-1f6a4e7a9051")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/6e2b39cd-b95e-491a-8fa0-1f3d5f79e880")
 		(sheetname "/")
@@ -35054,7 +38546,7 @@
 				(pins)
 			)
 		)
-		(attr exclude_from_bom)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
 			(center 0 0)
@@ -35098,14 +38590,14 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "TestPoint:TestPoint_Pad_D2.5mm"
+	(footprint "motor-phase-connection:THTPad_D5.0mm_Drill2.5mm"
 		(layer "F.Cu")
 		(uuid "d45b5337-37aa-4aa9-81dc-03431c84e7be")
 		(at 170.375 156.675)
-		(descr "SMD pad as test Point, diameter 2.5mm")
-		(tags "test point SMD pad")
+		(descr "THT pad as test Point, diameter 4.0mm, hole diameter 2.0mm")
+		(tags "test point THT pad")
 		(property "Reference" "TP8"
-			(at 0 -2.148 0)
+			(at 0 -3.6 0)
 			(layer "F.SilkS")
 			(uuid "b14c396a-28a6-42fb-b393-1c5c8998b7f5")
 			(effects
@@ -35116,7 +38608,7 @@
 			)
 		)
 		(property "Value" "PHASE_W"
-			(at 0 2.25 0)
+			(at 0 3.1 0)
 			(layer "F.Fab")
 			(uuid "f17d3b22-641d-4111-b98c-d5137d428e51")
 			(effects
@@ -35152,6 +38644,19 @@
 				)
 			)
 		)
+		(property "LCSC Number" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6507a2df-3352-4bb3-93f1-ba4712ddc3f1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Pin* Test*")
 		(path "/dee62321-a0bc-49bf-9624-12599e0c7d70")
 		(sheetname "/")
@@ -35162,10 +38667,11 @@
 				(pins "1")
 			)
 		)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
 			(center 0 0)
-			(end 0 1.45)
+			(end 2.75 0)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -35176,7 +38682,7 @@
 		)
 		(fp_circle
 			(center 0 0)
-			(end 1.75 0)
+			(end 3 0)
 			(stroke
 				(width 0.05)
 				(type solid)
@@ -35186,7 +38692,7 @@
 			(uuid "8af6bf62-b023-42ff-ba7b-70d3a47212fd")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 -2.15 0)
+			(at 0 -2.9 0)
 			(layer "F.Fab")
 			(uuid "e4485d25-e68f-4769-9356-b905e141cd00")
 			(effects
@@ -35196,10 +38702,12 @@
 				)
 			)
 		)
-		(pad "1" smd circle
+		(pad "1" thru_hole circle
 			(at 0 0)
-			(size 2.5 2.5)
-			(layers "F.Cu" "F.Mask")
+			(size 5 5)
+			(drill 2.5)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
 			(net "/MOT_C")
 			(pinfunction "1_1")
 			(pintype "passive")
@@ -35256,6 +38764,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Number" "C14663"
+			(at 0 0 315)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "59415a4d-1f40-4347-9131-fd61d3829dec")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -35467,6 +38988,19 @@
 				)
 			)
 		)
+		(property "LCSC Number" "C86285"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0409cc0f-acff-46e0-bc9c-35fee044cc16")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/edc02c32-b2e7-4e40-b446-8814af071d1d")
 		(sheetname "/")
@@ -35674,6 +39208,19 @@
 				)
 			)
 		)
+		(property "LCSC Number" "C114759"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8954517d-2125-463f-9aed-84d9d03dfdba")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/a37a5c8d-431c-498f-8eea-c613be8a5d5f")
 		(sheetname "/")
@@ -35877,6 +39424,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Number" "C163455"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "309c597a-745d-410c-828c-1eb51d357ff7")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -36089,6 +39649,19 @@
 				)
 			)
 		)
+		(property "LCSC Number" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bf63e3e5-5223-40e1-acc0-f04174106077")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/f8fd0148-452e-42d5-a825-c0305c4fd081")
 		(sheetname "/")
@@ -36099,7 +39672,7 @@
 				(pins)
 			)
 		)
-		(attr exclude_from_bom)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
 			(center 0 0)
@@ -36142,6 +39715,177 @@
 			(uuid "5d534ca9-79ab-4071-a83c-5d98c99a52c4")
 		)
 		(embedded_fonts no)
+	)
+	(footprint "Resistor_SMD:R_0603_1608Metric"
+		(layer "F.Cu")
+		(uuid "d8e91b4c-4024-443a-b2ad-5d2f87b3658d")
+		(at 165.625 204.055)
+		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
+		(tags "resistor")
+		(property "Reference" "R20"
+			(at 0 -1.43 0)
+			(layer "F.SilkS")
+			(uuid "24f570fd-4ed8-446b-894c-c5c662d515fb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "68k"
+			(at 0 1.43 0)
+			(layer "F.Fab")
+			(uuid "03656279-ef76-4c9e-acb8-e59ba05d9a02")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "59b3e5d7-3a1c-42c5-871c-0c7c210fe563")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor, small US symbol"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4e7c9434-5ae2-401c-86c5-6849a665218b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "476c6964-f497-4bdd-8058-0bf945dada25")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Number" "C23231"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d1c3a747-bb83-4be1-af10-cce4cbf3d9be")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property ki_fp_filters "R_*")
+		(path "/5e727dba-6b2e-41b0-b961-3724d3bf1ccc")
+		(sheetname "/")
+		(sheetfile "eye-of-terror.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
+		(attr smd)
+		(duplicate_pad_numbers_are_jumpers no)
+		(fp_line
+			(start -0.237258 -0.5225)
+			(end 0.237258 -0.5225)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "93edc953-99bb-47ce-b51f-5f460419c659")
+		)
+		(fp_line
+			(start -0.237258 0.5225)
+			(end 0.237258 0.5225)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "3fcb2ddb-845a-4b1a-a8b3-0ad74efdec1e")
+		)
+		(fp_rect
+			(start -1.48 -0.73)
+			(end 1.48 0.73)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(fill no)
+			(layer "F.CrtYd")
+			(uuid "de89b254-902e-48f4-a789-4feffb6de7f8")
+		)
+		(fp_rect
+			(start -0.8 -0.4125)
+			(end 0.8 0.4125)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(fill no)
+			(layer "F.Fab")
+			(uuid "75d14fd5-317f-40a3-aa1e-fdc845d2a5e4")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "9795d0bd-f95d-4134-b69c-42b104f9c5f8")
+			(effects
+				(font
+					(size 0.4 0.4)
+					(thickness 0.06)
+				)
+			)
+		)
+		(pad "1" smd roundrect
+			(at -0.825 0)
+			(size 0.8 0.95)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(roundrect_rratio 0.25)
+			(net "+BATT")
+			(pintype "passive")
+			(uuid "026a4e24-d764-4025-baec-43e12f277d5e")
+		)
+		(pad "2" smd roundrect
+			(at 0.825 0)
+			(size 0.8 0.95)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(roundrect_rratio 0.25)
+			(net "/BATT_MON")
+			(pintype "passive")
+			(uuid "04c6d8f6-4063-4171-af6d-d6f6dac2b814")
+		)
+		(embedded_fonts no)
+		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Capacitor_SMD:C_0402_1005Metric"
 		(layer "F.Cu")
@@ -36192,6 +39936,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Number" "C307451"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3b94f830-c20f-4da1-b721-cae86524104e")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -36350,6 +40107,177 @@
 			)
 		)
 	)
+	(footprint "Resistor_SMD:R_0402_1005Metric"
+		(layer "F.Cu")
+		(uuid "da1914ee-ee66-482c-b953-83c1c659b5ad")
+		(at 162.165 201.245)
+		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
+		(tags "resistor")
+		(property "Reference" "R21"
+			(at 0 -1.17 0)
+			(layer "F.SilkS")
+			(uuid "bfa41435-9f4a-41d8-925e-eb1646d89eba")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "10k"
+			(at 0 1.17 0)
+			(layer "F.Fab")
+			(uuid "72f7321a-06ed-4b39-956f-35c96f998204")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ad9e410a-fd67-424b-9f7e-4216760f99c3")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor, small US symbol"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8ad5badd-8a28-46b8-8e6b-86ed5ef15fe2")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "fb24e6f6-bb56-49be-aec7-0730fd94bcf0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Number" "C60490"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "36f43b25-9664-4e79-bb1a-247022533033")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property ki_fp_filters "R_*")
+		(path "/5395d1f7-670b-4242-b699-f70c3e8c876f")
+		(sheetname "/")
+		(sheetfile "eye-of-terror.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
+		(attr smd)
+		(duplicate_pad_numbers_are_jumpers no)
+		(fp_line
+			(start -0.153641 -0.38)
+			(end 0.153641 -0.38)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "8f9a6c18-cd23-4e53-b16c-4d6acc143e45")
+		)
+		(fp_line
+			(start -0.153641 0.38)
+			(end 0.153641 0.38)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "e6724770-52e6-4c43-b7d5-dd2bb9fdcafa")
+		)
+		(fp_rect
+			(start -0.93 -0.47)
+			(end 0.93 0.47)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(fill no)
+			(layer "F.CrtYd")
+			(uuid "c1ad8f36-3d04-4b19-82b9-a5f2928a97f4")
+		)
+		(fp_rect
+			(start -0.525 -0.27)
+			(end 0.525 0.27)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(fill no)
+			(layer "F.Fab")
+			(uuid "6e4d18e1-b8d4-4447-8b3d-3af4b0692a26")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "4afb6084-d5d3-4e88-82a1-32cefffa918a")
+			(effects
+				(font
+					(size 0.26 0.26)
+					(thickness 0.04)
+				)
+			)
+		)
+		(pad "1" smd roundrect
+			(at -0.51 0)
+			(size 0.54 0.64)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(roundrect_rratio 0.25)
+			(net "/BATT_MON")
+			(pintype "passive")
+			(uuid "8658c891-e9f9-4910-9cca-df5e3dd4b523")
+		)
+		(pad "2" smd roundrect
+			(at 0.51 0)
+			(size 0.54 0.64)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(roundrect_rratio 0.25)
+			(net "DGND")
+			(pintype "passive")
+			(uuid "90b40689-a9e9-4d85-8280-3bcb89a3a4f1")
+		)
+		(embedded_fonts no)
+		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+	)
 	(footprint "Capacitor_SMD:C_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "db0fa3da-9cd4-440a-9fb5-e4e82f291aa3")
@@ -36399,6 +40327,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Number" "C14663"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "09525652-14c8-49ce-9a9a-ecca50c20af4")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -36612,6 +40553,19 @@
 				)
 			)
 		)
+		(property "LCSC Number" "C42411119"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "831eb243-577a-4bd6-b0a4-d5ce1e40d5d6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Choke_* *Coil* Inductor_* L_*")
 		(path "/70cbf5fa-1cc4-4256-bfd7-111243d2e2f9")
 		(sheetname "/")
@@ -36732,6 +40686,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Number" "C146233"
+			(at 0 0 210.8)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "99348d78-5f23-4bc2-b5a0-c863d4f0f171")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -36964,6 +40931,19 @@
 				)
 			)
 		)
+		(property "LCSC Number" "C105588"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e47187a0-cf85-4b81-b6a3-ede5b0fd1a8b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/3b021dec-7e4b-45af-9556-99ece8e6e195")
 		(sheetname "/")
@@ -37167,6 +41147,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Number" "C97521"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "19719b40-9037-4547-addc-c4b8b46647cc")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -37545,6 +41538,19 @@
 				)
 			)
 		)
+		(property "LCSC Number" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "13f82096-547e-43fc-96f9-734a580ba356")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/ec390401-72be-4d6b-bee5-05e4e51e826f")
 		(sheetname "/")
@@ -37555,7 +41561,7 @@
 				(pins)
 			)
 		)
-		(attr exclude_from_bom)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
 			(center 0 0)
@@ -37653,6 +41659,19 @@
 				)
 			)
 		)
+		(property "LCSC Number" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e871cd43-16b4-4c77-82d9-69229ecf0aa5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/fbf77eff-24b7-4027-b1c7-f0540c09e228")
 		(sheetname "/")
@@ -37663,7 +41682,7 @@
 				(pins)
 			)
 		)
-		(attr exclude_from_bom)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
 			(center 0 0)
@@ -37766,6 +41785,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "21b3e9e2-7bf1-4372-9aeb-d834504eeac2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Number" "C2984265"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e6aef099-49e6-478b-93c9-4a631bf022ba")
 			(effects
 				(font
 					(size 1 1)
@@ -38003,6 +42035,19 @@
 				)
 			)
 		)
+		(property "LCSC Number" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d9094828-ca65-452c-b8e9-8fbc608d1d4b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/ac29c899-43f9-4dd6-8dca-10ea4240af14")
 		(sheetname "/")
@@ -38013,7 +42058,7 @@
 				(pins)
 			)
 		)
-		(attr exclude_from_bom)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
 			(center 0 0)
@@ -38111,6 +42156,19 @@
 				)
 			)
 		)
+		(property "LCSC Number" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2cf9dc81-ba84-4e94-a38d-a7b3debdfc19")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/2d426136-96f7-4d32-855b-1dccc0709a91")
 		(sheetname "/")
@@ -38121,7 +42179,7 @@
 				(pins)
 			)
 		)
-		(attr exclude_from_bom)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
 			(center 0 0)
@@ -38212,6 +42270,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Number" "C703747"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d0f4118d-b80b-47f5-af73-1ac0fe11e5dd")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -38408,6 +42479,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Number" "C163455"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0935e4d0-b0cc-4d9f-a1f7-fbcaad31971b")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -38618,6 +42702,19 @@
 				)
 			)
 		)
+		(property "LCSC Number" "C60474"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0be99a6f-ffe1-43a7-af94-13d97a4d4a35")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/4c796983-c036-4022-beef-22e13cab3b67")
 		(sheetname "/")
@@ -38821,6 +42918,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Number" "C93947"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1c1e00b9-ad33-4f6b-87c9-0051b11970cf")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -39038,6 +43148,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "2e6f5f69-5011-4f9d-8036-c56973e14c96")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Number" "C2984265"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8ac07480-e3b8-49be-b225-38a86a3405d4")
 			(effects
 				(font
 					(size 1 1)
@@ -39272,6 +43395,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Number" "C720477"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "19e06405-9b3e-407d-a6fd-f0fe9646696d")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -39535,6 +43671,19 @@
 				)
 			)
 		)
+		(property "LCSC Number" "C2907038"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f39edd89-35ae-40ef-a4c3-18985efc36ae")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/18ba398b-fb0a-48f0-a4c4-43a1ef45b645")
 		(sheetname "/")
@@ -39738,6 +43887,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Number" "C14663"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c3b4891b-900a-4981-b52c-dc4bd8fae978")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -39949,6 +44111,19 @@
 				)
 			)
 		)
+		(property "LCSC Number" "C7467246"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "677391a6-d454-43f0-b789-a627176bccee")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/26c1cb0a-0520-4420-bee2-70056dbef7d7")
 		(sheetname "/")
@@ -40154,6 +44329,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Number" "C537070"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d4d0e633-1474-4f06-b0a5-f49b42ec882e")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -41277,6 +45465,19 @@
 				)
 			)
 		)
+		(property "LCSC Number" "C105588"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6f8bdbe2-1838-4c6a-aefd-44198b3952db")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/700bfc1c-175f-46b2-ba3b-63faf61b667d")
 		(sheetname "/")
@@ -41427,6 +45628,19 @@
 				)
 			)
 		)
+		(property "LCSC Number" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9a60b882-3282-4ca1-bde7-40762b9d33de")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/34cd235f-e0d9-49e4-8140-53005d98a267")
 		(sheetname "/")
@@ -41437,7 +45651,7 @@
 				(pins)
 			)
 		)
-		(attr exclude_from_bom)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
 			(center 0 0)
@@ -41531,6 +45745,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Number" "C146233"
+			(at 0 0 210.8)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "daa17d38-1bd0-4e13-ab18-f7521f961794")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -41764,6 +45991,19 @@
 				)
 			)
 		)
+		(property "LCSC Number" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "731ff131-2631-491e-86c2-85018fc04eab")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/d7e539e5-4027-42c2-b71d-8b986642da8c")
 		(sheetname "/")
@@ -41774,7 +46014,7 @@
 				(pins)
 			)
 		)
-		(attr exclude_from_bom)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
 			(center 0 0)
@@ -41869,6 +46109,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC Number" "C60474"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "fe5fe0e4-7467-49bd-98c0-86be099dbda0")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -42082,6 +46336,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC Number" "C163455"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "356531d1-5816-46ac-80ec-a6b98d936b88")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -42301,6 +46569,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC Number" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "7d3d063f-d666-4c22-b760-2ae2a2c726eb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "SolderJumper*Bridged*")
 		(path "/0e001374-a0ad-4f0f-bf29-05aa238829a3")
 		(sheetname "/")
@@ -42312,7 +46594,7 @@
 			)
 		)
 		(zone_connect 1)
-		(attr exclude_from_bom allow_soldermask_bridges)
+		(attr exclude_from_pos_files exclude_from_bom allow_soldermask_bridges)
 		(net_tie_pad_groups "1, 2")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_poly
@@ -42594,6 +46876,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC Number" "C60490"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "ece00424-9d86-4fdc-a7eb-5b15ef196fc1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/df3a5772-caaa-4a14-b556-55824c5cf7cc")
 		(sheetname "/")
@@ -42800,6 +47096,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC Number" "C60474"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "3c562077-92ff-4922-a910-be63939354e5")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -43018,6 +47328,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC Number" "C163455"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "819832dc-596b-40fe-a2f3-ea172b0b7ca3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/58cdab46-9dbf-42c1-bb51-e436727090ab")
 		(sheetname "/")
@@ -43226,6 +47550,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC Number" "C60490"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "0a0717d1-b36e-4340-8764-4f17c68a9904")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -43445,6 +47783,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC Number" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "4ee53653-159a-4f0b-bc5e-2588c8b776ca")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "SolderJumper*Bridged*")
 		(path "/f2b6123e-5648-4657-ba28-76583ebc918d")
 		(sheetname "/")
@@ -43456,7 +47808,7 @@
 			)
 		)
 		(zone_connect 1)
-		(attr exclude_from_bom allow_soldermask_bridges)
+		(attr exclude_from_pos_files exclude_from_bom allow_soldermask_bridges)
 		(net_tie_pad_groups "1, 2")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_poly
@@ -43739,6 +48091,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC Number" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "3a499db4-f4bd-4805-8987-22c3c8733f27")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "SolderJumper*Bridged*")
 		(path "/315fac0a-9c97-41f7-aaec-3424ee331192")
 		(sheetname "/")
@@ -43750,7 +48116,7 @@
 			)
 		)
 		(zone_connect 1)
-		(attr exclude_from_bom allow_soldermask_bridges)
+		(attr exclude_from_pos_files exclude_from_bom allow_soldermask_bridges)
 		(net_tie_pad_groups "1, 2")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_poly
@@ -44033,6 +48399,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC Number" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "25176c44-556e-47c0-abac-ac3dfaa5b0c8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "SolderJumper*Bridged*")
 		(path "/70e7720c-e688-41f1-8ea4-3ffe7bdb8ac1")
 		(sheetname "/")
@@ -44044,7 +48424,7 @@
 			)
 		)
 		(zone_connect 1)
-		(attr exclude_from_bom allow_soldermask_bridges)
+		(attr exclude_from_pos_files exclude_from_bom allow_soldermask_bridges)
 		(net_tie_pad_groups "1, 2")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_poly
@@ -44340,6 +48720,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC Number" "C2984265"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "4fd92d23-a733-4a4a-bf14-38b8352a5f41")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/e015f4e6-e99a-47d1-a157-83735e156173")
 		(sheetname "/")
@@ -44576,6 +48970,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC Number" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "9e408e06-6d7f-4591-8a82-7618267007b2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "Pin* Test*")
 		(path "/5727f04d-8e70-439e-95fd-caabb6d1b5d3")
 		(sheetname "/")
@@ -44586,6 +48994,7 @@
 				(pins "1")
 			)
 		)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
 			(center 0 0)
@@ -44696,6 +49105,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "d71ef9df-163c-4e9f-8099-4149c4571ca9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC Number" "C2984265"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "9138c48f-c015-4b86-8613-8be7c15c5fce")
 			(effects
 				(font
 					(size 1 1)
@@ -44940,6 +49363,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC Number" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "691c8170-19c5-4179-bb8b-a983072aec00")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "Pin* Test*")
 		(path "/455dea71-fda5-4e85-826f-59e3b555c043")
 		(sheetname "/")
@@ -44950,6 +49387,7 @@
 				(pins "1")
 			)
 		)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
 			(center 0 0)
@@ -45049,6 +49487,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC Number" "C60490"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "3220b1ee-634a-4f06-9eab-8fe359aaae6e")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -45273,6 +49725,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "fb0e3ad2-a95d-4279-9b50-d4e8d21046f6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC Number" "C2984265"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "b75d6766-076a-4287-83e7-77eb36435e5f")
 			(effects
 				(font
 					(size 1 1)
@@ -45516,6 +49982,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC Number" "C60490"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "df267e55-0059-480f-9e98-ddb795a34c41")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/4330ce81-e0ba-4f94-8298-fb0f578a1db2")
 		(sheetname "/")
@@ -45730,6 +50210,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC Number" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "ae1bab84-07ea-4347-8889-efe51358a62b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "SolderJumper*Bridged*")
 		(path "/25aaa9d7-b172-4835-8998-a61e75c2c564")
 		(sheetname "/")
@@ -45741,7 +50235,7 @@
 			)
 		)
 		(zone_connect 1)
-		(attr exclude_from_bom allow_soldermask_bridges)
+		(attr exclude_from_pos_files exclude_from_bom allow_soldermask_bridges)
 		(net_tie_pad_groups "1, 2")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_poly
@@ -46024,6 +50518,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC Number" "C146233"
+			(at 0 0 210.9)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "af42d0b6-4c1a-45d2-8433-2db6442f13b6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/6f5b7ddf-e79b-442a-80d2-68d963f1f570")
 		(sheetname "/")
 		(sheetfile "eye-of-terror.kicad_sch")
@@ -46252,6 +50760,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC Number" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "d5d7355f-e5a1-43ac-8a3f-18d7b4b4e7a5")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -46567,6 +51089,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC Number" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "27630039-5c9f-4360-9674-0627a02d1077")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "SolderJumper*Bridged*")
 		(path "/8eee8693-becf-44c9-9b19-a5bf2b352ed7")
 		(sheetname "/")
@@ -46578,7 +51114,7 @@
 			)
 		)
 		(zone_connect 1)
-		(attr exclude_from_bom allow_soldermask_bridges)
+		(attr exclude_from_pos_files exclude_from_bom allow_soldermask_bridges)
 		(net_tie_pad_groups "1, 2")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_poly
@@ -46874,6 +51410,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC Number" "C2984265"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "838ae387-709a-4e75-83d1-08bd9768913b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/c1a3ca3a-c027-43f2-ad68-f6535ed025f6")
 		(sheetname "/")
@@ -47108,6 +51658,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC Number" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "5f77a31a-4f4e-4eec-b141-d56665b2b99a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/1108f2cf-efa7-44a5-adc8-40ccff55b96c")
 		(sheetname "/")
@@ -47118,7 +51682,7 @@
 				(pins "1" "2" "3" "4")
 			)
 		)
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.41003 -3.61)
@@ -47417,6 +51981,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC Number" "C163455"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "360efe04-df8c-44d9-bb2b-a41eafb2f10c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/9ed517d5-67a1-4527-bb4e-503c90fd8379")
 		(sheetname "/")
@@ -47630,6 +52208,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC Number" "C163455"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "c1710872-9220-436c-bea4-4b3823eb8bcb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/87ea7dcb-cc73-4444-9198-6688ff34483a")
 		(sheetname "/")
@@ -47837,6 +52429,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC Number" "C95230"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "d82cd8e7-4dc4-4cb4-b8c0-d0d67f13be4f")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -48193,6 +52799,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC Number" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "e9d88a4f-111e-41a7-9c5b-1339b88ed28f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "SolderJumper*Bridged*")
 		(path "/6cafe5ea-eb38-4ecc-8999-5fbc59fc37be")
 		(sheetname "/")
@@ -48204,7 +52824,7 @@
 			)
 		)
 		(zone_connect 1)
-		(attr exclude_from_bom allow_soldermask_bridges)
+		(attr exclude_from_pos_files exclude_from_bom allow_soldermask_bridges)
 		(net_tie_pad_groups "1, 2")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_poly
@@ -48487,6 +53107,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC Number" "C146233"
+			(at 0 0 210.9)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "72a845fd-6244-4802-b3a2-f75e8f484583")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/ccc2051b-56a9-42dc-92a2-1228e16ef438")
 		(sheetname "/")
 		(sheetfile "eye-of-terror.kicad_sch")
@@ -48721,6 +53355,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC Number" "C163455"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "15e2faaf-4e34-40ff-809c-094890dd8451")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/12e13718-ba6c-4f71-bdd9-5898ac70e6e3")
 		(sheetname "/")
@@ -48935,6 +53583,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC Number" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "6858b29d-783e-4312-990e-dadf420f34e0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "SolderJumper*Bridged*")
 		(path "/1a2f2c22-70ad-44e1-ae37-530aa06933d8")
 		(sheetname "/")
@@ -48946,7 +53608,7 @@
 			)
 		)
 		(zone_connect 1)
-		(attr exclude_from_bom allow_soldermask_bridges)
+		(attr exclude_from_pos_files exclude_from_bom allow_soldermask_bridges)
 		(net_tie_pad_groups "1, 2")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_poly
@@ -49229,6 +53891,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC Number" "C146233"
+			(at 0 0 210.9)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "d006fe62-8612-4cdb-b02b-47b5d57bf58b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/77d04919-9641-4e0b-b8a5-6c9f416b78be")
 		(sheetname "/")
 		(sheetfile "eye-of-terror.kicad_sch")
@@ -49459,6 +54135,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC Number" "C146233"
+			(at 0 0 210.9)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "4ffa8197-b236-4158-ae0e-7e780795d0cf")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -49699,6 +54389,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC Number" "C146233"
+			(at 0 0 210.9)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "4b57667a-2c6d-4569-b53f-93d01d5aa0f6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/18d24230-4285-4d87-bff2-904452accc28")
 		(sheetname "/")
 		(sheetfile "eye-of-terror.kicad_sch")
@@ -49934,6 +54638,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC Number" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "f625f9a1-a5dc-4425-96b5-8082d05fa82f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "SolderJumper*Bridged*")
 		(path "/4ed61c4c-9c41-4717-8594-4ae7ce87b847")
 		(sheetname "/")
@@ -49945,7 +54663,7 @@
 			)
 		)
 		(zone_connect 1)
-		(attr exclude_from_bom allow_soldermask_bridges)
+		(attr exclude_from_pos_files exclude_from_bom allow_soldermask_bridges)
 		(net_tie_pad_groups "1, 2")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_poly
@@ -50228,6 +54946,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC Number" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "25b37df4-76d0-4ee5-8682-4d88ea17f8a8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "SolderJumper*Bridged*")
 		(path "/b14a98a8-1715-4e9e-bf08-a042735e5c3b")
 		(sheetname "/")
@@ -50239,7 +54971,7 @@
 			)
 		)
 		(zone_connect 1)
-		(attr exclude_from_bom allow_soldermask_bridges)
+		(attr exclude_from_pos_files exclude_from_bom allow_soldermask_bridges)
 		(net_tie_pad_groups "1, 2")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_poly
@@ -50535,6 +55267,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC Number" "C2984265"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "65e4b560-ac8f-406c-bf76-152226d95632")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/ad395562-923a-45b6-8498-870fb7803fdb")
 		(sheetname "/")
@@ -50771,6 +55517,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC Number" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "741695a9-17c9-4618-a514-8bcb1db66b20")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "Pin* Test*")
 		(path "/5a903274-fb18-4ce3-bdad-040f3c24cce8")
 		(sheetname "/")
@@ -50781,6 +55541,7 @@
 				(pins "1")
 			)
 		)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
 			(center 0 0)
@@ -50886,6 +55647,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC Number" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "70c1e834-9c64-4ec4-b83b-442f7b36d77b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "SolderJumper*Bridged*")
 		(path "/ef6b9c8a-a5f9-4d20-b2f9-c2deacb61d89")
 		(sheetname "/")
@@ -50897,7 +55672,7 @@
 			)
 		)
 		(zone_connect 1)
-		(attr exclude_from_bom allow_soldermask_bridges)
+		(attr exclude_from_pos_files exclude_from_bom allow_soldermask_bridges)
 		(net_tie_pad_groups "1, 2")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_poly
@@ -51180,6 +55955,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC Number" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "9d4eb614-6e42-43da-ad82-b1033c9f639a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "SolderJumper*Bridged*")
 		(path "/bed61787-7649-4370-8adb-6e856b7665eb")
 		(sheetname "/")
@@ -51191,7 +55980,7 @@
 			)
 		)
 		(zone_connect 1)
-		(attr exclude_from_bom allow_soldermask_bridges)
+		(attr exclude_from_pos_files exclude_from_bom allow_soldermask_bridges)
 		(net_tie_pad_groups "1, 2")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_poly
@@ -51474,6 +56263,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC Number" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "61c7b959-09f1-4f62-ac28-d778b261a88d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "SolderJumper*Bridged*")
 		(path "/505c8fd3-1fdd-4d07-b98e-4ac58eb7aabe")
 		(sheetname "/")
@@ -51485,7 +56288,7 @@
 			)
 		)
 		(zone_connect 1)
-		(attr exclude_from_bom allow_soldermask_bridges)
+		(attr exclude_from_pos_files exclude_from_bom allow_soldermask_bridges)
 		(net_tie_pad_groups "1, 2")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_poly
@@ -51767,6 +56570,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC Number" "C60490"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "5d863f18-feca-47c7-ac7a-9edfbb6b4125")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/4f644b20-dfae-4031-bd92-121864e28245")
 		(sheetname "/")
@@ -51981,6 +56798,20 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC Number" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "e00eb34a-7958-4a6b-9463-499034e3ee4b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "SolderJumper*Bridged*")
 		(path "/e2e97163-6a06-4f40-9480-86fce5ec2582")
 		(sheetname "/")
@@ -51992,7 +56823,7 @@
 			)
 		)
 		(zone_connect 1)
-		(attr exclude_from_bom allow_soldermask_bridges)
+		(attr exclude_from_pos_files exclude_from_bom allow_soldermask_bridges)
 		(net_tie_pad_groups "1, 2")
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_poly
@@ -68852,30 +73683,6 @@
 		(uuid "f9f8903b-c525-4e06-9bfe-f6b9dd391576")
 	)
 	(segment
-		(start 336.97 154.135)
-		(end 336.9 154.065)
-		(width 0.2)
-		(layer "F.Cu")
-		(net "VBUS")
-		(uuid "50918a5a-39e8-4dfd-b3d5-e1f84e36c898")
-	)
-	(segment
-		(start 336.9 154.065)
-		(end 336.9 152.335)
-		(width 0.2)
-		(layer "F.Cu")
-		(net "VBUS")
-		(uuid "53ea468e-ff57-486c-9bdb-1934988e899c")
-	)
-	(segment
-		(start 334.4 152.335)
-		(end 334.4 154.065)
-		(width 0.2)
-		(layer "F.Cu")
-		(net "VBUS")
-		(uuid "a6afccf8-ce5c-46b9-b12b-ecada8358beb")
-	)
-	(segment
 		(start 330.999999 150.235)
 		(end 330.999999 150.900001)
 		(width 0.15)
@@ -69440,6 +74247,30 @@
 		(layer "B.Cu")
 		(net "Net-(JP5-B)")
 		(uuid "f600d2ff-7616-4454-8581-2883633ad7db")
+	)
+	(segment
+		(start 336.97 154.135)
+		(end 336.9 154.065)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "Net-(D9-A)")
+		(uuid "50918a5a-39e8-4dfd-b3d5-e1f84e36c898")
+	)
+	(segment
+		(start 336.9 154.065)
+		(end 336.9 152.335)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "Net-(D9-A)")
+		(uuid "53ea468e-ff57-486c-9bdb-1934988e899c")
+	)
+	(segment
+		(start 334.4 152.335)
+		(end 334.4 154.065)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "Net-(D9-A)")
+		(uuid "a6afccf8-ce5c-46b9-b12b-ecada8358beb")
 	)
 	(zone
 		(net "+1V1")

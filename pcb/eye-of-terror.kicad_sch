@@ -24767,7 +24767,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "motor-phase-connection:THTPad_D5.0mm_Drill2.5mm"
 			(at 433.07 261.62 0)
 			(hide yes)
 			(show_name no)
@@ -29404,7 +29404,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "motor-phase-connection:THTPad_D5.0mm_Drill2.5mm"
 			(at 416.56 261.62 0)
 			(hide yes)
 			(show_name no)
@@ -33148,7 +33148,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "motor-phase-connection:THTPad_D5.0mm_Drill2.5mm"
 			(at 469.9 261.62 0)
 			(hide yes)
 			(show_name no)
@@ -42896,7 +42896,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "motor-phase-connection:THTPad_D5.0mm_Drill2.5mm"
 			(at 461.01 276.86 0)
 			(hide yes)
 			(show_name no)
@@ -45546,7 +45546,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "motor-phase-connection:THTPad_D5.0mm_Drill2.5mm"
 			(at 444.5 276.86 0)
 			(hide yes)
 			(show_name no)
@@ -46829,7 +46829,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "motor-phase-connection:THTPad_D5.0mm_Drill2.5mm"
 			(at 486.41 261.62 0)
 			(hide yes)
 			(show_name no)

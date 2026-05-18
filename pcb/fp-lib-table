@@ -9,4 +9,5 @@
 	(lib (name "ul_GT-USB-7055A") (type "KiCad") (uri "${KIPRJMOD}/models/ul_GT-USB-7055A.pretty") (options "") (descr ""))
 	(lib (name "rpi-lib-kicad-rp235x") (type "KiCad") (uri "${KIPRJMOD}/models/rpi-lib-kicad-rp235x.pretty") (options "") (descr ""))
 	(lib (name "ESD122DMXR") (type "KiCad") (uri "${KIPRJMOD}/models/ESD122DMXR.pretty") (options "") (descr ""))
+	(lib (name "motor-phase-connection") (type "KiCad") (uri "${KIPRJMOD}/models/motor-phase-connection.pretty") (options "") (descr ""))
 )

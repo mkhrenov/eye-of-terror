@@ -697,7 +697,7 @@
         "uuid": "39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
       }
     ],
-    "used_designators": "TP6-9",
+    "used_designators": "TP6-9,#PWR49-50,#PWR74,#PWR76,R20-23",
     "variants": []
   },
   "sheets": [

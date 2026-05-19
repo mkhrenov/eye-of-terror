@@ -10,4 +10,5 @@
 	(lib (name "rpi-lib-kicad-rp235x") (type "KiCad") (uri "${KIPRJMOD}/models/rpi-lib-kicad-rp235x.pretty") (options "") (descr ""))
 	(lib (name "ESD122DMXR") (type "KiCad") (uri "${KIPRJMOD}/models/ESD122DMXR.pretty") (options "") (descr ""))
 	(lib (name "motor-phase-connection") (type "KiCad") (uri "${KIPRJMOD}/models/motor-phase-connection.pretty") (options "") (descr ""))
+	(lib (name "USB4120-03-C") (type "KiCad") (uri "${KIPRJMOD}/models/USB4120-03-C.pretty") (options "") (descr ""))
 )

@@ -83,7 +83,7 @@
         "footprint_symbol_mismatch": "warning",
         "footprint_type_mismatch": "ignore",
         "hole_clearance": "error",
-        "hole_to_hole": "warning",
+        "hole_to_hole": "error",
         "holes_co_located": "warning",
         "invalid_outline": "error",
         "isolated_copper": "warning",
@@ -932,7 +932,7 @@
         "uuid": "39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
       }
     ],
-    "used_designators": "TP11-12,#PWR92,#PWR97,NT3",
+    "used_designators": "#PWR98-101,NT4-5",
     "variants": []
   },
   "sheets": [

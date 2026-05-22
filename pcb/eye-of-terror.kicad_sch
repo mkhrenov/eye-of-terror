@@ -10738,6 +10738,16 @@
 	)
 	(wire
 		(pts
+			(xy 227.33 323.85) (xy 227.33 326.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "01b32794-f82b-43f8-88d8-164e319ae7c5")
+	)
+	(wire
+		(pts
 			(xy 341.63 259.08) (xy 351.79 259.08)
 		)
 		(stroke
@@ -10788,7 +10798,7 @@
 	)
 	(wire
 		(pts
-			(xy 189.23 309.88) (xy 189.23 312.42)
+			(xy 177.8 311.15) (xy 177.8 313.69)
 		)
 		(stroke
 			(width 0)
@@ -11108,6 +11118,16 @@
 	)
 	(wire
 		(pts
+			(xy 220.98 323.85) (xy 227.33 323.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0fb91c3b-361c-40f5-8a90-7155de246f58")
+	)
+	(wire
+		(pts
 			(xy 162.56 242.57) (xy 165.1 242.57)
 		)
 		(stroke
@@ -11218,7 +11238,7 @@
 	)
 	(wire
 		(pts
-			(xy 189.23 322.58) (xy 200.66 322.58)
+			(xy 177.8 323.85) (xy 185.42 323.85)
 		)
 		(stroke
 			(width 0)
@@ -11475,6 +11495,16 @@
 			(type default)
 		)
 		(uuid "212bdf56-42b3-43ea-904a-2ceef43eb46e")
+	)
+	(wire
+		(pts
+			(xy 208.28 323.85) (xy 215.9 323.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "214513cd-124b-4d9b-a0dc-130afb322a26")
 	)
 	(wire
 		(pts
@@ -12068,7 +12098,7 @@
 	)
 	(wire
 		(pts
-			(xy 189.23 335.28) (xy 189.23 337.82)
+			(xy 177.8 336.55) (xy 177.8 339.09)
 		)
 		(stroke
 			(width 0)
@@ -12308,7 +12338,7 @@
 	)
 	(wire
 		(pts
-			(xy 205.74 335.28) (xy 217.17 335.28)
+			(xy 190.5 336.55) (xy 196.85 336.55)
 		)
 		(stroke
 			(width 0)
@@ -13008,6 +13038,16 @@
 	)
 	(wire
 		(pts
+			(xy 227.33 311.15) (xy 227.33 313.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5e9b8d9b-3c0c-4042-a2e1-d205c20d0080")
+	)
+	(wire
+		(pts
 			(xy 279.4 52.07) (xy 284.48 52.07)
 		)
 		(stroke
@@ -13458,7 +13498,7 @@
 	)
 	(wire
 		(pts
-			(xy 205.74 309.88) (xy 217.17 309.88)
+			(xy 190.5 311.15) (xy 196.85 311.15)
 		)
 		(stroke
 			(width 0)
@@ -13908,7 +13948,7 @@
 	)
 	(wire
 		(pts
-			(xy 189.23 335.28) (xy 200.66 335.28)
+			(xy 177.8 336.55) (xy 185.42 336.55)
 		)
 		(stroke
 			(width 0)
@@ -13988,7 +14028,7 @@
 	)
 	(wire
 		(pts
-			(xy 189.23 309.88) (xy 200.66 309.88)
+			(xy 177.8 311.15) (xy 185.42 311.15)
 		)
 		(stroke
 			(width 0)
@@ -14018,7 +14058,7 @@
 	)
 	(wire
 		(pts
-			(xy 217.17 309.88) (xy 217.17 312.42)
+			(xy 196.85 311.15) (xy 196.85 313.69)
 		)
 		(stroke
 			(width 0)
@@ -14158,7 +14198,7 @@
 	)
 	(wire
 		(pts
-			(xy 217.17 322.58) (xy 217.17 325.12)
+			(xy 196.85 323.85) (xy 196.85 326.39)
 		)
 		(stroke
 			(width 0)
@@ -14298,7 +14338,7 @@
 	)
 	(wire
 		(pts
-			(xy 189.23 322.58) (xy 189.23 325.12)
+			(xy 177.8 323.85) (xy 177.8 326.39)
 		)
 		(stroke
 			(width 0)
@@ -15298,6 +15338,16 @@
 	)
 	(wire
 		(pts
+			(xy 208.28 311.15) (xy 215.9 311.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ac60aa13-ddf2-45b5-8163-ae7f9a7da398")
+	)
+	(wire
+		(pts
 			(xy 72.39 36.83) (xy 72.39 38.1)
 		)
 		(stroke
@@ -15498,6 +15548,16 @@
 	)
 	(wire
 		(pts
+			(xy 208.28 311.15) (xy 208.28 313.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b403ae58-dd8d-4995-8662-478fd695d7fb")
+	)
+	(wire
+		(pts
 			(xy 208.28 283.21) (xy 190.5 283.21)
 		)
 		(stroke
@@ -15608,7 +15668,7 @@
 	)
 	(wire
 		(pts
-			(xy 205.74 322.58) (xy 217.17 322.58)
+			(xy 190.5 323.85) (xy 196.85 323.85)
 		)
 		(stroke
 			(width 0)
@@ -16248,6 +16308,16 @@
 	)
 	(wire
 		(pts
+			(xy 220.98 311.15) (xy 227.33 311.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d156abfd-f0f9-40c4-ae3f-cb763fa78826")
+	)
+	(wire
+		(pts
 			(xy 350.52 52.07) (xy 361.95 52.07)
 		)
 		(stroke
@@ -16278,7 +16348,7 @@
 	)
 	(wire
 		(pts
-			(xy 217.17 335.28) (xy 217.17 337.82)
+			(xy 196.85 336.55) (xy 196.85 339.09)
 		)
 		(stroke
 			(width 0)
@@ -16675,6 +16745,16 @@
 			(type default)
 		)
 		(uuid "df2d5ca1-7d59-42a5-93ec-5707a5a8cc40")
+	)
+	(wire
+		(pts
+			(xy 208.28 323.85) (xy 208.28 326.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "df634a21-0713-49bc-bc3c-cfce768ca26e")
 	)
 	(wire
 		(pts
@@ -21689,6 +21769,97 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:NetTie_2")
+		(at 218.44 323.85 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "1613ab29-38c5-4260-888c-609659f542cb")
+		(property "Reference" "NT5"
+			(at 218.44 322.58 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "NetTie_2"
+			(at 218.44 321.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "NetTie:NetTie-2_SMD_Pad2.0mm"
+			(at 218.44 323.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 218.44 323.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Net tie, 2 pins"
+			(at 218.44 323.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Number" ""
+			(at 218.44 323.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "1d460459-0be7-4502-b0eb-3b752e4e93df")
+		)
+		(pin "1"
+			(uuid "a8c47e72-1a9e-41e2-a4c3-f8f82d7853d9")
+		)
+		(instances
+			(project "eye-of-terror"
+				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
+					(reference "NT5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Jumper:SolderJumper_2_Bridged")
 		(at 222.25 215.9 90)
 		(unit 1)
@@ -23968,7 +24139,7 @@
 	)
 	(symbol
 		(lib_id "Device:NetTie_2")
-		(at 203.2 322.58 0)
+		(at 187.96 323.85 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -23978,7 +24149,7 @@
 		(dnp no)
 		(uuid "2e18cc95-d266-44ba-83fb-9961f6ad65e6")
 		(property "Reference" "NT2"
-			(at 203.2 321.31 0)
+			(at 187.96 322.58 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -23988,7 +24159,7 @@
 			)
 		)
 		(property "Value" "NetTie_2"
-			(at 203.2 320.04 0)
+			(at 187.96 321.31 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23999,7 +24170,7 @@
 			)
 		)
 		(property "Footprint" "NetTie:NetTie-2_SMD_Pad2.0mm"
-			(at 203.2 322.58 0)
+			(at 187.96 323.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24010,7 +24181,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 203.2 322.58 0)
+			(at 187.96 323.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24021,7 +24192,7 @@
 			)
 		)
 		(property "Description" "Net tie, 2 pins"
-			(at 203.2 322.58 0)
+			(at 187.96 323.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24032,7 +24203,7 @@
 			)
 		)
 		(property "LCSC Number" ""
-			(at 203.2 322.58 0)
+			(at 187.96 323.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24503,6 +24674,84 @@
 			(project "eye-of-terror"
 				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
 					(reference "C4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 227.33 313.69 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "32b98c0e-f556-4f29-83ac-089f03e51732")
+		(property "Reference" "#PWR099"
+			(at 227.33 320.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "DGND"
+			(at 227.33 318.77 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 227.33 313.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 227.33 313.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 227.33 313.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "4b8488a7-4782-4730-ad18-bff0788dafe7")
+		)
+		(instances
+			(project "eye-of-terror"
+				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
+					(reference "#PWR099")
 					(unit 1)
 				)
 			)
@@ -25177,7 +25426,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 217.17 325.12 0)
+		(at 196.85 326.39 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -25188,7 +25437,7 @@
 		(fields_autoplaced yes)
 		(uuid "36c5d4d0-c838-443e-8536-3be6f995ae68")
 		(property "Reference" "#PWR086"
-			(at 217.17 331.47 0)
+			(at 196.85 332.74 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25199,7 +25448,7 @@
 			)
 		)
 		(property "Value" "DGND"
-			(at 217.17 330.2 0)
+			(at 196.85 331.47 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -25209,7 +25458,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 217.17 325.12 0)
+			(at 196.85 326.39 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25220,7 +25469,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 217.17 325.12 0)
+			(at 196.85 326.39 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25231,7 +25480,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 217.17 325.12 0)
+			(at 196.85 326.39 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27546,7 +27795,7 @@
 	)
 	(symbol
 		(lib_id "Device:NetTie_2")
-		(at 203.2 335.28 0)
+		(at 187.96 336.55 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -27556,7 +27805,7 @@
 		(dnp no)
 		(uuid "49800244-d65c-46a6-a20f-d4d113ba8147")
 		(property "Reference" "NT3"
-			(at 203.2 334.01 0)
+			(at 187.96 335.28 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -27566,7 +27815,7 @@
 			)
 		)
 		(property "Value" "NetTie_2"
-			(at 203.2 332.74 0)
+			(at 187.96 334.01 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27577,7 +27826,7 @@
 			)
 		)
 		(property "Footprint" "NetTie:NetTie-2_SMD_Pad2.0mm"
-			(at 203.2 335.28 0)
+			(at 187.96 336.55 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27588,7 +27837,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 203.2 335.28 0)
+			(at 187.96 336.55 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27599,7 +27848,7 @@
 			)
 		)
 		(property "Description" "Net tie, 2 pins"
-			(at 203.2 335.28 0)
+			(at 187.96 336.55 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27610,7 +27859,7 @@
 			)
 		)
 		(property "LCSC Number" ""
-			(at 203.2 335.28 0)
+			(at 187.96 336.55 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28161,7 +28410,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 189.23 337.82 0)
+		(at 177.8 339.09 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -28172,7 +28421,7 @@
 		(fields_autoplaced yes)
 		(uuid "4ebc4399-7ea8-4c4a-a54b-185d176fd566")
 		(property "Reference" "#PWR092"
-			(at 189.23 344.17 0)
+			(at 177.8 345.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28183,7 +28432,7 @@
 			)
 		)
 		(property "Value" "PGND"
-			(at 189.23 342.9 0)
+			(at 177.8 344.17 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -28193,7 +28442,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 189.23 337.82 0)
+			(at 177.8 339.09 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28204,7 +28453,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 189.23 337.82 0)
+			(at 177.8 339.09 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28215,7 +28464,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 189.23 337.82 0)
+			(at 177.8 339.09 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31012,6 +31261,97 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:NetTie_2")
+		(at 218.44 311.15 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "5ec995ee-c839-4dbd-a535-16134607f9ca")
+		(property "Reference" "NT4"
+			(at 218.44 309.88 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "NetTie_2"
+			(at 218.44 308.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "NetTie:NetTie-2_SMD_Pad2.0mm"
+			(at 218.44 311.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 218.44 311.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Net tie, 2 pins"
+			(at 218.44 311.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Number" ""
+			(at 218.44 311.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "90da1765-52a3-490c-a26f-1df942ddedc6")
+		)
+		(pin "1"
+			(uuid "6f66da63-e28e-49b4-b5ac-7044f4ef5621")
+		)
+		(instances
+			(project "eye-of-terror"
+				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
+					(reference "NT4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R_Small_US")
 		(at 525.78 259.08 90)
 		(mirror x)
@@ -31178,6 +31518,84 @@
 			(project "eye-of-terror"
 				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
 					(reference "#PWR06")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 227.33 326.39 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6016e9ac-46ab-4bec-8bd6-bf7cf0a37de9")
+		(property "Reference" "#PWR0101"
+			(at 227.33 332.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "DGND"
+			(at 227.33 331.47 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 227.33 326.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 227.33 326.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 227.33 326.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "ba0649b0-b4d9-4bea-8076-49d4a8652e38")
+		)
+		(instances
+			(project "eye-of-terror"
+				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
+					(reference "#PWR0101")
 					(unit 1)
 				)
 			)
@@ -34093,6 +34511,84 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 208.28 326.39 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7cfbafc2-496d-4e97-ae6c-0a7c7b97868b")
+		(property "Reference" "#PWR0100"
+			(at 208.28 332.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "PGND"
+			(at 208.28 331.47 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 208.28 326.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 208.28 326.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 208.28 326.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "ec855f3d-e4c5-4b19-b1a5-314af65bda43")
+		)
+		(instances
+			(project "eye-of-terror"
+				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
+					(reference "#PWR0100")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:+3V3")
 		(at 525.78 182.88 0)
 		(unit 1)
@@ -35304,7 +35800,7 @@
 	)
 	(symbol
 		(lib_id "Device:NetTie_2")
-		(at 203.2 309.88 0)
+		(at 187.96 311.15 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -35314,7 +35810,7 @@
 		(dnp no)
 		(uuid "85892cf0-e1a9-4174-96ec-9f24f9dbab95")
 		(property "Reference" "NT1"
-			(at 203.2 308.61 0)
+			(at 187.96 309.88 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -35324,7 +35820,7 @@
 			)
 		)
 		(property "Value" "NetTie_2"
-			(at 203.2 307.34 0)
+			(at 187.96 308.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -35335,7 +35831,7 @@
 			)
 		)
 		(property "Footprint" "NetTie:NetTie-2_SMD_Pad2.0mm"
-			(at 203.2 309.88 0)
+			(at 187.96 311.15 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -35346,7 +35842,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 203.2 309.88 0)
+			(at 187.96 311.15 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -35357,7 +35853,7 @@
 			)
 		)
 		(property "Description" "Net tie, 2 pins"
-			(at 203.2 309.88 0)
+			(at 187.96 311.15 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -35368,7 +35864,7 @@
 			)
 		)
 		(property "LCSC Number" ""
-			(at 203.2 309.88 0)
+			(at 187.96 311.15 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -35395,7 +35891,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 217.17 312.42 0)
+		(at 196.85 313.69 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -35406,7 +35902,7 @@
 		(fields_autoplaced yes)
 		(uuid "86877de8-302e-4cc6-bc09-c15c5490b9c0")
 		(property "Reference" "#PWR077"
-			(at 217.17 318.77 0)
+			(at 196.85 320.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -35417,7 +35913,7 @@
 			)
 		)
 		(property "Value" "DGND"
-			(at 217.17 317.5 0)
+			(at 196.85 318.77 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -35427,7 +35923,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 217.17 312.42 0)
+			(at 196.85 313.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -35438,7 +35934,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 217.17 312.42 0)
+			(at 196.85 313.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -35449,7 +35945,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 217.17 312.42 0)
+			(at 196.85 313.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -38053,7 +38549,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 217.17 337.82 0)
+		(at 196.85 339.09 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -38064,7 +38560,7 @@
 		(fields_autoplaced yes)
 		(uuid "9ce3f2f7-a6a1-4ac7-8de7-f9eb9c6317c6")
 		(property "Reference" "#PWR097"
-			(at 217.17 344.17 0)
+			(at 196.85 345.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -38075,7 +38571,7 @@
 			)
 		)
 		(property "Value" "DGND"
-			(at 217.17 342.9 0)
+			(at 196.85 344.17 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -38085,7 +38581,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 217.17 337.82 0)
+			(at 196.85 339.09 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -38096,7 +38592,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 217.17 337.82 0)
+			(at 196.85 339.09 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -38107,7 +38603,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 217.17 337.82 0)
+			(at 196.85 339.09 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -38131,7 +38627,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 189.23 325.12 0)
+		(at 177.8 326.39 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -38142,7 +38638,7 @@
 		(fields_autoplaced yes)
 		(uuid "9d1882ef-ba5c-49ae-8740-2b87d4e554bb")
 		(property "Reference" "#PWR085"
-			(at 189.23 331.47 0)
+			(at 177.8 332.74 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -38153,7 +38649,7 @@
 			)
 		)
 		(property "Value" "PGND"
-			(at 189.23 330.2 0)
+			(at 177.8 331.47 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -38163,7 +38659,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 189.23 325.12 0)
+			(at 177.8 326.39 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -38174,7 +38670,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 189.23 325.12 0)
+			(at 177.8 326.39 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -38185,7 +38681,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 189.23 325.12 0)
+			(at 177.8 326.39 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -42266,6 +42762,84 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 208.28 313.69 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b6ed8b15-16df-470e-bd07-2379105d0dce")
+		(property "Reference" "#PWR098"
+			(at 208.28 320.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "PGND"
+			(at 208.28 318.77 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 208.28 313.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 208.28 313.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 208.28 313.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "5ad0af93-2d9d-4a11-a7b1-760f665c37d8")
+		)
+		(instances
+			(project "eye-of-terror"
+				(path "/39a8340e-8573-4ee6-a9e8-ae7a8efb30e4"
+					(reference "#PWR098")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:+3V3")
 		(at 101.6 273.05 0)
 		(unit 1)
@@ -42906,7 +43480,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 189.23 312.42 0)
+		(at 177.8 313.69 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -42917,7 +43491,7 @@
 		(fields_autoplaced yes)
 		(uuid "bd691834-8b18-4e69-85b2-fcf65da8162a")
 		(property "Reference" "#PWR084"
-			(at 189.23 318.77 0)
+			(at 177.8 320.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -42928,7 +43502,7 @@
 			)
 		)
 		(property "Value" "PGND"
-			(at 189.23 317.5 0)
+			(at 177.8 318.77 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -42938,7 +43512,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 189.23 312.42 0)
+			(at 177.8 313.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -42949,7 +43523,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 189.23 312.42 0)
+			(at 177.8 313.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -42960,7 +43534,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 189.23 312.42 0)
+			(at 177.8 313.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -49338,7 +49912,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm"
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm"
 			(at 567.69 261.62 0)
 			(hide yes)
 			(show_name no)

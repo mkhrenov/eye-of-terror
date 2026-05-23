@@ -1,0 +1,95 @@
+(footprint "shielding"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -0.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "b612312a-d987-4d01-855d-8f4c055da4e7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "shielding"
+		(at 0 1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "337e101f-3dd9-4746-a5b4-c5f6ac43cdd9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a7fd0381-7b94-4546-b668-30099e9a2851")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5f1216e2-2808-4104-93a8-202ef006f6fd")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_poly
+		(pts
+			(xy -3.706196 -9.222743) (xy 9.2 -9.222743) (xy 9.2 9.077257) (xy -1.206196 9.077257) (xy -10.406196 0.077257)
+		)
+		(stroke
+			(width 1)
+			(type dot)
+		)
+		(fill no)
+		(layer "Dwgs.User")
+		(uuid "798773c2-9b00-497a-ac83-c3410e7f5c16")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 2.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "cf9add13-6012-4d30-8307-38aa4e532a88")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -7.4 0.7)
+		(size 5.394189 0.925914)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "bb5ffe27-56be-4687-a7b8-c3be91b09ad0")
+	)
+	(pad "1" smd rect
+		(at -1.385343 -9.245374)
+		(size 5.394189 0.925914)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "8ce05503-80c0-4e8c-aa58-a4837bef2401")
+	)
+	(embedded_fonts no)
+)

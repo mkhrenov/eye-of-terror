@@ -42026,7 +42026,7 @@
 		(fields_autoplaced yes)
 		(uuid "b1b24fe6-db7c-49b9-9b8a-90a423a1485a")
 		(property "Reference" "TP10"
-			(at 154.94 175.7679 0)
+			(at 154.94 177.0379 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -42048,7 +42048,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "rpi-lib-kicad-rp235x:shielding"
 			(at 157.48 180.34 0)
 			(hide yes)
 			(show_name no)

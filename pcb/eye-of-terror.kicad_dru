@@ -13,12 +13,12 @@
 	(condition "A.Type == 'track' && B.Type == A.Type"))
 
 (rule "Minimum Trace Width and Spacing (inner layer)"
-	(constraint track_width (min 3.5mil))
+	(constraint track_width (min 0.10mm))
 	(layer inner)
 	(condition "A.Type == 'track'"))
 
 (rule "Minimum Trace Spacing (inner layer)"
-	(constraint clearance (min 3.5mil))
+	(constraint clearance (min 0.10mm))
 	(layer inner)
 	(condition "A.Type == 'track' && B.Type == A.Type"))
 

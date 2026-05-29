@@ -1,12 +1,12 @@
 %TF.GenerationSoftware,KiCad,Pcbnew,10.0.1*%
-%TF.CreationDate,2026-05-25T11:41:57-07:00*%
+%TF.CreationDate,2026-05-27T22:48:48-07:00*%
 %TF.ProjectId,eye-of-terror,6579652d-6f66-42d7-9465-72726f722e6b,rev?*%
 %TF.SameCoordinates,Original*%
 %TF.FileFunction,Copper,L4,Bot*%
 %TF.FilePolarity,Positive*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 10.0.1) date 2026-05-25 11:41:57*
+G04 Created by KiCad (PCBNEW 10.0.1) date 2026-05-27 22:48:48*
 %MOMM*%
 %LPD*%
 G01*
@@ -1717,7 +1717,7 @@ X310300000Y-158100000D03*
 X349000000Y-165700000D03*
 X364000000Y-200200000D03*
 %TO.N,/ENC_SENSE_1*%
-X310400000Y-159300000D03*
+X310600000Y-158900000D03*
 X352200000Y-270644896D03*
 %TO.N,/ENC_SENSE_2*%
 X310100000Y-160600000D03*
